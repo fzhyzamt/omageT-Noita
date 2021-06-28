@@ -1,0 +1,2896 @@
+PAUSED	暂停	menu_paused
+Continue	继续	menu_continue
+Options	选项	menu_options
+Stats	选项	menu_stats
+Progress	进展	menu_progress
+Release Notes	发行说明	menu_releasenotes
+Credits	制作组	menu_credits
+New Game	新游戏	menu_newgame
+Daily Run	每日挑战	menu_dailyrun
+Save & Quit	保存并退出	menu_saveandquit
+Return	返回	menu_return
+Apply & Return	应用并返回	menu_applyandreturn
+Cancel	取消	menu_cancel
+Yes	是	menu_yes
+No	否	menu_no
+Ok	确定	menu_ok
+High	高	menu_high
+Medium	中	menu_medium
+Low	低	menu_low
+On	开	option_on
+Off	关	option_off
+Adaptive	自适应	option_adaptive
+Are you sure you want to start a new game? All progress from current run will be lost.	确定要开始新的游戏吗？当前游戏的进展将会丢失。	menu_newgame_areyousure
+Window mode: $0	窗口模式：$0	menuoptions_windowmode
+Windowed	窗口化	windowmode_windowed
+Fullscreen (windowed)	全屏（窗口）	windowmode_fullscreen
+Fullscreen (real)	全屏（完全）	windowmode_fullscreen_real
+Resolution: $0	分辨率：$0	menuoptions_resolution
+ - WARNING: Might be illegible!	- 警告：画面可能难以辨识！	menuoptions_resolution_illegible
+Use current display's resolution	使用当前显示分辨率	menuoptions_matchresolution
+Apply display settings	应用显示设置	menuoptions_applydisplay
+Rendering quality	渲染质量	menuoptions_renderingquality
+Low quality rendering: $0	低质量渲染：$0	menuoptions_lowqualityrendering
+Vsync: $0	垂直同步：$0	menuoptions_vsync
+Do you want to keep the new display settings? Old settings will be restored in $0 seconds.	要保留新的显示设置吗？$0 秒后将还原旧设置。	menuoptions_display_areyousure
+Reset all progress	重置所有进展	menuoptions_resetsave
+Are you sure you want to reset all progress? This cannot be undone!	确定要重置所有进展吗？此操作无法撤销！	menuoptions_resetsave_areyousure
+New Game	新游戏	menugameover_newgame
+Save death replay	保存死亡回放	menugameover_savereplay
+Quit	退出	menugameover_quit
+COMPLETED THE GAME!	游戏完成！	menugameover_gamecompleted
+You are dead - click here for stats	你死掉了 - 点击此处查看统计	menugameover_nextbutton
+RECORDS	记录	menugameover_records
+Pixel art anti-aliasing: $0	像素抗锯齿：$0	menuoptions_pixelart_aa
+Low resolution rendering: $0	低分辨率渲染：$0	menuoptions_lowres
+EXPERIMENTAL. Might cause minor rendering glitches.	试验性功能。可能导致少量渲染错误。	menuoptions_lowres_tooltip_exp
+Improves rendering performance, but might cause minor rendering glitches.	提升渲染表现，但可能导致少量渲染错误。	menuoptions_lowres_tooltip
+Brightness	亮度	menuoptions_brightness
+Contrast	对比度	menuoptions_contrast
+Gamma	伽马校正	menuoptions_gamma
+Right click to reset to default.	右键单击以重置为默认值。	menuoptions_reset_keyboard
+Press B to reset to default.	按 B 键重置为默认值。	menuoptions_reset_gamepad
+Music volume	音乐音量	menuoptions_musicvolume
+Sound effect volume	音效音量	menuoptions_soundsvolume
+Configure controls	按键设置	menuoptions_configurecontrols
+Reset all to default	全部重置为默认值	menuoptions_configurecontrols_reset_all
+Press the key or button for $0	按下用于“$0”的键或按钮	menuoptions_configurecontrols_rebind_keyboard
+Press the button for $0	按下用于“$0”的按钮	menuoptions_configurecontrols_rebind_gamepad
+Gamepad: $0	游戏手柄：$0	menuoptions_controls
+Mouse sensitivity	鼠标灵敏度	menuoptions_mousesensitivity
+Mouse + Keyboard	鼠标 + 键盘	menuoptions_controls_keyboard
+Auto-detect	自动检测	menuoptions_controls_autodetectgamepad
+Gamepad rumble intensity	游戏手柄振动强度	menuoptions_gamepad_rumble
+Click on icon switches item: $0	点击图标切换物品：$0	menuoptions_ui_inventory_icons_always_clickable
+Game renders the cursor: $0	游戏渲染光标：$0	menuoptions_application_rendered_cursor
+Screen shake intensity	画面振动强度	menuoptions_screenshake_intensity
+Damage numbers: $0	伤害数值：$0	menuoptions_damagenumbers
+Replay recorder: $0	回放录像机：$0	menuoptions_replayrecorder
+Check for updates: $0	检查更新：$0	menuoptions_checkforupdates
+Language: English	语言 (Language)：简体中文(伟大之作.汉化)	menuoptions_language
+NEW UPDATE AVAILABLE	有新的更新	menuupdatenotification_title
+A new build of Noita is now available!\nClick here for release notes	新版本《Noita》现已上线！\n单击此处查看发行说明	menuupdatenotification_description_generic
+No release notes available	没有可用的更新说明	menureleasenotes_notavailable
+Welcome to Noita!\nNoita is an early access game.\nIt contains bugs and may even sometimes crash!\nWe're working hard to fix things and add new features.	欢迎来到《Noita》！\n《Noita》目前处于抢先体验阶段。\n游戏可能包含错误，甚至会崩溃！\n我们正努力对这些问题进行修复，同时为游戏追加新的内容。	menureleasenotes_eawarning
+up	向上	controls_up
+down	向下	controls_down
+left	向左	controls_left
+right	向右	controls_right
+spray from potion	喷洒烧瓶	controls_sprayflask
+throw	投掷	controls_throw
+kick	踢击	controls_kick
+open/close inventory	开启/关闭物品栏	controls_inventory
+next item	下个物品	controls_itemnext
+previous item	上个物品	controls_itemprev
+select item in slot 1	选择 1 号槽物品	controls_itemslot1
+select item in slot 2	选择 2 号槽物品	controls_itemslot2
+select item in slot 3	选择 3 号槽物品	controls_itemslot3
+select item in slot 4	选择 4 号槽物品	controls_itemslot4
+select item in slot 5	选择 5 号槽物品	controls_itemslot5
+select item in slot 6	选择 6 号槽物品	controls_itemslot6
+select item in slot 7	选择 7 号槽物品	controls_itemslot7
+select item in slot 8	选择 8 号槽物品	controls_itemslot8
+select item in slot 9	选择 9 号槽物品	controls_itemslot9
+select item in slot 10	选择 10 号槽物品	controls_itemslot10
+pause/close	暂停/关闭	controls_escape
+o2	氧气	hud_air_unit
+Air: $0 / $1	空气：$0 / $1	hud_air
+Health: $0 / $1	生命值：$0 / $1	hud_health
+Levitation energy: $0 / $1	浮空能量：$0 / $1	hud_jetpack
+Wand mana: $0 / $1	魔杖法力：$0 / $1	hud_wand_mana
+Wand recharge: $0 s	魔杖充能：$0 秒	hud_wand_reload
+Gold: $0	黄金：$0	hud_gold
+Orbs collected: $0	获得魔球：$0	hud_orbs
+WANDS	魔杖	hud_title_wands
+ITEMS	物品	hud_title_throwables
+SPELLS	法术	hud_title_actionstorage
+NEW WAND	新魔杖	menu_newwand_title
+Press $0 again to pick the wand	再按一次 $0 拾起魔杖	menu_newwand_pressagain_pick
+Press $0 to cancel	按 $0 取消	menu_newwand_pressagain_cancel
+WHICH WAND DO YOU WANT TO DROP?	希望丢弃哪支魔杖？	menu_newwand_whichwand_gamepad
+WHICH WAND DO YOU WANT TO DROP? (Click it!)	希望丢弃哪支魔杖？（请点击！）	menu_newwand_whichwand_keyboard
+$0 - empty slot	$0 - 空槽	menu_newwand_emptyslot
+Press $0 again to pick the book	再按一次 $0 拾起魔法书	menu_newbook_pressagain_pick
+Press $0 to close	按 $0 关闭	menu_newbook_pressagain_close
+Empty	空	item_empty
+Wand	魔杖	item_wand
+Potion	烧瓶	item_potion
+Cocktail	鸡尾酒	item_cocktail
+Orb	魔球	item_orb
+Equip and throw	可饮用或投掷	item_description_potion
+Equip and throw	可投掷	item_description_egg
+$0 potion	$0烧瓶	item_potion_with_material
+ ($0% full)	（$0% 剩余）	item_potion_fullness
+Empty	空	item_potion_empty
+Egg	蛋	item_egg
+Treasure chest	宝箱	item_chest_treasure
+Gold nugget	金块	item_goldnugget
+Extra max HP	追加生命值上限	item_heart
+Large extra max HP	大幅追加生命值上限	item_heart_better
+Full health regeneration	完全生命值恢复	item_heart_fullhp
+Unidentified item	未鉴定的物品	item_unidentified
+Not enough gold to purchase '$0'	黄金不足以购买“$0”	itempickup_notenoughgold
+Press $0 to purchase '$1'	按 $0 购买“$1”	itempickup_purchase
+Press $0 to pick '$1'	按 $0 拾取“$1”	itempickup_pick
+Press $0 to read '$1'	按 $0 阅读“$1”	itempickup_read
+Press $0 to purchase '$1' and swap an item with it	按 $0 购买“$1”并将一件物品与其交换	itempickup_purchase_swap
+Press $0 to swap an item with '$1'	按 $0 将一件物品与“$1”交换	itempickup_pick_swap
+Cannot pick '$0'. Please get rid of an item to make space for it	无法拾取“$0”。请丢弃一件物品以腾出空间	itempickup_cannotpick
+Close the inventory first to pick '$0'	拾取“$0”前请先关闭物品栏	itempickup_cannotpick_closeinventory
+Press $0 to tinker with wands	按 $0 对魔杖进行修改	hint_editwands
+Press $0 to complete the Work	按 $0 完成“伟大之作”	hint_endingmcguffin_use
+$0 	$0 	log_pickedup_perk
+Picked up $0	已拾取“$0”	log_pickedup
+Equipped $0	已装备“$0”	log_equipped
+Entered $0	已进入“$0”	log_entered
+Damage: $0	伤害：$0	log_damage
+Death: $0	死亡：$0	log_death
+Teleported!	已传送！	log_teleported
+Something entered a teleport nearby	有什么东西在附近传送了	log_teleported_something
+Saving Grace saved you!	“死里逃生”让你免于死亡！	log_gamefx_savinggrace
+You get one more chance!	你还有一次机会！	log_gamefx_respawn
+Extra life saved you	“额外生命”让你续了一条命！	logdesc_gamefx_respawn
+RECHARGING..	正在充能...	log_recharging
+Temporarily blinded!	暂时失明！	log_blindness
+Polymorphed!	被变形了！	log_polymorph
+BLOCK	格挡	log_block_attack
+RESURRECTED	复活	log_coop_resurrected
+Resurrected player $0!	复活了玩家“$0”！	log_coop_resurrected_player
+Partner is dead!	小伙伴挂了！	log_coop_partner_is_dead
+CO-OP!	合作！	log_coop_started
+Opened a treasure chest!	已开启一个宝箱！	log_chest
+You got $0 gold!	获得 $0 黄金！	logdesc_chest_gold
+Picked up Extra Max Health	已拾取“追加生命值上限”	log_heart
+Increased maximum health to $0	将生命值上限提高为 $0	logdesc_heart
+Increased maximum health to $0 ..but some sort of curse blocked the increase of maximum health!	将生命值上限提高为 $0...但某种诅咒阻碍了生命值上限的提升！	logdesc_heart_blocked
+Picked up Extra Max Health	已拾取“追加生命值上限”	log_heart_better
+Increased maximum health to $0	将生命值上限提高为 $0	logdesc_heart_better
+Picked up Full Health Regeneration	已拾取“完全生命值恢复”	log_heart_fullhp
+You have discovered $0	你发现了“$0”	log_discovered
+Sort	排序	inventory_sort
+Shuffle	乱序	inventory_shuffle
+Wands that shuffle cast their spells in random order.	以随机乱序施放法术的魔杖。	inventory_shuffle_tooltip
+Spells/Cast	法术数/施放	inventory_actionspercast
+The number of spells this wand casts when used.	使用这支魔杖时，施放的法术数量。	inventory_actionspercast_tooltip
+Cast delay	施放延迟	inventory_castdelay
+The time between casts.	法术施放的时间间隔。	inventory_castdelay_tooltip
+Rechrg. Time	充能时间	inventory_rechargetime
+The time it takes for this wand to recharge when all spells inside it have been cast.	魔杖内所有法术均被施放后所需的充能时间。	inventory_rechargetime_tooltip
+Mana max	法力最大值	inventory_manamax
+Maximum amount of mana this wand can store.	这支魔杖可储存的最大法力值。	inventory_manamax_tooltip
+Mana chg. Spd	法力充能速度	inventory_manachargespeed
+This wand's mana regeneration speed.	这支魔杖的法力回复速度。	inventory_manachargespeed_tooltip
+Capacity	容量	inventory_capacity
+The number of spells that can be inserted into this wand.	可插入这支魔杖的法术数量。	inventory_capacity_tooltip
+Spread	散射角度	inventory_spread
+The directional deviation of projectiles casted by this wand.	从该魔杖发出投射物的方向偏移。	inventory_spread_tooltip
+Charge capacity	充能容量	inventory_chargecapacity
+Always casts	始终施放	inventory_alwayscasts
+This wand casts some spells every time it's used.	每次使用这支魔杖，它就会施放一些特定法术。	inventory_alwayscasts_description
+Uses remaining	剩余使用次数	inventory_usesremaining
+Type	类型	inventory_actiontype
+Mana drain	法力消耗	inventory_manadrain
+Damage	伤害	inventory_damage
+Dmg. Expl	爆炸伤害	inventory_dmg_explosion
+Expl. Radius	爆炸半径	inventory_explosion_radius
+Dmg. Slice	切割伤害	inventory_dmg_slice
+Dmg. Drill	穿凿伤害	inventory_dmg_drill
+Dmg. Fire	火焰伤害	inventory_dmg_fire
+Dmg. Ice	冰冻伤害	inventory_dmg_ice
+Speed	速度	inventory_speed
+Cast delay	施放延迟	inventory_mod_castdelay
+Recharge time	充能时间	inventory_mod_rechargetime
+Bounces	弹起次数	inventory_mod_bounces
+Proj. Speed	投射速度	inventory_mod_speed
+Expl. Radius	爆炸半径	inventory_mod_explosion_radius
+Spread	散射角度	inventory_mod_spread
+Knockback	击退	inventory_mod_knockback
+Damage	伤害	inventory_mod_damage
+Dmg. Melee	近战伤害	inventory_mod_damage_melee
+Dmg. Electric	雷电伤害	inventory_mod_damage_electric
+Dmg. Fire	火焰伤害	inventory_mod_damage_fire
+Dmg. Expl	爆炸伤害	inventory_mod_damage_explosion
+Crit. Chance	暴击几率	inventory_mod_critchance
+WARNING - This wand contains no spells	警告 - 这支魔杖不含法术	inventory_warning_noactions
+The wand doesn't do anything. Place some spells into the wand's slots.	这支魔杖没有任何作用。请将法术放入魔杖的法术槽中。	inventory_warning_noactions_description
+WARNING - This wand doesn't have enough mana for $0	警告 - 这支魔杖没有足够法力使用法术“$0”	inventory_warning_notenoughmana
+Wand has max $0 mana. Casting $1 requires $2 mana.	魔杖的最大法力值为 $0。施放“$1”需要 $2 法力。	inventory_warning_notenoughmana_description
+INFO - This wand has been frozen	提示 - 这支魔杖被冻结了	inventory_info_frozen
+A spell prevents the wand from being customized.	某个法术阻碍了对魔杖进行修改。	inventory_info_frozen_description
+$0 s	$0 秒	inventory_seconds
+$0 DEG	$0 度	inventory_degrees
+Projectile	投射物	inventory_actiontype_projectile
+Static proj.	静态投射物	inventory_actiontype_staticprojectile
+Proj. modifier	投射修正	inventory_actiontype_modifier
+Multicast	多重施放	inventory_actiontype_drawmany
+Material	材料	inventory_actiontype_material
+Other	其他	inventory_actiontype_other
+Utility	实用	inventory_actiontype_utility
+Passive	被动	inventory_actiontype_passive
+Spell refresher	法术充能	item_spell_refresh
+Picked up Spell refresher	已拾取“法术充能”	itemtitle_spell_refresh
+All spells refreshed	所有法术的使用次数已充满	itemdesc_spell_refresh
+Picked up a new magic wand	已拾取新魔杖	itemtitle_wand_pickup
+Opened a treasure chest!	已开启一个宝箱！	itemtitle_chest_open
+A chest was broken open	宝箱被破开	itemtitle_chest_broken_open
+Touched the cursed crystal!	触摸了诅咒水晶！	log_endcrystal
+Something stirs above you	有什么东西在你头上搅动	logdesc_endcrystal
+You have angered the Gods	你触怒了神明	logdesc_temple_spawn_guardian
+You have angered the Gods	你触怒了神明	logdesc_gods_are_angry
+The Gods are very angry with you	神明对你非常生气	logdesc_gods_are_very_angry
+projectile	投射物	damage_projectile
+electricity	雷电	damage_electricity
+explosion	爆炸	damage_explosion
+fire	火焰	damage_fire
+melee	近战	damage_melee
+drill	穿凿	damage_drill
+slice	切割	damage_slice
+ice	寒冰	damage_ice
+healing	治疗	damage_healing
+physics hit	物理击打	damage_physicshit
+toxic	毒液	damage_radioactive
+poison	中毒	damage_poison
+wetness	潮湿	damage_water
+fall	坠落	damage_fall
+drowning	窒息	damage_drowning
+damage from material: $0	来自材料的伤害：$0	damage_frommaterial
+kick	踢击	damage_kick
+Holy Mountain's curse	圣山诅咒	damage_holy_mountains_curse
+Depth:	深度：	stat_depth
+Time:	时间：	stat_time
+Places visited:	造访地点：	stat_places_visited
+Enemies slain:	击杀敌人：	stat_enemies_slain
+Max HP:	最大生命值：	stat_max_hp
+Gold:	黄金：	stat_gold
+Items found:	找到物品：	stat_items_found
+Orbs collected:	获得魔球：	stat_orbs
+Total deaths:	死亡总次数：	stat_total_deaths
+Total play time:	游玩总时间：	stat_total_play_time
+Total wins:	胜利总次数：	stat_total_wins
+Cause of death: '$0'	死因：“$0”	stat_cause_of_death
+(Best: $0)	（最佳：$0）	stat_best
+With music by From Grotto and Niilo Takalainen	音乐 From Grotto 与 Niilo Takalainen	credits_music
+Sound design by Niilo Takalainen	音效设计 Niilo Takalainen	credits_sounddesign
+Noita uses FMOD Studio by Firelight Technologies Pty Ltd	《Noita》使用 Firelight Technologies Pty Ltd. 推出的 F模组 Studio 制作	credits_fmod
+Noita (c) Nolla Games Oy 2019	《Noita》(c) Nolla Games Oy 2019	credits_copyright
+Perks	天赋	progress_perks
+Spells	法术	progress_actions
+Secrets	秘密	progress_secrets
+Enemies	敌人	progress_enemies
+Unlocks	解锁	progress_unlocked
+$0 $1 secret(s) found	$0 $1 秘密已发现	progress_completed
+Kills: $0	击杀：$0	progress_kills
+???	???	progress_unknown
+Discovered the secret below - 	已发现下方的秘密 -	progress_ending0
+Discovered the secret above - 	已发现上方的秘密 -	progress_ending1
+Discovered the secrets above and below - 	已发现上方和下方的秘密 -	progress_ending01
+Wet	沾水	status_wet
+Wet clothes protect you from fire.	潮湿的魔法斗篷可保护你免受火焰伤害。	statusdesc_wet
+Oiled 	油污	status_oiled
+Oil makes you slippery and more flammable.	油会让你脚底打滑，并且更容易着火。	statusdesc_oiled
+Bloody 	染血	status_bloody
+Bloody clothes protect you from fire.\nYou sense an increased chance of attaining critical hits.	染血的魔法斗篷可保护你免受火焰伤害。\n你感觉自己更容易打出暴击。	statusdesc_bloody
+Slimy	黏液	status_slimy
+Slimy clothes protect you from fire.\nThe mucus makes moving around difficult.	沾染黏液的魔法斗篷可保护你免受火焰伤害。\n湿糊糊的黏液令移动更加困难。	statusdesc_slimy
+Toxic	毒液	status_radioactive
+Toxic sludge in your clothes makes your health degrade slowly.\nWet clothes protect you from fire.\nCan be washed off by liquids.	毒性淤泥污染了你的魔法斗篷，令你的生命值缓慢减少。\n潮湿的魔法斗篷可保护你免受火焰伤害。\n可用液体清洗去除。	statusdesc_radioactive
+Alcoholic	酒精	status_alcoholic
+Heavy scent of booze oozes of your clothes.\nAiming is disturbed.\nAnd alcohol is flammable!	你的魔法斗篷散发出浓重的酒气。\n瞄准受到影响。\n同时酒精也非常易燃！	statusdesc_alcoholic
+Poisoned	中毒	status_poisoned
+A poisoning slowly degrades your health. 	中毒会令你的生命值缓慢减少。	statusdesc_poisoned
+Teleportation	传送	status_teleportation
+A teleport curse affects you.	你受到传送诅咒影响。	statusdesc_teleportation
+Regeneration 	再生	status_hp_regeneration
+A health regeneration spell affects you.	你受到生命值恢复法术影响。	statusdesc_hp_regeneration
+Polymorph	变形	status_polymorph
+You're a sheep.	你成了一只小绵羊。	statusdesc_polymorph
+Chaos polymorph	混乱变形	status_polymorph_random
+A polymorph curse affects you.	你受到变形诅咒影响。	statusdesc_polymorph_random
+Berserk	狂暴	status_berserk
+A berserk curse affects you.	你受到狂暴诅咒影响。	statusdesc_berserk
+Charmed	魅惑	status_charm
+A charm affects you.	你受到魅惑影响。	statusdesc_charm
+Invisible	隐形	status_invisibility
+The magical liquid on your clothes makes you invisible.\nThe spell is disturbed by stained or wet clothes.	你斗篷上的魔法液体令你隐形。\n魔法斗篷脏污或潮湿时，隐身效果将被打断。\n不，你绝对不能脱掉魔法斗篷。	statusdesc_invisibility
+On fire 	着火	status_on_fire
+You're on fire. Find some water!	你着火了。快去找水来！	statusdesc_on_fire
+Spider leg	蜘蛛腿	boss_limbs_limb_attacker
+The Laboratory	实验室	biome_boss_arena
+The Work	伟大之作	biome_boss_victoryroom
+mines	矿场	biome_coalmine
+collapsed mines	坍塌矿场	biome_coalmine_alt
+Temple of the Art	艺之神殿	biome_crypt
+Desert	沙漠	biome_desert
+Dragoncave	龙窟	biome_dragoncave
+Master Symbol Crypt	宗师符号地穴	biome_ending_placeholder
+Coal Pits	煤矿矿坑	biome_excavationsite
+Fungal Caverns	真菌洞穴	biome_fungicave
+Gold	金矿	biome_gold
+Lake	湖泊	biome_lake
+Volcanic Lake	火山湖	biome_lava
+Volcanic Cave	火山洞穴	biome_lavacave
+Sanctuary	庇护所	biome_magic_gate
+unknown	未知	biome_null
+Pyramid	金字塔	biome_pyramid
+Underground Jungle	地下丛林	biome_rainforest
+Sandcave	砂之洞穴	biome_sandcave
+Mysterious Gate	神秘之门	biome_secret_entrance
+Secret Shop	秘密商店	biome_shop_room
+Hiisi Base	席西基地	biome_snowcastle
+Snowy Depths	积雪深渊	biome_snowcave
+twisty passages	扭曲通道	biome_town_under
+The Vault	避难所	biome_vault
+magical temple	魔法神殿	biome_wandcave
+water	水	biome_water
+snowy wasteland	落雪荒原	biome_winter
+Holy Mountain	神圣之山	biome_holymountain
+East $0	$0以东	biome_east
+West $0	$0以西	biome_west
+Min?	我自己	animal_player
+Kolmisilm?n apuri	三眼之仆	animal_boss_centipede_minion
+Kolmisilm?n koipi	三眼之腿	animal_boss_limbs
+Mato	蠕虫	animal_boss_dragon_endcrystal
+H?m?h?kki	丛林蜘蛛	animal_lukki
+Kasvoton H?m?h?kki	无面林蛛	animal_lukki_creepy
+Kasvoton Lukki	长腿无面林蛛	animal_lukki_creepy_long
+Lukki	长腿林蛛	animal_lukki_longleg
+Happonuljaska	酸液毒瘤	animal_acidshooter
+Alkemisti	炼金术士	animal_alchemist
+Murkku	切叶蚁	animal_ant
+Salamurhaajarobotti	机械刺客	animal_assassin
+Turvonnu velho	呕吐法师	animal_barfer
+Lepakko	黏液蝙蝠	animal_bat
+Suurlepakko	黏液蝠王	animal_bigbat
+Suurtulik?rp?nen	大萤火虫	animal_bigfirebug
+M?t?nev? ruumis	诅咒腐尸	animal_bigzombie
+M?t?nev? p??	腐烂头颅	animal_bigzombiehead
+M?t?nev? kroppa	腐烂身躯	animal_bigzombietorso
+Kiukkum?ykky	斑点	animal_blob
+Verikristalli	鲜血魔晶	animal_bloodcrystal_physics
+Puska	魔鬼花	animal_bloom
+Suomuhauki	龙	animal_boss_dragon
+Matkija	宝箱怪	animal_chest_mimic
+Kirottu kristalli	诅咒魔晶	animal_crystal_physics
+Haamu	鬼魂	animal_darkghost
+Nelikoipi	鹿	animal_deer
+Lennokki	无人机	animal_drone
+Lennokki	无人机	animal_drone_physics
+Ankka	鸭子	animal_duck
+Nahkiainen	七鰓鰻鱼	animal_eel
+Poro	驯鹿	animal_elk
+Pikkutulik?rp?nen	萤火虫	animal_firebug
+Eldari	炎魔	animal_firemage
+Stendari	火魔	animal_firemage_weak
+Liekki?	燃火头颅	animal_fireskull
+Ev?k?s	青鱼	animal_fish
+Suurev?k?s	红鱼	animal_fish_large
+Liekkari	火焰喷射兵	animal_flamer
+Amppari	蜜蜂	animal_fly
+Konna	蟾蜍	animal_frog
+Laahustussieni	自爆菇	animal_fungus
+Helvetinkatse	地狱凝视	animal_gazer
+Houre	妄灵	animal_ghost
+Sylkyri	口水怪	animal_ghoul
+Hiidenkivi	岩石精怪母体	animal_giant
+?itinuljaska	毒瘤母体	animal_giantshooter
+Korjauslennokki	治疗无人机	animal_healerdrone_physics
+J??hdytyslaite	冰汽喷射兵	animal_icer
+J??ti?	燃冰头颅	animal_iceskull
+Mulkkio	激光毒瘤	animal_lasershooter
+H?mis	蜘蛛	animal_longleg
+Limanuljaska	黏液毒瘤	animal_slimeshooter
+?itilimanuljaska	毒瘤孽裔	animal_slimeshooter_boss_limbs
+Toukka	大肥蛆	animal_maggot
+Matkija	宝箱怪	animal_mimic_physics
+Tappurahiisi	席西矿工	animal_miner
+Tappurahiisil?inen	虚弱的席西矿工	animal_miner_weak
+Tulihiisi	席西纵火者	animal_miner_fire
+Jouluhiisi	席西圣诞老人	animal_miner_santa
+Miina	地雷	animal_mine_scavenger
+M?ykky	点点	animal_miniblob
+Hein?sirkka	机械蚱蜢	animal_missilecrab
+Lohkare	岩石精怪	animal_pebble
+Toveri lohkare	岩石精怪伙伴	animal_pebble_player
+Spiraalikalma	螺旋亡灵	animal_phantom_a
+Kiukkukalma	愤怒亡灵	animal_phantom_b
+Kummitus	鬼影	animal_playerghost
+Rotta	老鼠	animal_rat
+Robottikytt?	机械战警	animal_roboguard
+Isohiisi	席西士官长	animal_scavenger_clusterbomb
+Kranuhiisi	席西榴弹兵	animal_scavenger_grenade
+Parantajahiisi	席西治疗兵	animal_scavenger_heal
+Toimari	席西军团首领	animal_scavenger_leader
+Miinankylv?j?	席西布雷兵	animal_scavenger_mine
+Myrkkyhiisi	席西毒枪兵	animal_scavenger_poison
+Rynkkyhiisi	席西步枪兵	animal_scavenger_smg
+Skorpioni	蝎子	animal_scorpion
+Lammas	绵羊	animal_sheep
+Lentolammas	恶魔绵羊	animal_sheep_bat
+Suhiseva lammas	嗡嗡绵羊	animal_sheep_fly
+Plasmakukka	电浆花	animal_shooterflower
+Heikko haulikkohiisi	虚弱的席西猎手	animal_shotgunner_weak
+Haulikkohiisi	席西猎手	animal_shotgunner
+Kallok?rp?nen	骷髅巨蝇	animal_skullfly
+Kallorotta	骷髅飞鼠	animal_skullrat
+Snipuhiisi	席西狙击手	animal_sniper
+Helvetin sylkij?	地狱吐息	animal_spitmonster
+Patsas	鬼魅面具	animal_statue_physics
+KK-Tankki	KK坦克	animal_tank
+IT-Tankki	IT坦克	animal_tank_rocket
+Turso	触手怪	animal_tentacler
+Pikkuturso	小触手怪	animal_tentacler_small
+Ukko	电魔	animal_thundermage
+Torjuntalaite	哨戒炮塔	animal_turret
+Taikasauva	魔杖灵	animal_wand_ghost
+Sokaisunmestari	致盲法师	animal_wizard_dark
+Muodonmuutosmestari	变形法师	animal_wizard_poly
+Siirt?j?mestari	传送法师	animal_wizard_tele
+Susi	狼	animal_wolf
+Mato	蠕虫	animal_worm
+J?ttimato	巨型蠕虫	animal_worm_big
+Helvetinmato	地狱蠕虫	animal_worm_end
+Kalmamato	亡灵蠕虫	animal_worm_skull
+Pikkumato	小型蠕虫	animal_worm_tiny
+Heikkohurtta	虚弱的僵尸犬	animal_zombie_weak
+Hurtta	僵尸犬	animal_zombie
+Double spell	二重施法	action_burst_2
+Simultaneously casts 2 spells	同时施放 2 个法术	actiondesc_burst_2
+Triple spell	三重施法	action_burst_3
+Simultaneously casts 3 spells	同时施放 3 个法术	actiondesc_burst_3
+Quadruple spell	四重施法	action_burst_4
+Simultaneously casts 4 spells	同时施放 4 个法术	actiondesc_burst_4
+Double scatter spell	二重散射施法	action_scatter_2
+Simultaneously casts 2 spells with low accuracy	同时施放 2 个法术，但精确度较低	actiondesc_scatter_2
+Triple scatter spell	三重散射施法	action_scatter_3
+Simultaneously casts 3 spells with low accuracy	同时施放 3 个法术，但精确度较低	actiondesc_scatter_3
+Quadruple scatter spell	四重散射施法	action_scatter_4
+Simultaneously casts 4 spells with low accuracy	同时施放 4 个法术，但精确度较低	actiondesc_scatter_4
+Formation - behind your back	阵型 - 背后	action_i_shape
+Casts two spells: one ahead of and one behind the caster	施放 2 个法术：在施术者前后各一	actiondesc_i_shape
+Formation - bifurcated	阵型 - 分叉	action_y_shape
+Casts 2 spells in a bifurcated pattern	以分叉形式施放 2 个法术	actiondesc_y_shape
+Formation - above and below	阵型 - 上下	action_t_shape
+Casts 3 spells - ahead, above and below the caster	施放 3 个法术 - 分别位于施术者前方、上方和下方	actiondesc_t_shape
+Formation - trifurcated	阵型 - 三叉	action_w_shape
+Casts 3 spells in a trifurcated pattern	以三叉形式施放 3 个法术	actiondesc_w_shape
+Formation - hexagon	阵型 - 六边形	action_circle_shape
+Casts 6 spells in a hexagonal pattern	以六边形施放 6 个法术	actiondesc_circle_shape
+Formation - pentagon	阵型 - 五边形	action_pentagram_shape
+Casts 5 spells in a pentagonal pattern	以五边形施放 5 个法术	actiondesc_pentagram_shape
+Reduce spread	降低散射	action_spread_reduce
+Reduces the spread of a spell	降低投射物的散射	actiondesc_spread_reduce
+Reduce recharge time	缩减充能时间	action_recharge
+Reduces the time between spellcasts	缩减法术施放之间的时间间隔。	actiondesc_recharge
+Gravity	重力	action_gravity
+Increases the effect gravity has on a projectile	提高作用于投射物的重力	actiondesc_gravity
+Anti-gravity	反重力	action_gravity_anti
+Applies a lifting force to a projectile	对投射物施加向上的力	actiondesc_gravity_anti
+Penetrate walls	穿墙	action_penetrate_walls
+Gives a projectile more penetration power	提高投射物的穿透力	actiondesc_penetrate_walls
+Slithering path	蛇行路径	action_sinewave
+Makes a projectile move rapidly in a slithering manner, like a snake	令投射物像蛇一样在空气中高速穿行	actiondesc_sinewave
+Bounce	弹跳	action_bounce
+Makes a projectile bounce on impact	令投射物在接触时弹跳	actiondesc_bounce
+Homing	追踪	action_homing
+Boomerang	回旋镖	action_homing_shooter
+Gives a projectile a path that curves towards you	令投射物飞回你自己	actiondesc_homing_shooter
+Damage Plus	伤害增强	action_damage
+Increases the damage done by a projectile	提高法术造成的伤害	actiondesc_damage
+Critical Plus	暴击增强	action_critical_hit
+Gives a projectile +15% chance of a critical hit	令投射物造成暴击的几率 +15%	actiondesc_critical_hit
+Cunning power	巧妙之力	action_damage_friendly
+Gives a projectile extra damage, but makes it capable of damaging you	赋予投射物额外的伤害，但会让它对你自己也会造成伤害	actiondesc_damage_friendly
+Intense power	强大之力	action_damage_x2
+Sundering power	分离之力	action_damage_x5
+Heavy Shot	沉重一击	action_heavy_shot
+Greatly increases the damage done by a projectile, at the cost of its speed	大幅提高法术造成的伤害，但降低其飞行速度	actiondesc_heavy_shot
+Knockback	击退	action_knockback
+Gives a projectile the power to knock back the foes it hits	投射物命中的敌人将被击退	actiondesc_knockback
+Recoil	后座力	action_recoil
+Increases the recoil when casting spells	提高施放法术时的后座力	actiondesc_recoil
+Recoil Damper	后座阻尼器	action_recoil_damper
+Reduces the recoil when casting spells	降低施放法术时的后座力	actiondesc_recoil_damper
+Speed Up	加速	action_speed
+Increases the speed at which a projectile flies through the air	加快投射物的飞行速度	actiondesc_speed
+Draw blood	抽血	action_gore
+Makes foes spill more blood when hit with a projectile	敌人被投射物击中时溅洒更多血液	actiondesc_gore
+Makes a projectile more destructive to the environment	令投射物对环境更具破坏性	actiondesc_explosive_projectile
+Water to poison	化水为毒	action_water_to_poison
+Makes any water within a projectile's range turns into poison	投射物范围内的所有水体变为毒液	actiondesc_water_to_poison
+Blood to acid	溶血为酸	action_blood_to_acid
+Makes any blood within a projectile's range turns into acid	投射物范围内的所有血液变为酸液	actiondesc_blood_to_acid
+Lava to blood	熔岩化血	action_lava_to_blood
+Makes any lava within a projectile's range turn into blood	投射物范围内的所有岩浆变为血液	actiondesc_lava_to_blood
+Necromancy	死灵之术	action_necromancy
+Makes corpses of creatures killed by a projectile rise to your aid	复活被投射物杀死的生物尸体，让它们为你所用	actiondesc_necromancy
+A powerful explosion	炽烈的爆炸	actiondesc_explosion
+Explosion of brimstone	硫磺爆炸	action_fire_blast
+A fiery explosion	炽烈的爆炸	actiondesc_fire_blast
+Explosion of poison	毒素爆炸	action_poison_blast
+An alchemical explosion	化学性的爆炸	actiondesc_poison_blast
+Explosion of spirits	烈酒爆炸	action_alcohol_blast
+An inebriating explosion	令人酩酊大醉的爆炸	actiondesc_alcohol_blast
+Explosion of thunder	雷霆爆炸	action_thunder_blast
+An electric explosion	电气性质的爆炸	actiondesc_thunder_blast
+Circle of persuasion	魅惑之环	action_charm_field
+A field of charming magic	魅惑魔法的领域	actiondesc_charm_field
+Circle of fervour	激情之环	action_berserk_field
+A field of berserk magic	狂暴魔法的领域	actiondesc_berserk_field
+Circle of transmogrification	变形之环	action_polymorph_field
+A field of sheep-like magic	变羊魔法的领域	actiondesc_polymorph_field
+Circle of unstable metamorphosis	混乱变形之环	action_chaos_polymorph_field
+A field of transformative magic	混乱变形魔法的领域	actiondesc_chaos_polymorph_field
+Circle of thunder	雷霆之环	action_electrocution_field
+A field of electrifying magic	电击魔法的领域	actiondesc_electrocution_field
+Circle of stillness	静止之环	action_freeze_field
+A field of freezing magic	冻结魔法的领域	actiondesc_freeze_field
+Circle of vigour	活力之环	action_regeneration_field
+A field of regenerative magic	再生魔法的领域	actiondesc_regeneration_field
+Circle of displacement	位移之环	action_teleportation_field
+A field of teleportative magic	传送魔法的领域	actiondesc_teleportation_field
+Circle of buoyancy	浮力之环	action_levitation_field
+A field of levitative magic	飘浮魔法的领域	actiondesc_levitation_field
+Circle of seeing	预示之环	action_telepathy_field
+A field of clairvoyant magic	洞察魔法的领域	actiondesc_telepathy_field
+Circle of shielding	保护之环	action_shield_field
+A field of protective magic	屏障魔法的领域	actiondesc_shield_field
+Sea of lava	岩浆之海	action_sea_lava
+Summons a large body of lava below the caster	将施术者下方大片区域充满岩浆	actiondesc_sea_lava
+Sea of oil	油脂之海	action_sea_oil
+Summons a large body of oil below the caster	将施术者下方大片区域充满油	actiondesc_sea_oil
+Sea of water	水之海	action_sea_water
+Summons a large body of water below the caster	将施术者下方大片区域充满水	actiondesc_sea_water
+Sea of acid	酸液之海	action_sea_acid
+Summons a large body of acid below the caster	将施术者下方大片区域充满酸液	actiondesc_sea_acid
+Sea of flammable gas	可燃气体之海	action_sea_acid_gas
+Summons a large body of flammable gas below the caster	将施术者下方大片区域充满可燃气体	actiondesc_sea_acid_gas
+Sea of alcohol	酒精之海	action_sea_alcohol
+Summons a large body of tasty alcohol below the caster	将施术者下方大片区域充满美酒	actiondesc_sea_alcohol
+Rain cloud	雨云	action_cloud_water
+Creates a watery weather phenomenon	产生降水天气现象	actiondesc_cloud_water
+Blood cloud	血云	action_cloud_blood
+Creates a rain of blood	产生一阵血雨	actiondesc_cloud_blood
+Acid cloud	酸云	action_cloud_acid
+Creates an rain of acid	产生一阵酸液之雨	actiondesc_cloud_acid
+Thundercloud	雷云	action_cloud_thunder
+Creates a stormy cloud	产生一片雷云	actiondesc_cloud_thunder
+Electric charge	电荷放射	action_electric_charge
+Gives a projectile an electric charge, that it will release on impact	令投射物在击中时释放电荷放射	actiondesc_electric_charge
+Matter eater	物质吞噬者	action_matter_eater
+Makes a projectile eat the environment as it flies	令投射物吞噬飞行路线上的环境	actiondesc_matter_eater
+Freeze charge	冰冻放射	action_freeze
+Gives a projectile a frozen charge, that it will release on impact	令投射物在击中时散发冷冻放射	actiondesc_freeze
+Critical on burning	燃烧时暴击	action_hitfx_burning_critical_hit
+Makes a projectile always do a critical hit on burning enemies	令投射物击中燃烧敌人时100% 暴击	actiondesc_hitfx_burning_critical_hit
+Critical on wet (water) enemies	潮湿（浸水）敌人暴击	action_hitfx_critical_water
+Makes a projectile always do a critical hit on wet (water) enemies	令投射物击中潮湿（沾水）敌人时100% 暴击	actiondesc_hitfx_critical_water
+Critical on oiled enemies	油污敌人暴击	action_hitfx_critical_oil
+Makes a projectile always do a critical hit on oiled enemies	令投射物击中油污敌人时100% 暴击	actiondesc_hitfx_critical_oil
+Critical on bloody enemies	染血敌人暴击	action_hitfx_critical_blood
+Makes a projectile always do a critical hit on bloody enemies	令投射物击中染血敌人时100% 暴击	actiondesc_hitfx_critical_blood
+Poltergeist	骚灵	action_hitfx_poltergeist
+Gives a projectile the power to animate physical objects	赋予投射物令物理对象活动的力量	actiondesc_hitfx_poltergeist
+Fireball thrower	火球投射	action_fireball_ray
+Makes a projectile cast fireballs in random directions	令投射物在飞行中向随机方向发射火球	actiondesc_fireball_ray
+Oil freeze	油污冻结	action_hitfx_oiled_freeze
+Makes a projectile freeze enemies drenched in oil	令投射物击中敌人时，令敌人沾满油污并被冻结	actiondesc_hitfx_oiled_freeze
+Alcohol shot	陶醉射击	action_alcohol_shot
+Makes a projectile get the enemies it hits drunk	令投射物击中的敌人酩酊大醉	actiondesc_alcohol_shot
+Freeze if wet	沾水冻结	action_freeze_if_wet_shooter
+If caster is wet, makes a projectile freeze the enemies it hits	施术者潮湿状态下，投射物击中敌人将会令敌人冻结	actiondesc_freeze_if_wet_shooter
+Blindness	致盲	action_blindness
+I can't see!	我看不见了！	actiondesc_blindness
+Teleportation	传送	action_teleportation
+Spells cast alongside this will teleport enemies	随之施放的法术将可将敌人传送	actiondesc_teleportation
+Telepathy	心灵感应	action_telepathy
+Sense other beings through walls	透过墙壁感应其他存在	actiondesc_telepathy
+Electric Arc	电弧	action_arc_electric
+Fire Arc	火焰弧	action_arc_fire
+Gunpowder Arc	火药弧	action_arc_gunpowder
+Poison Arc	毒液弧	action_arc_poison
+Polymorph charge	变形放射	action_polymorph
+Baaaaa	咩~	actiondesc_polymorph
+Berserk	狂暴	action_berserk
+Target enters a state of wild fury, attacking anyone nearby and getting a 2x damage boost	目标进入狂怒状态，攻击附近的一切并获得 2x 伤害加成	actiondesc_berserk
+Charm	魅惑	action_charm
+Target becomes friendly to the caster	目标对施术者变得友好	actiondesc_charm
+All-seeing eye	全知之眼	action_x_ray
+See into the unexplored. But not everywhere...	窥视未曾探索区域，但并非毫无限制...	actiondesc_x_ray
+X-ray modifier	透视修正	action_x_ray_modifier
+Projectile lights the way in the darkness	投射物照亮黑暗中的路途	actiondesc_x_ray_modifier
+Acid	酸液	action_acid
+Projectiles turn into acid on collision	投射物碰撞时化为酸液	actiondesc_acid
+Firecrackers	爆竹	action_unstable_gunpowder
+Acid trail	酸液轨迹	action_acid_trail
+Gives a projectile a trail of acid	令投射物留下酸液轨迹	actiondesc_acid_trail
+Poison trail	毒素轨迹	action_poison_trail
+Gives a projectile a trail of poison	令投射物留下毒素轨迹	actiondesc_poison_trail
+Oil trail	油液轨迹	action_oil_trail
+Gives a projectile a trail of oil	令投射物留下油液轨迹	actiondesc_oil_trail
+Water trail	清水轨迹	action_water_trail
+Gives a projectile a trail of water	令投射物留下清水轨迹	actiondesc_water_trail
+Blood trail	血液轨迹	action_blood_trail
+Gives a projectile a trail of blood	令投射物留下血液轨迹	actiondesc_blood_trail
+Gunpowder trail	火药轨迹	action_gunpowder_trail
+Gives a projectile a trail of gunpowder	令投射物留下火药轨迹	actiondesc_gunpowder_trail
+Fire trail	火焰轨迹	action_fire_trail
+Gives a projectile a trail of fiery particles	令投射物留下炽热粒子的轨迹	actiondesc_fire_trail
+Burning trail	燃烧轨迹	action_burn_trail
+Gives a projectile a tail of fire	令投射物留下火焰轨迹	actiondesc_burn_trail
+Torch	火把	action_torch
+Lights your wand right up!	让你的魔杖亮起来！	actiondesc_torch
+Electric Torch	电子火把	action_torch_electric
+Gives your wand a bright but very dangerous light!	为魔杖赋予明亮而极度危险的光！	actiondesc_torch_electric
+Light	光	action_light
+Makes a projectile illuminate its surroundings	令投射物照亮它们的周围	actiondesc_light
+Energy shield	能量盾	action_energy_shield
+Deflects incoming projectiles	偏斜射来的投射物	actiondesc_energy_shield
+Energy shield sector	部分能量盾	action_energy_shield_sector
+Deflects incoming projectiles	偏斜射来的投射物	actiondesc_energy_shield_sector
+Duplicate	复制	action_duplicate_on_death
+Projectile clones itself x2 on collision	投射物在撞击时将克隆 2 个自身	actiondesc_duplicate_on_death
+Bee	蜜蜂	action_bee
+Bee	蜜蜂	actiondesc_bee
+Duck	鸭子	action_duck
+Duck!	鸭子！	actiondesc_duck
+Sheep	绵羊	action_sheep
+Sheep!	绵羊！	actiondesc_sheep
+Misfire	哑火	action_misfire
+Discard 1 spell	抛弃 1 个法术	actiondesc_misfire
+Misfire (critical)	哑火（严重）	action_misfire_critical
+Permanently destroy 1 spell	永久性破坏 1 个法术	actiondesc_misfire_critical
+Generate random deck (5)	生成随机卡组 (5)	action_generate_random_deck_5
+Current deck is replaced with a random deck of 5 cards	以 5 张卡牌组成的随机卡组替换当前卡组	actiondesc_generate_random_deck_5
+DEBUG BULLET	测试弹	action_testbullet
+A weak but enchanting sparkling projectile	弱小但带有迷人闪烁的投射物	actiondesc_testbullet
+Spark bolt	火花弹	action_light_bullet
+A weak but enchanting sparkling projectile	弱小但带有迷人闪烁的投射物	actiondesc_light_bullet
+Burst of air	强气流	action_air_bullet
+A brittle burst of air capable of greatly pushing objects	能够大幅推动物体的一道气流	actiondesc_air_bullet
+Spark bolt with trigger	带有触发的火花弹	action_light_bullet_trigger
+A spark bolt that casts another spell upon collision	在碰撞时施放另一法术的火花弹	actiondesc_light_bullet_trigger
+Spark bolt with double trigger	带有双重触发的火花弹	action_light_bullet_trigger_2
+A spark bolt that casts two new spells upon collision	在碰撞时施放两个全新法术的火花弹	actiondesc_light_bullet_trigger_2
+Spark bolt with timer	带有定时的火花弹	action_light_bullet_timer
+A spark bolt that casts another spell after a timer runs out	在定时结束后施放另一法术的火花弹	actiondesc_light_bullet_timer
+Magic arrow	魔法箭	action_bullet
+A handy magical arrow	好用的魔法箭	actiondesc_bullet
+Magic arrow with trigger	带有触发的魔法箭	action_bullet_trigger
+A magical arrow that casts another spell upon collision	在碰撞时施放另一法术的魔法箭	actiondesc_bullet_trigger
+Magic arrow with timer	带有定时的魔法箭	action_bullet_timer
+A magical arrow that casts another spell after a timer runs out	在定时结束后施放另一法术的魔法箭	actiondesc_bullet_timer
+Magic bolt	魔法弹	action_heavy_bullet
+A powerful magical bolt	强力的魔法弹	actiondesc_heavy_bullet
+Magic bolt with trigger	带有触发的魔法弹	action_heavy_bullet_trigger
+A powerful magical bolt that casts another spell upon collision	在碰撞时施放另一法术的强力魔法弹	actiondesc_heavy_bullet_trigger
+Magic bolt with timer	带有定时的魔法弹	action_heavy_bullet_timer
+A powerful magical bolt that casts another spell after a timer runs out	在定时结束后施放另一法术的强力魔法弹	actiondesc_heavy_bullet_timer
+Energy orb	能量球	action_slow_bullet
+A slow but powerful orb of energy	缓慢而强大的能量球体	actiondesc_slow_bullet
+Energy orb with a trigger	带有触发的能量球	action_slow_bullet_trigger
+A slow but powerful orb of energy that casts another spell upon collision	缓慢而强大的能量球体，在碰撞时施放另一法术	actiondesc_slow_bullet_trigger
+Energy orb with a timer	带有定时的能量球	action_slow_bullet_timer
+Black hole	黑洞	action_black_hole
+A slow orb of void that eats through all obstacles	缓慢的虚无球体，会吞噬沿路的一切障碍	actiondesc_black_hole
+Giga black hole	巨大黑洞	action_black_hole_big
+A growing orb of negative energy that destroys everything in its reach	不断增长的负能量球体，摧毁所及的一切	actiondesc_black_hole_big
+Decoy	诱饵	action_decoy
+Creates a decoy for distracting enemies	制作一个吸引敌人的诱饵	actiondesc_decoy
+Decoy with trigger	带有触发的诱饵	action_decoy_trigger
+Creates a decoy for distracting enemies that casts another spell after a timer runs out	制造一个吸引敌人的诱饵，在过去一段时间后施放另一法术	actiondesc_decoy_trigger
+Spitter bolt	分裂弹	action_spitter
+A short-lived magical bolt	寿命短暂的魔法弹丸	actiondesc_spitter
+Spitter bolt with timer	带有定时的分裂弹	action_spitter_timer
+A short-lived magical bolt that casts another spell after a timer runs out	在过去一段时间后施放另一法术的寿命短暂魔法弹	actiondesc_spitter_timer
+Bubble spark	泡泡火花	action_bubbleshot
+A bouncy, inaccurate spell	弹性十足但不够准确的法术	actiondesc_bubbleshot
+Bubble spark with trigger	带有触发的泡泡火花	action_bubbleshot_trigger
+A bouncy, inaccurate spell that casts another spell upon collision	弹性十足但不够准确的法术，在碰撞时施放另一法术	actiondesc_bubbleshot_trigger
+Disc projectile	圆锯片	action_disc_bullet
+Summons a sharp disc projectile	召唤锐利的碟状投射物	actiondesc_disc_bullet
+Energy sphere	小能量球	action_bouncy_orb
+A fast, arcing projectile	快速的弧线行进投射物	actiondesc_bouncy_orb
+Energy sphere with timer	带有定时的小能量球	action_bouncy_orb_timer
+Bouncing burst	弹跳爆发	action_rubber_ball
+A very bouncy projectile	极具弹跳力的投射物	actiondesc_rubber_ball
+Arrow	箭矢	action_arrow
+Summons an arrow	召唤一支箭矢	actiondesc_arrow
+Glowing lance	闪耀之枪	action_lance
+A magical lance that cuts through soft materials	一支能够穿透柔软材料的魔法长枪	actiondesc_lance
+Magic missile	魔法飞弹	action_rocket
+A fiery, explosive projectile	炽烈易爆的投射物	actiondesc_rocket
+Large magic missile	大型魔法飞弹	action_rocket_tier_2
+A more powerful version of Magic missile	魔法飞弹的更强大版本	actiondesc_rocket_tier_2
+Giant magic missile	巨型魔法飞弹	action_rocket_tier_3
+The most powerful version of Magic missile	最强大形式的魔法飞弹	actiondesc_rocket_tier_3
+Firebolt	火焰弹	action_grenade
+A bouncy, explosive bolt	具备弹跳能力的爆炸性魔法弹	actiondesc_grenade
+Large firebolt	大型火焰弹	action_grenade_tier_2
+A more powerful version of Firebolt	火焰弹的更强大版本	actiondesc_grenade_tier_2
+Giant firebolt	巨型火焰弹	action_grenade_tier_3
+The most powerful version of Firebolt	最强大形式的火焰弹	actiondesc_grenade_tier_3
+Firebolt with trigger	带有触发的火焰弹	action_grenade_trigger
+A bouncy, explosive bolt that that casts another spell upon collision	具备弹跳能力的爆炸性魔法弹，在碰撞时施放另一法术	actiondesc_grenade_trigger
+Odd Firebolt	怪异火焰弹	action_grenade_anti
+A somewhat peculiar bouncy, explosive bolt	特别能弹跳的爆炸魔法弹	actiondesc_grenade_anti
+Dropper bolt	下坠火焰弹	action_grenade_large
+A very heavy explosive bolt	极为沉重的爆炸魔法弹	actiondesc_grenade_large
+Unstable crystal	不稳晶体	action_mine
+A crystal that explodes when someone comes nearby	有人来到近旁便会爆炸的晶体	actiondesc_mine
+Unstable crystal with trigger	带有触发的不稳晶体	action_mine_death_trigger
+A crystal that explodes and casts another spell when someone comes nearby	有人来到近旁便会爆炸，同时施放另一法术的晶体	actiondesc_mine_death_trigger
+Dormant crystal	休眠晶体	action_pipe_bomb
+A crystal that explodes when caught in an explosion	被爆炸波及便会引爆的晶体	actiondesc_pipe_bomb
+Dormant crystal with trigger	带有触发的休眠晶体	action_pipe_bomb_death_trigger
+A crystal that explodes and casts another spell when caught in an explosion	被爆炸波及便会引爆，同时施放另一法术的晶体	actiondesc_pipe_bomb_death_trigger
+Summon deercoy	召唤鹿诱饵	action_exploding_deer
+Summons a seemingly-innocuous deer	召唤一只看上去无害的鹿	actiondesc_exploding_deer
+Dormant crystal detonation	休眠晶体引爆	action_pipe_bomb_detonator
+All nearby dormant crystals explode	令附近的所有休眠晶体爆炸	actiondesc_pipe_bomb_detonator
+Concentrated light	汇聚之光	action_laser
+A pinpointed beam of light	汇聚起来的一束光线	actiondesc_laser
+Lightning bolt	闪电弹	action_lightning
+The primordial force of nature	大自然的原始力量	actiondesc_lightning
+Digging bolt	挖掘魔弹	action_digger
+A bolt that is ideal for mining operations	采矿作业的理想魔弹	actiondesc_digger
+Digging blast	挖掘爆破	action_powerdigger
+More powerful digging	更强的挖掘力	actiondesc_powerdigger
+Chainsaw	链锯	action_chainsaw
+Summon Tentacle	召唤触手	action_tentacle
+Calls a terrifying appendage from another dimension	召唤一条来自异次元的绵延之物	actiondesc_tentacle
+Summon Tentacle with timer	带有定时的触手	action_tentacle_timer
+Calls a terrifying appendage from another dimension! Comes with a timer	召唤一条来自异次元的绵延之物！附带定时	actiondesc_tentacle_timer
+Healing bolt	治疗魔弹	action_heal_bullet
+Spiral shot	螺旋魔弹	action_spiral_shot
+A mystical whirlwind of magic sparks	魔法火花的神秘旋涡	actiondesc_spiral_shot
+Fireball	火球	action_fireball
+A powerful exploding spell	强力的爆炸法术	actiondesc_fireball
+Meteor	陨石	action_meteor
+A destructive projectile from the skies!	从天而降的毁灭性投射物！	actiondesc_meteor
+Flamethrower	火焰喷射器	action_flamethrower
+A stream of fire!!	一道火流！	actiondesc_flamethrower
+Icethrower	寒冰喷射器	action_icethrower
+A stream of ice!!	绵延寒冰！	actiondesc_icethrower
+Slimeball	粘液球	action_slimeball
+A dripping ball of poisonous slime	有毒粘液的湿漉漉球体	actiondesc_slimeball
+Path of dark flame	黑焰之道	action_darkflame
+A trail of dark, deadly flames	致命黑焰之轨迹	actiondesc_darkflame
+Summon missile	导弹	action_missile
+A missile!!!	导弹来袭！！！	actiondesc_missile
+Summon rock spirit	召唤岩石精怪	action_pebble
+Summons an autonomous rock ally	召唤一个自行移动的岩石伙伴	actiondesc_pebble
+Dynamite	炸药	action_dynamite
+Summons a small explosive	召唤一枚小型爆炸物	actiondesc_dynamite
+Bomb	炸弹	action_bomb_legacy
+Summons a bomb that destroys ground very efficiently	召唤一枚破坏地面极为高效的炸弹	actiondesc_bomb_legacy
+Bomb	炸弹	action_bomb
+Summons a bomb that destroys ground very efficiently	召唤一枚破坏地面极为高效的炸弹	actiondesc_bomb
+Holy Bomb	神圣炸弹	action_bomb_holy
+Summons a bomb that... well...	召唤一枚炸弹，效果嘛... 呃...	actiondesc_bomb_holy
+Throwing Knife	飞刀	action_knife
+Very deadly!	刀刀毙命！	actiondesc_knife
+Earthquake	地震	action_crumbling_earth
+Calls the anger of the earth	呼唤大地的愤怒	actiondesc_crumbling_earth
+Circle shot	圆环魔弹	action_circleshot_a
+Projectiles fly out in a circular pattern	以圆环形式飞出的投射物	actiondesc_circleshot_a
+Spiral shot	螺旋魔弹	action_circleshot_b
+Projectiles fly out in a spiral pattern	以螺旋形式飞出的投射物	actiondesc_circleshot_b
+Acid ball	酸液球	action_acidshot
+A terrifying acidic projectile	可怕的酸蚀投射物	actiondesc_acidshot
+Thunder charge	雷霆冲击	action_thunderball
+A projectile with immense stored electricity	储存有强大电力的投射物	actiondesc_thunderball
+Slime arc	黏液弧	action_bloomshot
+Spells cast alongside this will have arcs of slime flowing between them	投射物之间流过一道黏液之弧	actiondesc_bloomshot
+Ice circle	冰环	action_icecircle
+Shoots icy projectiles in a circle	以环形发射冰之投射物	actiondesc_icecircle
+Firebomb	小火球	action_firebomb
+Slow, fiery bolt	缓慢而炽烈的魔弹	actiondesc_firebomb
+Chunk of soil	一把泥土	action_soilball
+Don't soil yourself	别把自己弄脏了	actiondesc_soilball
+Homing orb	追踪魔球	action_pink_orb
+A dangerous, homing orb	危险的追踪魔球	actiondesc_pink_orb
+Death cross	死亡十字	action_death_cross
+A deadly energy cross that explodes after a short time	短暂时间后爆炸的致命能量十字	actiondesc_death_cross
+Plasma flare	电浆闪光	action_plasma_flare
+A magical projectile that accelerates quickly	加速迅速的魔法投射物	actiondesc_plasma_flare
+Key shot	致命射击	action_keyshot
+A powerful projectile. Nothing out of ordinary	强大的投射物。没什么特别的	actiondesc_keyshot
+Mana	法力	action_mana
+Extra mana	额外法力	actiondesc_mana
+Skull	头颅	action_skull
+Scary skull!!!	可怕的颅骨！！	actiondesc_skull
+shoots debug material	shoots debug material	action_material_debug
+ONLY TO BE USED IN DEBUG MODE!	只能在 debug 模式下使用	actiondesc_material_debug
+shoots liquid	shoots liquid	action_material_liquid
+Drop it in liquid and shoot it!	放入液体然后将其发射！	actiondesc_material_liquid
+Toxic mist	毒雾	action_mist_radioactive
+A cloud of toxic mist	气态毒性淤泥构成的云雾	actiondesc_mist_radioactive
+mist of spirits	酒雾	action_mist_alcohol
+A cloud of potent alcohol	烈酒构成的云雾	actiondesc_mist_alcohol
+Slime mist	黏液雾	action_mist_slime
+A cloud of slimy mist	黏液构成的云雾	actiondesc_mist_slime
+Blood mist	血雾	action_mist_blood
+A cloud of blood mist	血液构成的云雾	actiondesc_mist_blood
+Circle of fire	烈火之环	action_circle_fire
+An expanding circle of burning air	炽燃空气组成的扩散之环	actiondesc_circle_fire
+Circle of acid	酸液之环	action_circle_acid
+An expanding circle of dripping acid	酸液液滴组成的扩散之环	actiondesc_circle_acid
+Circle of oil	油液之环	action_circle_oil
+An expanding circle of slick oil	粘滑油液组成的扩散之环	actiondesc_circle_oil
+Circle of water	清水之环	action_circle_water
+An expanding circle of water	清水组成的扩散之环	actiondesc_circle_water
+Water	水	action_material_water
+Transmute drops of water from nothing	凭空出现的水滴	actiondesc_material_water
+Oil	油	action_material_oil
+Transmute drops of oil from nothing	凭空出现的油滴	actiondesc_material_oil
+Blood	血液	action_material_blood
+Blood blood blood	鲜血淋漓！	actiondesc_material_blood
+Acid	酸液	action_material_acid
+Transmute drops of acid from nothing	凭空出现的酸液滴	actiondesc_material_acid
+Cement	水泥	action_material_cement
+Transmute drops of wet cement from nothing	凭空出现的湿水泥	actiondesc_material_cement
+Lava	岩浆	action_material_lava
+Transmute globs of lava from nothing	凭空出现的一团岩浆	actiondesc_material_lava
+Explosive gunpowder	爆炸性火药	action_material_gunpowder_explosive
+Transmute grains of gunpowder from nothing	凭空出现的小堆火药	actiondesc_material_gunpowder_explosive
+Dirt	尘土	action_material_dirt
+Transmute grains of dirt from nothing	凭空出现的小片尘土	actiondesc_material_dirt
+Wooden mold	木质模具	action_building_board_wood
+Useful for cement construction. REQUIRES SOLAR POWER TO RECHARGE.	对水泥建筑有效，需要太阳能充电	actiondesc_building_board_wood
+Back wall (rock)	后壁(岩石)	action_building_back_wall_rock
+Provides structural support. REQUIRES SOLAR POWER TO RECHARGE.	提供结构支撑。需要太阳能充电。	actiondesc_building_back_wall_rock
+Pressure plate	压板	action_building_pressure_plate
+Temple door	圣殿之门	action_building_physics_templedoor
+Teleport bolt	传送魔弹	action_teleport_projectile
+A magical bolt that moves you wherever it ends up flying	将你传送到其结束飞行位置的魔法弹	actiondesc_teleport_projectile
+Teleport home	回城术	action_teleport_home
+Creates a portal to the surface that can be used once per each direction	产生一个通往地面的传送门，每次出行可使用一次	actiondesc_teleport_home
+LEVITATION projectile	漂浮投射物	action_levitation_projectile
+Levitation stuff	漂浮着的玩意	actiondesc_levitation_projectile
+Nuke	核弹	action_nuke
+Take cover!	快找掩体！	actiondesc_nuke
+TNT	TNT	action_high_explosive
+Extremely powerful explosive projectile	爆炸力极强的投射物	actiondesc_high_explosive
+Drone	无人机	action_drone
+More powerful digging	更强的挖掘力	actiondesc_drone
+LAVA	岩浆	action_baab_lava
+WATER	水	action_baab_water
+POOP	粑粑	action_baab_poop
+LOVE	爱	action_baab_love
+Fireworks!	烟火！	action_firework
+A fiery, explosive projectile	炽烈易爆的投射物	actiondesc_firework
+projectile	投射物	projectile_default
+Critical Hit +	暴击率 +	perk_critical_hit
+You get more critical hits	提高暴击几率	perkdesc_critical_hit
+Breathless	屏息静气	perk_breath_underwater
+You won't drown when submerged.	被淹没时不会窒息。	perkdesc_breath_underwater
+Greed	贪婪	perk_extra_money
+You gain double the gold per nugget.	敌人被你击杀时，掉落的黄金 x2。	perkdesc_extra_money
+Trick Greed	技巧贪婪	perk_extra_money_trick_kill
+4x instead of 2x gold is dropped when death is an accident.	造成敌人意外死亡时，掉落黄金 x4（原为 x2）。	perkdesc_extra_money_trick_kill
+Strong Levitation	强漂浮力	perk_hover_boost
+You can fly 100% longer.	你的飞行时间加倍。	perkdesc_hover_boost
+Faster Movement	更快移动	perk_movement_faster
+Your movement speed is increased.	你的移动速度加快。	perkdesc_movement_faster
+Repelling Cape	驱散斗篷	perk_repelling_cape
+Stains drop at a fast rate (when moving).	（移动时）脏污褪去的速度加快。	perkdesc_repelling_cape
+Exploding Corpses	爆尸	perk_exploding_corpses
+Enemies explode upon death.	敌人死亡时会爆炸。	perkdesc_exploding_corpses
+Saving Grace	死里逃生	perk_saving_grace
+If you would die and have more than 1 HP, your HP is set to 1 instead.	生命值高于 1 时，将以生命值降为 1 代替死亡。	perkdesc_saving_grace
+Invisibility	隐身	perk_invisibility
+You're invisible. Stains, casting spells, kicking and taking damage makes you temporarily visible.	你隐身了。脏污、施放法术、踢击和受伤会暂时令你可见。	perkdesc_invisibility
+More Blood	更多血液	perk_global_gore
+Blood blood blood.	鲜血淋漓！	perkdesc_global_gore
+No Damage Flash	无伤害闪烁	perk_no_damage_flash
+Pain is inevitable, but damage flash is optional.	痛苦无可避免，但伤害闪烁可以选择。	perkdesc_no_damage_flash
+Slicky Slime	滑溜黏液	perk_reverse_slowdown
+Instead of slowing you down, slime allows you to move faster.	黏液不会让你减速，反而令你移动速度加快。	perkdesc_reverse_slowdown
+Extra Health	追加生命值	perk_extra_hp
+You gain 50% extra maximum health.	增加50%生命值上限。	perkdesc_extra_hp
+Glass Cannon	玻璃大炮	perk_glass_cannon
+Your spells deal 5x damage and have larger blast ranges, but your maximum health is capped to 50.	你的法术伤害 x5，并获得更大的爆炸半径，但你的生命值上限将限制在 50。	perkdesc_glass_cannon
+Extra Life	额外生命	perk_respawn
+Upon death you respawn with 100 health.	死亡时，你将以 100 生命值重生。只能生效一次。	perkdesc_respawn
+Fire Immunity	火焰免疫	perk_protection_fire
+You take no damage from fire.	火焰不会对你造成伤害。	perkdesc_protection_fire
+Toxic Sludge Immunity	毒液免疫	perk_protection_radioactivity
+You take no damage from toxic sludge.	液态毒性淤泥不会对你造成伤害。	perkdesc_protection_radioactivity
+Explosion Immunity	爆炸免疫	perk_protection_explosion
+You take no direct damage from explosions.	爆炸不会对你造成直接伤害。	perkdesc_protection_explosion
+Melee Immunity	近战免疫	perk_protection_melee
+You take no damage from close-range enemy attacks.	敌人的近距离攻击不会对你造成伤害。	perkdesc_protection_melee
+Electricity Immunity	雷电免疫	perk_protection_electricity
+You take no damage from electric shocks.	电击不会对你造成伤害。	perkdesc_protection_electricity
+Teleportitis	受伤传送	perk_teleportitis
+You take 20% less damage. You teleport away every time you're hurt.	受到伤害减少 20%。每次受到伤害时，传送自身。	perkdesc_teleportitis
+Stainless Armour	光洁铠甲	perk_stainless_armour
+You take 50% less damage as long as you have no active stain status effect.	没有受到脏污效果影响时，受到伤害减少 50%。	perkdesc_stainless_armour
+Tinker With Wands Everywhere	随时修改魔杖	perk_edit_wands_everywhere
+A divine blessing allows you to tinker with wands everywhere.	神圣祝福令你能够随地修改魔杖。	perkdesc_edit_wands_everywhere
+Homing Shots	追踪法术	perk_projectile_homing
+Your spells home towards enemies very slightly.	你所有法术都会轻微追踪敌人。	perkdesc_projectile_homing
+Freeze Field	冰冻领域	perk_freeze_field
+Liquids freeze in your presence.	冻结你附近的液体。	perkdesc_freeze_field
+Dissolve Powders	粉末消融	perk_dissolve_powders
+Sand and other soft, powdery materials dissolve quickly in your presence.	砂粒以及其他柔软粉末状材料会在你附近快速消融。	perkdesc_dissolve_powders
+Slime Blood	粘稠血液	perk_bleed_slime
+Permanent Shield	永久护盾	perk_shield
+You gain a small, permanent shield.	你获得一面永久性的小型护盾。	perkdesc_shield
+Revenge Explosion	以爆制暴	perk_revenge_explosion
+When you take damage, you release a magical explosion that hurts enemies around you.	受伤时，你会放出魔法爆炸，反击伤害你的敌人。	perkdesc_revenge_explosion
+Electricity	掌控雷电	perk_electricity
+You're immune to electric damage, but metal and liquids around you electrify constantly. Look out!	免疫雷电伤害，但附近的金属和液体经常会通电。小心哟！	perkdesc_electricity
+Mystery Eggplant	神秘的茄子	perk_mystery_eggplant
+It breaks easily.	很容易折断。	perkdesc_mystery_eggplant
+Double Health, No Regeneration	双倍生命，没有再生	perk_double_hp
+Your maximum HP is doubled, but you take 20% more damage from projectiles.	你的最大生命值变为两倍，但投射物额外对你造成 20% 伤害。	perkdesc_double_hp
+Berserk	狂暴	perk_berserk
+The less HP you have, the more damage your spells deal, up to +300% extra damage.	你的生命值越低，你法术可造成的伤害越高，最多可造成 +300% 的额外伤害。	perkdesc_berserk
+Shuffle Wands	魔杖重洗	perk_shuffle_wands
+All your wands are replaced with random wands of approximately equal power.	你的所有魔杖被随机替换为强度近似的其他魔杖。	perkdesc_shuffle_wands
+Heavy Ammo	强大火力	perk_heavy_ammo
+You gain a selection of 2 powerful spells.	获得 2 种强大法术。	perkdesc_heavy_ammo
+Liquid Movement	如鱼得水	perk_liquid_movement
+Liquids don't affect your movement at all.	液体完全无法影响你的移动。	perkdesc_liquid_movement
+Faster Swimming	更快游泳	perk_faster_swimming
+You swim faster.	你的游泳速度变快了。	perkdesc_faster_swimming
+Extra Item In Holy Mountain	额外圣山物品	perk_extra_shop_item
+There will be an additional item in every Holy Mountain you haven't discovered yet.	在你尚未造访的每座神圣之山中追加一件额外商品。	perkdesc_extra_shop_item
+Burning Poison	以火攻毒	perk_poison_burn
+Your projectiles have a chance to ignite poisoned enemies.	你的投射物有几率点燃中毒的敌人。	perkdesc_poison_burn
+Low Gravity	低重力	perk_low_gravity
+Your movement is floatier and you can jump and fly higher.	你的移动变的轻浮，可以跳或飞得更高。	perkdesc_low_gravity
+Destruction Enhancement	破坏增强	perk_destruction_enhancement
+You can destroy the environment more effectively.	你对环境造成破坏的效率提升。	perkdesc_destruction_enchancement
+Damaging Aura	伤害光环	perk_damaging_aura
+Your spells damage nearby enemies even if they don't hit them.	即使没有命中，你的法术也能对附近敌人造成伤害。	perkdesc_damaging_aura
+Thunder Kick	雷霆踢击	perk_thunder_kick
+Your kicks instantly kill most foes, and push objects more.	你的踢击能够瞬杀绝大多数敌人，并且能将物体推得更远。	perkdesc_thunder_kick
+Better Vision	更好视野	perk_vision
+You can see more into the darkness.	你可透过黑暗看到更宽阔的区域。	perkdesc_vision
+Telepathic Presence	心灵感应	perk_telepathic_vision
+Darkness is no more, but enemies always know where you are.	黑暗不复存在，但敌人始终知道你的位置。	perkdesc_telepathic_vision
+No More Knockback	不动如山	perk_no_more_knockback
+Enemies can no longer knock you back.	敌人不再能将你击退。	perkdesc_no_more_knockback
+Controllable Knockback	可控击退。	perk_knockback_control
+You can steer while being knocked back.	在被击退过程中仍可控制方向。	perkdesc_knockback_control
+Roll Again	再次抽选	perk_roll_again
+You get a new set of perks to choose from.	获得新的一组天赋以供选择。	perkdesc_roll_again
+Reveal Secrets	揭晓秘密	perk_reveal_secrets
+Chests, hearts and other items shine through darkness.	宝箱、心与其他物品会在黑暗中闪闪发亮。	perkdesc_reveal_secrets
+Potion Drop	烧瓶掉落	perk_potion_drop
+Enemies have a chance of dropping a random potion upon death.	敌人死亡时一定几率掉落一个随机魔药烧瓶。	perkdesc_potion_drop
+Mystery Egg	神秘的蛋	perk_mystery_egg
+Something may hatch from it!	可能会孵出什么玩意！	perkdesc_mystery_egg
+Golden I	黄金眼	perk_gold_no_disappear_while_seen
+Gold doesn't disappear as long as it can be seen.	在视野中的黄金不会消失。	perkdesc_gold_no_disappear_while_seen
+Mana Discount	法力折扣	perk_mana_discount
+All spells cost 50% less mana.	所有法术消耗的法力减半。	perkdesc_mana_discount
+Juggernaut Spells	重型法术	perk_juggernaut
+Your projectiles deal 30% more damage, but are 30% slower.	所有投射物额外造成 30% 伤害，但速度降低 30%。	perkdesc_juggernaut
+Big Potions	大号烧瓶	perk_big_potions
+Potions you find contain double the liquid.	你找到的烧瓶中，内容物加倍。	perkdesc_big_potions
+Extra Charges	追加充能	perk_extra_charges
+Spells with limited uses can be used twice as many times.	使用次数有限的法术，其最大使用次数加倍。	perkdesc_extra_charges
+Fast Projectiles	加速法术	perk_fast_projectiles
+All projectiles fly at double speed.	所有投射物飞行速度加倍。	perkdesc_fast_projectiles
+Deadly Environment	致命环境	perk_deadly_environment
+Creatures take increased damage from poison and other liquids, fire, and more.	敌人会因毒素和其他液体、火焰、等受到更大的伤害。	perkdesc_deadly_environment
+Cursed Power	诅咒之力	perk_cursed_power
+All your wands gain extra damage but become uncustomizable.	你的所有魔杖伤害提升，但不可进行修改。	perkdesc_cursed_power
+Randomize Spells	随机法术	perk_randomize_spells
+All spells in your inventory are replaced with a random spell.	你物品栏中的所有法术将由随机性法术替代。	perkdesc_randomize_spells
+Personal Raincloud	专属雨云	perk_personal_raincloud
+You gather water when standing in a pool, and release it if you shoot at the cloud that follows you.	站在水池中时你可以吸水，并在射击跟随你的云朵时将其释放。	perkdesc_personal_raincloud
+Helper Orb	助手魔球	perk_helper_orb
+An orb flies near you and attacks your enemies.	一个在你附近飞行并会攻击敌人的球体。	perkdesc_helper_orb
+Extra Wand Storage	额外魔杖栏	perk_extra_wand_slot
+You can carry one extra wand.	可额外持有一支魔杖。	perkdesc_extra_wand_slot
+Extra Item Storage	额外物品栏	perk_extra_potion_slot
+You can carry one extra item.	可额外持有一件物品。	perkdesc_extra_potion_slot
+Extra Spell Storage	额外法术空间	perk_extra_action_storage
+You gain more room for spells	获得额外的空间，可容纳更多法术。	perkdesc_extra_action_storage
+Persuasion	魅惑	perk_persuasion
+Enemies with low health may start fighting for you.	生命值较低的敌人会为你而战。	perkdesc_persuasion
+Floor Is Lava	岩浆地表	perk_permanent_flying
+You can fly forever, but standing on the ground deals you damage over time.	你可以永久飞行，但站在地面会受到持续伤害。	perkdesc_permanent_flying
+Melting Corpses	融尸	perk_melt
+Your enemies' corpses melt into slime.	你敌人的尸体会化为黏液。	perkdesc_melt
+Double Cast	二重施放	perk_double_cast
+Your wands cast one extra spell when used.	你的所有魔杖在使用时都会额外施放一个法术。	perkdesc_double_cast
+Bombs Materialized	炸弹物品化	perk_ability_actions_materialized
+Bomb-like spells can be placed in the ITEMS space in inventory and used like throwable items.	类似炸弹的法术可放置于物品栏中，如同投掷物品一般使用。	perkdesc_ability_actions_materialized
+air	空气	mat_air
+fire	火焰	mat_fire
+spark	火花	mat_spark
+spark	火花	mat_spark_green
+spark	火花	mat_spark_blue
+spark	火花	mat_spark_red
+spark	火花	mat_spark_white
+spark	火花	mat_spark_yellow
+spark	火花	mat_spark_purple
+spark	火花	mat_spark_player
+spark	火花	mat_spark_teal
+electric spark	电火花	mat_spark_electric
+fire	火焰	mat_flame
+ground	地面	mat_sand_static
+lush ground	葱郁地面	mat_sand_static_rainforest
+bone wall	骨墙	mat_bone_static
+rusted metal	锈蚀金属	mat_rust_static
+granite ground	花岗岩地面	mat_sand_static_bright
+rusty ground	锈蚀地面	mat_sand_static_red
+nest	巢穴	mat_nest_static
+blue fungus	蓝色真菌	mat_bluefungi_static
+cheese	奶酪	mat_cheese_static
+rock	岩石	mat_rock_static
+rock	岩石	mat_rock_static_intro
+Water	水	mat_water_static
+hell slime	地狱黏液	mat_endslime_static
+slime	黏液	mat_slime_static
+dense rock	致密岩石	mat_rock_hard
+rock	岩石	mat_rock_static_noedge
+extremely dense rock	极度致密岩石	mat_rock_hard_border
+magic gate	魔法门	mat_rock_magic_gate
+magic wall	魔法墙	mat_rock_magic_bottom
+eroding rock	侵蚀岩石	mat_rock_eroding
+vault rock	拱顶石	mat_rock_vault
+coal vein	煤矿矿脉	mat_coal_static
+grey rock	灰色岩石	mat_rock_static_grey
+toxic rock	毒性淤泥岩石	mat_rock_static_radioactive
+poisonous rock	毒素岩石	mat_rock_static_poison
+hell rock	地狱岩	mat_skullrock
+damp rock	潮湿岩石	mat_rock_static_wet
+volcanic rock	火山岩	mat_lavarock_static
+lava	岩浆	mat_lava
+meteorite	陨石	mat_meteorite_static
+brickwork	砖块	mat_templerock_static
+brickwork	砖块	mat_templebrick_static
+brickwork	砖块	mat_templebrick_noedge_static
+brickwork	砖块	mat_templebrick_thick_static
+brickwork	砖块	mat_templebrickdark_static
+brickwork	砖块	mat_templeslab_static
+brickwork	砖块	mat_templeslab_crumbling_static
+glowing stone	发光石	mat_glowstone
+glowing stone	发光石	mat_glowstone_altar
+glowing stone	发光石	mat_glowstone_potion
+brickwork	砖块	mat_templebrick_red
+mossy brickwork	苔砖块	mat_templebrick_moss_static
+hell rock	地狱岩	mat_the_end
+steel	钢	mat_steel_static
+mossy steel	苔钢	mat_steelmoss_static
+mossy steel	苔钢	mat_steelmoss_slanted
+smoking steel	冒烟的钢	mat_steelsmoke_static
+metal pipe	钢管	mat_steelpipe_static
+dense steel	高密度钢	mat_steel_static_strong
+hardened steel	硬化钢	mat_steel_static_unmeltable
+glowing matter	发光物质	mat_rock_static_glow
+packed snow	压实的雪	mat_snow_static
+ice	寒冰	mat_ice_static
+rock	岩石	mat_rock_static_intro_breakable
+frozen blood	冻结的血	mat_ice_blood_static
+frozen acid	酸冰	mat_ice_acid_static
+ice	寒冰	mat_ice_cold_static
+toxic ice	毒冰	mat_ice_radioactive_static
+ice	寒冰	mat_ice_meteor_static
+neon tube	霓虹灯	mat_tubematerial
+glass	玻璃	mat_glass_static
+rock	岩石	mat_waterrock
+ice	寒冰	mat_ice_glass
+neon tube	霓虹灯	mat_tube_physics
+frozen acid	酸冰	mat_ice_acid_glass
+ice	寒冰	mat_ice_cold_glass
+toxic ice	毒冰	mat_ice_radioactive_glass
+ice	寒冰	mat_ice_glass_b2
+brittle glass	易碎玻璃	mat_glass_brittle
+frozen rock	冻结岩石	mat_snowrock_static
+concrete	混凝土	mat_concrete_static
+wood	木材	mat_wood_static
+damp wood	潮湿木材	mat_wood_static_wet
+brick wall	砖墙	mat_creepy_liquid_emitter
+gold vein	黄金矿脉	mat_gold_static
+vibrant gold vein	闪耀的黄金矿脉	mat_gold_static_dark
+wood	木材	mat_wood_static_vertical
+pressurized wood	耐压木材	mat_wood_static_gas
+corrupted rock	崩坏的岩石	mat_corruption_static
+smoke	烟	mat_smoke
+smoke	烟	mat_smoke_explosion
+steam	蒸汽	mat_steam
+flammable gas	可燃气体	mat_acid_gas
+flammable gas	可燃气体	mat_acid_gas_static
+smoke	烟	mat_smoke_static
+poison gas	毒气	mat_poison_gas
+fungal gas	真菌气体	mat_fungal_gas
+freezing vapour	冰冷蒸汽	mat_blood_cold_vapour
+funky vapour	迷幻蒸汽	mat_sand_herb_vapour
+toxic gas	毒液气体	mat_radioactive_gas
+toxic gas	毒液气体	mat_radioactive_gas_static
+Water	水	mat_water
+Water	水	mat_water_fading
+brine	盐水	mat_water_salt
+Water	水	mat_water_temp
+chilly water	冰水	mat_water_ice
+swamp	沼泽	mat_water_swamp
+oil	油	mat_oil
+liquid fire	液态燃烧剂	mat_liquid_fire_weak
+whiskey	威士忌	mat_alcohol
+alchemic precursor	炼金溶液	mat_midas_precursor
+draught of midas	点金之水	mat_midas
+gate-opener	开门魔药	mat_magic_liquid
+teleportatium	传送魔药	mat_magic_liquid_teleportation
+healthium	再生魔药	mat_magic_liquid_hp_regeneration
+lively concoction	活性混合物	mat_magic_liquid_hp_regeneration_unstable
+polymorphine	变形魔药	mat_magic_liquid_polymorph
+chaotic polymorphine	混乱变形魔药	mat_magic_liquid_random_polymorph
+berserkium	狂暴魔药	mat_magic_liquid_berserk
+pheromone	魅惑魔药	mat_magic_liquid_charm
+invisiblium	隐形魔药	mat_magic_liquid_invisibility
+cloud	云	mat_cloud
+toxic mist	毒雾	mat_cloud_radioactive
+alcohol mist	酒雾	mat_cloud_alcohol
+blood mist	血雾	mat_cloud_blood
+slime mist	黏液雾	mat_cloud_slime
+swamp	黑沼泽	mat_swamp
+mud	淤泥	mat_mud
+fungal blood	真菌血液	mat_blood_fading_slow
+worm blood	蠕虫血液	mat_blood_worm
+freezing liquid	冰冷液体	mat_blood_cold
+toxic sludge	毒性淤泥	mat_radioactive_liquid
+toxic sludge	毒性淤泥	mat_radioactive_liquid_fading
+magical liquid	魔法液体	mat_plasma_fading
+magical liquid	魔法液体	mat_plasma_fading_green
+magical liquid	魔法液体	mat_plasma_fading_pink
+molten gold	熔化金水	mat_gold_molten
+molten steel	熔化钢水	mat_steel_static_molten
+molten steel	熔化钢水	mat_steelmoss_slanted_molten
+molten steel	熔化钢水	mat_steelmoss_static_molten
+molten steel	熔化钢水	mat_steelsmoke_static_molten
+molten metal	熔化金属	mat_metal_molten
+molten metal	熔化金属	mat_metal_rust_molten
+molten metal	熔化金属	mat_metal_nohit_molten
+molten aluminium	熔化铝液	mat_aluminium_molten
+molten aluminium	熔化铝液	mat_aluminium_robot_molten
+molten metal	熔化金属	mat_metal_prop_molten
+molten steel	熔化钢水	mat_steel_rust_molten
+molten aluminium	熔化铝液	mat_aluminium_oxide_molten
+molten wax	熔化蜡油	mat_wax_molten
+molten silver	熔化银汁	mat_silver_molten
+molten copper	熔化铜水	mat_copper_molten
+molten brass	熔化黄铜水	mat_brass_molten
+molten glass	熔融玻璃	mat_glass_molten
+molten glass	熔融玻璃	mat_glass_broken_molten
+molten metal	熔化金属	mat_steel_molten
+creepy liquid	恐怖液体	mat_creepy_liquid
+cement	水泥	mat_cement
+sand	砂	mat_sand
+blue sand	蓝砂	mat_sand_blue
+volcanic sand	火山砂	mat_lavasand
+bone dust	骨灰	mat_bone
+soil	泥土	mat_soil
+barren soil	贫瘠泥土	mat_soil_dead
+sandstone	砂岩	mat_sandstone
+fungal soil	菌丝土	mat_fungisoil
+honey	蜂蜜	mat_honey
+pea soup	豌豆汤	mat_pea_soup
+hell slime	地狱黏液	mat_endslime
+hell slime	地狱黏液	mat_endslime_blood
+dirt	尘土	mat_explosion_dirt
+vine	藤蔓	mat_vine
+vine	藤蔓	mat_root
+snow	雪	mat_snow
+rotten meat	腐肉	mat_rotten_meat
+slimy meat	发黏的肉	mat_meat_slime_sand
+green slimy meat	绿涩发黏的肉	mat_meat_slime_green
+slimy meat	发黏的肉	mat_meat_slime_orange
+toxic meat	有毒的肉	mat_rotten_meat_radioactive
+worm meat	蠕虫的肉	mat_meat_worm
+ice	寒冰	mat_ice
+wax	蜡	mat_wax
+gold	黄金	mat_gold
+toxic gold	淬毒黄金	mat_gold_radioactive
+copper	铜	mat_copper
+silver	银	mat_silver
+coal	煤	mat_coal
+brass	黄铜	mat_brass
+burning powder	燃烧粉末	mat_burning_powder
+wet sodium	湿钠	mat_sodium_unstable
+gunpowder	火药	mat_gunpowder
+gunpowder	火药	mat_gunpowder_tnt
+gunpowder	火药	mat_gunpowder_unstable
+slimy meat	发黏的肉	mat_gunpowder_unstable_boss_limbs
+plastic	塑料	mat_plastic_red
+molten plastic	熔融塑料	mat_plastic_red_molten
+molten plastic	熔融塑料	mat_plastic_molten
+molten plastic	熔融塑料	mat_plastic_prop_molten
+grass	草	mat_grass
+moss	苔藓	mat_moss
+rusty moss	锈色苔藓	mat_moss_rust
+fungus	真菌	mat_fungi_green
+seed	种子	mat_spore
+seed	种子	mat_plant_material_red
+seed	种子	mat_ceiling_plant_material
+fungal spore	真菌孢子	mat_mushroom_seed
+plant seed	植物种子	mat_plant_seed
+fungal spore	真菌孢子	mat_mushroom
+fungal spore	真菌孢子	mat_mushroom_giant_red
+fungal spore	真菌孢子	mat_mushroom_giant_blue
+evergreen seed	常绿种子	mat_bush_seed
+acid	酸液	mat_acid
+wood	木材	mat_wood_player_b2
+wood	木材	mat_wood_player_b2_vertical
+wood	木材	mat_wood
+bomb	炸弹	mat_fuse
+tnt	tnt	mat_fuse_tnt
+holy matter	神圣物质	mat_fuse_holy
+brickwork	砖块	mat_templebrick_box2d
+wood	木材	mat_wood_trailer
+wood	木材	mat_wood_wall
+grass	草	mat_cactus
+fungal matter	真菌物质	mat_grass_loose
+wood	木材	mat_wood_prop
+tough wood	硬木	mat_wood_prop_durable
+nest	巢穴	mat_nest_box2d
+cocoon	茧	mat_cocoon_box2d
+wood	木材	mat_wood_loose
+rock	岩石	mat_rock_loose
+ice	寒冰	mat_ice_ceiling
+brick wall	砖墙	mat_brick
+collapsed concrete	坍塌的混凝土	mat_concrete_collapsed
+tnt	tnt	mat_tnt
+text	文本	mat_trailer_text
+meteorite	陨石	mat_meteorite
+meteorite	陨石	mat_meteorite_crackable
+green meteorite	绿色陨石	mat_meteorite_green
+steel	钢	mat_steel
+rusted steel	锈蚀的钢	mat_steel_rust
+rusted metal	锈蚀金属	mat_metal_rust_rust
+rusted metal	锈蚀金属	mat_metal_rust_barrel_rust
+plastic	塑料	mat_plastic
+aluminium	铝	mat_aluminium
+metal	金属	mat_metal_prop
+metal	金属	mat_metal
+rock	岩石	mat_rock_box2d_hard
+rock	岩石	mat_rock_box2d_nohit
+dense rock	致密岩石	mat_rock_box2d_nohit_hard
+rock	岩石	mat_rock_static_box2d
+rock	岩石	mat_rock_box2d
+item	物品	mat_item_box2d
+gem	宝石	mat_gem_box2d
+glass	玻璃	mat_potion_glass_box2d
+glass	玻璃	mat_glass_box2d
+gem	宝石	mat_gem_box2d_pink
+gem	宝石	mat_gem_box2d_red
+gem	宝石	mat_gem_box2d_green
+gem	宝石	mat_gem_box2d_orange
+gold	黄金	mat_gold_box2d
+metal	金属	mat_metal_nohit
+rusted metal	锈蚀金属	mat_metal_rust
+rusted metal	锈蚀金属	mat_metal_rust_barrel
+bone	骨头	mat_bone_box2d
+crystal	晶体	mat_crystal
+purple crystal	紫水晶	mat_crystal_purple
+crystal	水晶	mat_crystal_magic
+aluminium	铝	mat_aluminium_oxide
+meat	肉	mat_meat
+urine	尿液	mat_urine
+excrement	粪便	mat_poo
+smoke	烟	mat_rocket_particles
+ice	寒冰	mat_ice_melting_perf_killer
+ice	寒冰	mat_ice_b2
+glass	玻璃	mat_glass
+neon tube	霓虹灯	mat_neon_tube_purple
+neon tube	霓虹灯	mat_neon_tube_cyan
+neon tube	霓虹灯	mat_neon_tube_blood_red
+blood	血液	mat_blood_thick
+snow	雪	mat_snow_b2
+diamond	钻石	mat_diamond
+slimy meat	发黏的肉	mat_meat_slime
+concrete	混凝土	mat_concrete_sand
+blood	血液	mat_blood
+blood	血液	mat_blood_fading
+gunpowder	火药	mat_gunpowder_explosive
+fungus	真菌	mat_fungi
+plant material	植物材料	mat_plant_material
+wood	木材	mat_wood_player
+wax	蜡	mat_wax_b2
+who knows	神秘物质	mat_physics_throw_material_part2
+fire	火焰	mat_fire_blue
+gold	黄金	mat_gold_b2
+fungus	真菌	mat_fungus_loose
+sodium	钠	mat_sodium
+sulphur	硫磺	mat_sulphur
+salt	盐	mat_salt
+steel	钢	mat_steel_sand
+slime	绿色黏液	mat_slime_green
+slime	黏液	mat_slime_pink
+soil	泥土	mat_soil_lush
+toxic sludge	毒性淤泥	mat_radioactive_liquid_yellow
+fire	火焰	mat_liquid_fire
+smoke	烟	mat_smoke_magic
+herb	药草	mat_sand_herb
+Tower	魔塔	biome_tower
+Frozen vault	冻结避难所	biome_vault_frozen
+Cloudscape	云景	biome_clouds
+Ancient laboratory	古代实验室	biome_liquidcave
+Abandoned alchemy lab	废弃炼金实验室	biome_secret_lab
+Crystal Chamber	晶体密室	biome_weathercrystal
+Frozen poison	冻结毒素	mat_ice_poison_static
+Frozen poison	冻结毒素	mat_ice_poison_glass
+Frozen slime	冻结黏液	mat_ice_slime_static
+Frozen slime	冻结黏液	mat_ice_slime_glass
+Frozen blood	冻结血液	mat_ice_blood_glass
+Void liquid	虚空液体	mat_void_liquid
+Mystery fungus	神秘真菌	mat_fungi_creeping
+Purifying powder	净化粉末	mat_purifying_powder
+Magical crystal	魔法水晶	mat_magic_crystal
+Cursed rock	诅咒岩石	mat_rock_static_cursed
+Frozen steel	冻结的钢	mat_steelfrost_static
+Slush	烂泥	mat_slush
+Poison	毒素	mat_poison
+Whiskey fumes	威士忌蒸汽	mat_alcohol_gas
+Vomit	呕吐物	mat_vomit
+fungus blood	真菌血液	mat_blood_fungi
+glowing fungal spore	发光真菌孢子	mat_glowshroom
+weird fungus	奇异真菌	mat_fungi_trippy
+Sima	Sima（一种芬兰蜂蜜酒）	mat_sima
+Tempered glass	钢化玻璃	mat_glass_liquidcave
+Ruined brick wall	残破砖墙	mat_templebrick_static_ruined
+Brittle brickwork	脆弱砖墙	mat_templebrick_brittle
+Brittle rock	脆弱岩石	mat_rock_brittle
+Antidote	解毒剂	mat_antidote
+flummoxium	混乱魔药	mat_confusion
+acceleratium	加速魔药	mat_magic_liquid_movement_faster
+worm pheromone	蠕虫魅惑魔药	mat_magic_liquid_worm_attractor
+ambrosia	神佑魔药	mat_magic_liquid_protection_all
+concentrated mana	聚能魔药	mat_magic_liquid_mana_regeneration
+Meat of an innocent creature	无辜生命的肉	mat_meat_helpless
+Weird meat	怪异的肉	mat_meat_trippy
+Cursed meat	诅咒肉块	mat_meat_cursed
+Slimy cursed meat	发黏的诅咒肉块	mat_meat_slime_cursed
+Ethereal meat	虚无的肉	mat_meat_teleport
+Unstable meat	不稳肉块	mat_meat_polymorph
+Ambiguous meat	似肉非肉	mat_meat_confusion
+Ruby	红宝石	mat_bloodgold_box2d
+levitatium	浮力魔药	mat_magic_liquid_faster_levitation
+hastium	迅捷魔药	mat_magic_liquid_faster_levitation_and_movement
+Healium	治疗魔药	mat_magic_gas_hp_regeneration
+Stinky meat	发臭的肉	mat_meat_polymorph_protection
+Heikko limanuljaska	虚弱的黏液毒瘤	animal_slimeshooter_weak
+Hyypi?	游魂	animal_wraith
+Hohtava hyypi?	冷光游魂	animal_wraith_glowing
+Stevari	圣山守卫	animal_necromancer_shop
+Maamiina	地雷	animal_mine
+Iti?sieni	孢子菇	animal_fungus_big
+Varjokupla	暗影泡泡	animal_lurker
+H?ivehiisi	席西隐形兵	animal_scavenger_invis
+Kilpihiisi	席西护盾兵	animal_scavenger_shield
+J?ttikonna	巨型蟾蜍	animal_frog_big
+Laser-tankki	MB坦克	animal_tank_super
+Ruttorotta	疫病鼠	animal_plague_rats_rat
+Heikko ?itinuljaska	虚弱的毒瘤母体	animal_giantshooter_weak
+Heikko happonuljaska	虚弱的酸液毒瘤	animal_acidshooter_weak
+Ukkoshyypi?	雷霆游魂	animal_wraith_storm
+Taivaskristalli	天空魔晶	animal_skycrystal_physics
+Limanuljaska	黏液毒瘤	animal_slimeshooter_nontoxic
+Torjuntalaite	哨戒炮塔	animal_turret_right
+Torjuntalaite	哨戒炮塔	animal_turret_left
+Hahmonvaihtaja	变形魔	animal_necromancer
+Pikkuh?m?h?kki	小型林蛛	animal_lukki_tiny
+Peitsivartija	圣枪守卫	animal_spearbot
+Kauhuhirvi?	惊惧怪兽	animal_ultimate_killer
+S?hik?ismennink?inen	投弹哥布林	animal_goblin_bomb
+Lohkare	岩石精怪	animal_pebble_physics
+Jalkamatkatavara	怪腿宝箱怪	animal_chest_leggy
+Kolmisilm?	三眼	animal_boss_centipede
+Kadotettu alkemisti	疯魔炼金术士	animal_failed_alchemist
+Ep?alkemisti	亡灵炼金术士	animal_failed_alchemist_b
+Valaistunut alkemisti	受启炼金术士	animal_enlightened_alchemist
+Laserkanuuna	激光枪	animal_lasergun
+Munkki	僧侣	animal_monk
+Patsas	雕像	animal_statue
+Ylialkemisti	大炼金术士	animal_boss_alchemist
+Palauttajamestari	反制法师	animal_wizard_returner
+Vaihdosmestari	换位法师	animal_wizard_swapper
+J?ttilaser-lennokki	巨型激光无人机	animal_drone_lasership
+M?rki?inen	萨满	animal_shaman
+Creates a rain of acid 	产生一阵酸液之雨	actiondesc_cloud_acid 
+Spells cast alongside this spell deal double damage	随此法术施放的法术造成双倍伤害	actiondesc_damage_x2
+Spells cast alongside this spell deal quintuple damage	随此法术施放的法术造成五倍伤害	actiondesc_damage_x5
+Makes a projectile release firecrackers when it disappears	令投射物在消失时放出爆竹	actiondesc_unstable_gunpowder
+A slow but powerful orb of energy that casts another spell after a timer runs out	缓慢而强大的能量球体，在定时结束后施放另一法术	actiondesc_slow_bullet_timer
+A fast, arcing projectile that casts another spell after a timer runs out	在定时结束后施放另一法术的弧线行进快速投射物	actiondesc_bouncy_orb_timer
+A magical bolt that heals other beings	治疗任何它击中的生物	actiondesc_heal_bullet
+Explosive projectile	易爆射击	action_explosive_projectile
+Explosion	爆炸	action_explosion
+Creates arcs of lightning between projectiles (requires 2 projectile spells)	投射物之间闪出一道雷电之弧（需要2个投射物法术）	actiondesc_arc_electric
+Creates arcs of fire between projectiles (requires 2 projectile spells)	投射物之间点燃一道火之弧（需要2个投射物法术）	actiondesc_arc_fire
+Creates arcs of gunpowder between projectiles (requires 2 projectile spells)	投射物之间撒下一道火药之弧（需要2个投射物法术）	actiondesc_arc_gunpowder
+Creates arcs of poison between projectiles (requires 2 projectile spells)	投射物之间流过一道毒素之弧（需要2个投射物法术）	actiondesc_arc_poison
+Giga death cross	巨型死亡十字	action_death_cross_big
+A giant, deadly energy cross that explodes after a short time	巨大的，短暂时间后爆炸的致命能量十字	actiondesc_death_cross_big
+Damage field	伤害力场	action_area_damage
+Gives a projectile an energy field that constantly deals 3.5 damage to nearby creatures	赋予投射物能量领域，对范围内的生物不断造成 3.5 伤害	actiondesc_area_damage
+Rock	召唤岩石	action_summon_rock
+Create a mighty rock out of thin air	凭空创造一块巨大的岩石	actiondesc_summon_rock
+Summon egg	召唤蛋	action_summon_egg
+Summons an egg that houses a friendly creature	召唤一颗孵有友好生物的蛋	actiondesc_summon_egg
+Large spitter bolt	大型分裂弹	action_spitter_tier_2
+A more powerful version of Spitter Bolt	分裂弹的更强大版本	actiondesc_spitter_tier_2
+Large spitter bolt with timer	带有定时的大型分裂弹	action_spitter_tier_2_timer
+A more powerful version of Spitter Bolt that casts another spell after a timer runs out	在定时结束后施放另一法术的加强版分裂弹	actiondesc_spitter_tier_2_timer
+Giant spitter bolt	巨型分裂弹	action_spitter_tier_3
+The most powerful version of Spitter Bolt	最强大形式的分裂弹	actiondesc_spitter_tier_3
+Giant spitter bolt with timer	带有定时的巨型分裂弹	action_spitter_tier_3_timer
+The most powerful version of Spitter Bolt that casts another spell after a timer runs out	在定时结束后施放另一法术的最强版分裂弹	actiondesc_spitter_tier_3_timer
+Chaotic transmutation	混乱转化	action_transmutation
+Transmutes various liquids and powdery substances within a projectile's range into something else	令投射物范围内的液体和粉末变为其他随机物质	actiondesc_transmutation
+Toxic sludge to acid	毒性淤泥化酸	action_toxic_to_acid
+Makes any toxic sludge within a projectile's range turn into acid	令投射物范围内的所有毒性淤泥变为酸液	actiondesc_toxic_to_acid
+Summon Taikasauva	召唤魔杖灵	action_summon_wandghost
+Summons a possessed wand to aid you	召唤一支附魂的魔杖来支援你	actiondesc_summon_wandghost
+Touch of Gold	点金之触	action_touch_gold
+Transmutes everything in a short radius into gold, including walls, creatures... and you	将短距离内的一切转化为黄金，包括墙壁、生物... 还有你自己	actiondesc_touch_gold
+Touch of Water	清水之触	action_touch_water
+Transmutes everything in a short radius into water, including walls, creatures... and you	将短距离内的一切转化为清水，包括墙壁、生物... 还有你自己	actiondesc_touch_water
+Touch of Oil	油液之触	action_touch_oil
+Transmutes everything in a short radius into oil, including walls, creatures... and you	将短距离内的一切转化为油，包括墙壁、生物... 还有你自己	actiondesc_touch_oil
+Touch of Spirits	烈酒之触	action_touch_alcohol
+Transmutes everything in a short radius into alcohol, including walls, creatures... and you	将短距离内的一切转化为烈酒，包括墙壁、生物... 还有你自己	actiondesc_touch_alcohol
+Touch of Blood	鲜血之触	action_touch_blood
+Transmutes everything in a short radius into blood, including walls, creatures... and you	将短距离内的一切转化为鲜血，包括墙壁、生物... 还有你自己	actiondesc_touch_blood
+Touch of Smoke	烟尘之触	action_touch_smoke
+Transmutes everything in a short radius into smoke, including walls, creatures... and you	将短距离内的一切转化为烟，包括墙壁、生物... 还有你自己	actiondesc_touch_smoke
+Destruction	毁灭	action_destruction
+Instantly decimates foes around you, at the cost of your maximum HP	以减少生命值上限为代价，立即消灭周围的敌人	actiondesc_destruction
+Projectile transmutation field	投射物变形领域	action_projectile_transmutation_field
+Projectiles caught within the field transform into harmless critters	领域捕获到的投射物会转化为无害的小生物	actiondesc_projectile_transmutation_field
+Chaotic path	混乱路径	action_chaotic_arc
+Causes a projectile to chaotically fly wherever it wishes	令投射物混乱地随意飞行	actiondesc_chaotic_arc
+Projectile thunder field	投射物雷电领域	action_projectile_thunder_field
+Projectiles caught within the field transform into blasts of lightning	领域捕获到的投射物会转化为闪电爆炸	actiondesc_projectile_thunder_field
+Projectile gravity field	投射物重力领域	action_projectile_gravity_field
+Projectiles caught within the field are attracted towards its center	领域捕获到的投射物会被吸引到领域中心	actiondesc_projectile_gravity_field
+Fly downwards	延时下坠	action_fly_downwards
+Causes a projectile to aim straight downwards a short time after casting	短暂时间后，投射物将径直下落	actiondesc_fly_downwards
+Fly upwards	延时上冲	action_fly_upwards
+Causes a projectile to aim straight upwards a short time after casting	短暂时间后，投射物将径直上扬	actiondesc_fly_upwards
+Horizontal path	水平路径	action_horizontal_arc
+Forces a projectile on a horizontal path, but increases its damage	强制投射物以水平路径行进，但会增加其伤害	actiondesc_horizontal_arc
+Luminous drill	光剑	action_luminous_drill
+A pinpointed, short-ranged beam of concentrated light	一束精确的短程集聚光束	actiondesc_luminous_drill
+Luminous drill with timer	带有定时的光剑	action_luminous_drill_timer
+A pinpointed, short-ranged beam of concentrated light that casts another spell after a timer runs out	定时结束后施放另一法术的短程集聚光束	actiondesc_luminous_drill_timer
+Explosion on slimy enemies	黏液引爆	action_hitfx_explosion_slime
+Makes a projectile explode upon collision with creatures covered in slime	令投射物撞上沾染黏液的敌人时产生爆炸	actiondesc_hitfx_explosion_slime
+Giant explosion on slimy enemies	巨型黏液引爆	action_hitfx_explosion_slime_giga
+Makes a projectile explode powerfully upon collision with creatures covered in slime	令投射物撞上沾染黏液的敌人时产生巨大爆炸	actiondesc_hitfx_explosion_slime_giga
+Explosion on drunk enemies	烈酒引爆	action_hitfx_explosion_alcohol
+Makes a projectile explode upon collision with creatures covered in alcohol	令投射物撞上醉酒的敌人时产生爆炸	actiondesc_hitfx_explosion_alcohol
+Giant explosion on drunk enemies	巨型烈酒引爆	action_hitfx_explosion_alcohol_giga
+Makes a projectile explode powerfully upon collision with creatures covered in alcohol	令投射物撞上醉酒的敌人时产生巨大爆炸	actiondesc_hitfx_explosion_alcohol_giga
+Personal fireball thrower	火球投射附身	action_fireball_ray_enemy
+Makes a projectile turn the creatures it hits into living fireball throwers	令投射物击中的生物变为行走的火球发射器	actiondesc_fireball_ray_enemy
+Lightning thrower	雷电放射	action_lightning_ray
+Makes a projectile cast lightning in random directions	令投射物飞行时向随机方向投掷雷电	actiondesc_lightning_ray
+Personal lightning caster	雷电放射附身	action_lightning_ray_enemy
+Makes a projectile turn the creatures it hits into living thunderstorms	令投射物击中的生物变为行走的闪电风暴	actiondesc_lightning_ray_enemy
+Tentacler	触手怪	action_tentacle_ray
+Makes a projectile cast tentacles in random directions	投射物在飞行时向随机方向发射触手	actiondesc_tentacle_ray
+Personal tentacler	触手怪附身	action_tentacle_ray_enemy
+Makes creatures hit by a projectile grow tentacles in a chaotic manner	令被投射物击中的生物以混乱的方式长出触手	actiondesc_tentacle_ray_enemy
+Charm on toxic sludge	毒性淤泥魅惑	action_hitfx_toxic_charm
+Makes a projectile charm creatures covered in toxic sludge	投射物击中会魅惑带有毒性淤泥状态的生物	actiondesc_hitfx_toxic_charm
+Eldritch portal	恐怖传送门	action_tentacle_portal
+Summons a one-way portal to a sinister realm	打开一个单向传送门，邪恶的异界生物会伸出它们的触手	actiondesc_tentacle_portal
+Ground to sand	化地为砂	action_static_to_sand
+Makes any hard, solid materials within a projectile's range turn into sand	投射物范围内的所有坚硬结实材料变为砂粒	actiondesc_static_to_sand
+Personal gravity field	引力场附身	action_gravity_field_enemy
+Makes creatures hit by a projectile gain a temporary gravity well that draws projectiles in	令投射物击中的生物获得暂时性的重力井，吸引范围内的投射物	actiondesc_gravity_field_enemy
+Summon hollow egg	召唤空心蛋	action_summon_hollow_egg
+Summons an otherwise empty egg that casts a spell upon cracking open	召唤一个空的蛋，在裂开之时释放法术	actiondesc_summon_hollow_egg
+Triplicate bolt	三重魔弹	action_buckshot
+A formation of three small, fast bolts	由三个小型快速魔弹组成	actiondesc_buckshot
+Increase lifetime	延长存在时间	action_lifetime
+Increases the lifetime of a spell	延长法术的存在时间	actiondesc_lifetime
+Increase mana	提升法力	action_mana_reduce
+Immediately adds 30 mana to the wand	立即向魔杖注入30 法力	actiondesc_mana_reduce
+Shortlived spell	短暂法术	action_shortlived_shot
+Makes a projectile lasts only a very short amount of time, but deal more damage	令投射物仅会存在非常短暂的时间，但会造成更多的伤害	actiondesc_shortlived_shot
+Horizontal barrier	水平屏障	action_wall_horizontal
+A thin, horizontal barrier that harms passing creatures, including you	创造一道薄薄的水平屏障伤害通过的生物，也包括你	actiondesc_wall_horizontal
+Vertical barrier	垂直屏障	action_wall_vertical
+A thin, vertical barrier that harms passing creatures, including you	创造一道薄薄的垂直屏障伤害通过的生物，也包括你	actiondesc_wall_vertical
+Square barrier	方形屏障	action_wall_square
+A thin, square-shaped barrier that harms passing creatures, including you	创造一道方形的垂直屏障伤害通过的生物，也包括你	actiondesc_wall_square
+Glittering field	闪光领域	action_purple_explosion_field
+Small explosions appear randomly over a large area	在大区域内随机出现小型爆炸	actiondesc_purple_explosion_field
+Light shot	轻盈一击	action_light_shot
+Makes a projectile move considerably faster, but deal less damage	令投射物的移动速度变得相当快，但造成的伤害会降低	actiondesc_light_shot
+Commander bolt	指挥魔弹	action_commander_bullet
+Any projectiles shot alongside the command bolt will be attracted to it. Casts 3 extra spells upon being cast	随指挥魔弹发射的投射物将会被其吸引。施放时施展 3 个额外法术	actiondesc_commander_bullet
+Giga disc projectile	巨型锯片	action_disc_bullet_big
+Summons a large, serrated disc with a curious flight pattern	召唤一个巨大的，具有奇特飞行方式的碟状投射物	actiondesc_disc_bullet_big
+Explosive bounce	爆炸式弹跳	action_bounce_explosion
+Makes a projectile explode as it bounces	令投射物在弹跳时爆炸	actiondesc_bounce_explosion
+Downwards bolt bundle	下行集束弹	action_rocket_downwards
+Makes a projectile separate into a bundle of 5 explosive bolts as soon as it moves downwards	令投射物在向下移动时分裂成 5 个一组的爆裂魔弹	actiondesc_rocket_downwards
+Piercing shot	穿刺射击	action_piercing_shot
+Makes a projectile fly through enemies, but harmful to the caster	令投射物能够飞行穿透敌人，但对施放者也可造成伤害	actiondesc_piercing_shot
+Drilling shot	穿凿射击	action_clipping_shot
+Gives a projectile the power to go through the ground	赋予投射物穿透地面的力量	actiondesc_clipping_shot
+Delayed spellcast	延时施法	action_delayed_spell
+A static, magical phenomenon that casts 3 extra spells after a short while	静态的神奇法术，在短暂时间后施放3个额外法术。	actiondesc_delayed_spell
+Guarding spellcast	防护施法	action_turret_spell
+A static, magical phenomenon that casts 3 extra spells if an enemy approaches it	静态的神奇法术，敌人靠近时施放3个额外法术。	actiondesc_turret_spell
+Accelerating shot	逐渐加速	action_accelerating_shot
+Causes a projectile to accelerate as it flies	令投射物的速度由慢到快加速	actiondesc_accelerating_shot
+Avoiding arc	规避路径	action_avoiding_arc
+Makes a projectile shy away from obstacles	令投射物避开障碍物	actiondesc_avoiding_arc
+Reduce lifetime	缩减存在时间	action_lifetime_down
+Reduces the lifetime of a spell	缩短法术的存在时间	actiondesc_lifetime_down
+Long-distance cast	远程施法	action_long_distance_cast
+Casts a spell some distance away from the caster	在与施法者一定距离的位置施放法术	actiondesc_long_distance_cast
+Teleporting cast	传送施法	action_teleport_cast
+Casts a spell from the closest enemy	从最近的敌人位置施放法术	actiondesc_teleport_cast
+Heavy spread	全面散射	action_heavy_spread
+Gives a projectile a much lower cast delay, but no respect to your aim	显著降低投射物的施放延迟，但你很难再瞄准	actiondesc_heavy_spread
+Ocarina - note A	陶笛 - 音符 A	action_ocarina_a
+Music for your ears!	悦耳的音乐！	actiondesc_ocarina_a
+Ocarina - note B	陶笛 - 音符 B	action_ocarina_b
+Music for your ears!	悦耳的音乐！	actiondesc_ocarina_b
+Ocarina - note C	陶笛 - 音符 C	action_ocarina_c
+Music for your ears!	悦耳的音乐！	actiondesc_ocarina_c
+Ocarina - note D	陶笛 - 音符 D	action_ocarina_d
+Music for your ears!	悦耳的音乐！	actiondesc_ocarina_d
+Ocarina - note E	陶笛 - 音符 E	action_ocarina_e
+Music for your ears!	悦耳的音乐！	actiondesc_ocarina_e
+Ocarina - note F	陶笛 - 音符 F	action_ocarina_f
+Music for your ears!	悦耳的音乐！	actiondesc_ocarina_f
+Ocarina - note G#	陶笛 - 音符 G#	action_ocarina_gsharp
+Music for your ears!	悦耳的音乐！	actiondesc_ocarina_gsharp
+Ocarina - note A2	陶笛 - 音符 A2	action_ocarina_a2
+Music for your ears!	悦耳的音乐！	actiondesc_ocarina_a2
+Chain bolt	连锁魔弹	action_chain_bolt
+Fires a mysterious bolt that jumps from enemy to enemy	发射会在敌人之间跳跃的神秘魔弹	actiondesc_chain_bolt
+Glitter bomb	闪光炸弹	action_glitter_bomb
+Summons a bomb that explodes into volatile fragments	召唤一枚会爆炸成易燃碎片的炸弹	actiondesc_glitter_bomb
+Two-way fireball thrower	双向火球投射	action_fireball_ray_line
+Makes a projectile fire small fireballs perpendicular to its trajectory	令投射物不断在垂直于其弹道的两边发射小火球	actiondesc_fireball_ray_line
+Ping-pong path	乒乓路径	action_pingpong_path
+Makes a projectile fly back and forth	令投射物来回飞行	actiondesc_pingpong_path
+Floating arc	悬浮路径	action_floating_arc
+Makes a projectile float above the ground	投射物悬浮于墙体或地面行进	actiondesc_floating_arc
+Return	闪回	action_teleport_projectile_static
+After a period of time, you'll be returned to where you cast this spell	一段时间之后，返回施放这个法术的地方	actiondesc_teleport_projectile_static
+Freezing gaze	冰冷凝视	action_freezing_gaze
+A heart-freezingly sinister aura	令人心里发凉的险恶灵光	actiondesc_freezing_gaze
+Pinpoint of light	聚爆光束	action_glowing_bolt
+An extremely concentrated point of light that explodes after a moment	一道汇聚为一线的精确光束，会在一段时间后爆炸	actiondesc_glowing_bolt
+Chaos magic	混乱魔法	action_random_explosion
+Makes a projectile launch a random spell (out of a limited selection) when it hits something	令投射物在击中物体时发出随机法术（选择有限）	actiondesc_random_explosion
+Decelerating shot	逐渐减速	action_decelerating_shot
+Makes a projectile decelerate as it flies	令投射物在飞行时减速	actiondesc_decelerating_shot
+Octagonal bolt bundle	八角形集束弹	action_rocket_octagon
+Makes a projectile launch 8 magical bolts if it moves slowly enough	令投射物在移动速度慢至一定程度时发出 8 发魔弹	actiondesc_rocket_octagon
+Blood magic	血液魔法	action_blood_magic
+Reduces a spell's mana cost and recharge time greatly, at the costs of four health points	以 4 点生命值为代价，大幅削减法术的法力消耗和充能时间	actiondesc_blood_magic
+Fizzle	闪灭	action_fizzle
+Gives a spell a small probability of short-circuiting	法术有小几率短路	actiondesc_fizzle
+Warp cast	折跃施法	action_super_teleport_cast
+Makes a spell immediately jump a long distance, stopped by walls	令法术立即跳跃长距离，可受墙壁阻止	actiondesc_super_teleport_cast
+Laser bounce	激光弹跳	action_bounce_laser
+Makes a projectile release a bundle of concentrated light as it bounces	令投射物在弹跳时发出一系列汇聚之光	actiondesc_bounce_laser
+Magic guard	魔法护卫	action_magic_shield
+Four guarding lights rotate around you for a time	四道护卫之光在你周围旋转一段时间	actiondesc_magic_shield
+Big magic guard	大型魔法护卫	action_big_magic_shield
+Eight guarding lights rotate around you for a time	八道护卫之光在你周围旋转一段时间	actiondesc_big_magic_shield
+Summon fly swarm	召唤苍蝇群	action_swarm_fly
+Summons five flies to aid you in battle	召唤五只苍蝇，为你助战	actiondesc_swarm_fly
+Summon Firebug swarm	召唤萤火虫群	action_swarm_firebug
+Summons four fire bugs to aid you in battle	召唤四只萤火虫，为你助战	actiondesc_swarm_firebug
+Summon Wasp swarm	召唤黄蜂群	action_swarm_wasp
+Summon six wasps to aid you in battle	召唤六只黄蜂，为你助战	actiondesc_swarm_wasp
+Summon Friendly fly	召唤友好苍蝇	action_friend_fly
+Summons a friendly fly that attacks your enemies!	召唤一只友好的苍蝇，攻击你的敌人！	actiondesc_friend_fly
+Spell duplication	法术复制	action_duplicate
+Duplicates every spell cast before it	复制在之后施放的每个法术	actiondesc_duplicate
+Infestation	侵扰	action_infestation
+A bunch of magical sparks that fly in every direction	一批魔法火花向各个方向飞去	actiondesc_infestation
+Earthquake shot	裂地射击	action_crumbling_earth_projectile
+Makes a projectile crumble the earth it hits	投射物令击中的土地分崩离析	actiondesc_crumbling_earth_projectile
+Random spell	随机法术	action_random_spell
+Casts a spell, any spell, at random!	随机施放一个法术 – 随便什么法术！	actiondesc_random_spell
+Random projectile spell	随机投射物法术	action_random_projectile
+Casts one random projectile spell	施放一个随机投射物法术	actiondesc_random_projectile
+Random modifier spell	随机修正法术	action_random_modifier
+Casts one random modifier spell	施放一个随机修正法术	actiondesc_random_modifier
+Random static projectile spell	随机静态投射物法术	action_random_static_projectile
+Casts one random static projectile spell	施放一个随机静态投射物法术	actiondesc_random_static_projectile
+Copy random spell	复制随机法术	action_draw_random
+Casts a random spell among the spells in your wand	施放你魔杖中法术中的一个随机法术	actiondesc_draw_random
+Copy random spell thrice	三次复制随机法术	action_draw_random_x3
+Casts a random spell among the spells in your wand three times!	施放你魔杖中法术中的一个随机法术三次！	actiondesc_draw_random_x3
+Copy three random spells	复制三个随机法术	action_draw_3_random
+Casts three random spells among the spells in your wand	施放你魔杖中法术中的三个随机法术	actiondesc_draw_3_random
+Random damage	随机伤害	action_damage_random
+Randomly increases or lowers the damage done by projectiles	随机提高或降低投射物造成的伤害	actiondesc_damage_random
+Alpha	阿尔法	action_alpha
+Casts a copy of the first spell in your wand	施放你魔杖中第一个法术的复制品	actiondesc_alpha
+Omega	欧米伽	action_omega
+Casts copies of every spell in your wand	施放你魔杖中的每个法术	actiondesc_omega
+Gamma	伽马	action_gamma
+Casts a copy of the next spell in your wand	施放你魔杖中下个法术的复制品	actiondesc_gamma
+Divide by 2	一分为二	action_divide_2
+The projectile is divided in two pieces with lower damage	投射物分裂为两个，但伤害降低	actiondesc_divide_2
+Divide by 3	一分为三	action_divide_3
+The projectile is divided in three pieces with lower damage	投射物分裂为三个，但伤害降低	actiondesc_divide_3
+Divide by 4	一分为四	action_divide_4
+The projectile is divided in four pieces with lower damage	投射物分裂为四个，但伤害降低	actiondesc_divide_4
+Divide by 10	一分为十	action_divide_10
+The projectile is divided in ten pieces with lower damage	投射物分裂为十个，但伤害降低	actiondesc_divide_10
+Spells to nukes	核弹置换术	action_all_nukes
+Transforms every projectile currently in the air into a nuke; not a good idea	将目前正在空中飞行的每个投射物化为核弹；不算是个好点子	actiondesc_all_nukes
+Spells to giga sawblades	巨型圆锯置换术	action_all_discs
+Transforms every projectile currently in the air into a giant sawblade	将目前正在空中飞行的每个投射物化为巨型锯片	actiondesc_all_discs
+Spells to black holes	黑洞置换术	action_all_blackholes
+Transforms every projectile currently in the air into a black hole	将目前正在空中飞行的每个投射物化为黑洞	actiondesc_all_blackholes
+Spells to magic missiles	魔法飞弹置换术	action_all_rockets
+Transforms every projectile currently in the air into a magic missile	将目前正在空中飞行的每个投射物化为魔法飞弹	actiondesc_all_rockets
+Spells to death crosses	死亡十字置换术	action_all_deathcrosses
+Transforms every projectile currently in the air into a death cross	将目前正在空中飞行的每个投射物化为死亡十字	actiondesc_all_deathcrosses
+Spells to acid	酸液置换术	action_all_acid
+Transforms every projectile currently in the air into a pool of acid	将目前正在空中飞行的每个投射物化为一池酸液	actiondesc_all_acid
+The end of everything	万物之终结	action_all_spells
+You're heavily advised not to cast this spell.	强烈建议不要施放这个法术。	actiondesc_all_spells
+Add trigger	追加触发	action_add_trigger
+Makes a projectile cast another spell upon collision	令投射物在碰撞时施放另一法术	actiondesc_add_trigger
+Add timer	追加定时	action_add_timer
+Makes a projectile cast another spell after a short time	令投射物在短暂时间后施放另一法术	actiondesc_add_timer
+Add expiration trigger	追加失效触发	action_add_death_trigger
+Makes a projectile cast another spell upon expiring	令投射物在失效时施放另一法术	actiondesc_add_death_trigger
+Copy spell	复制法术	action_copy_spell
+Copies a projectile near you	复制你附近的一个投射物	actiondesc_copy_spell
+Copy field	复制领域	action_copy_field
+A magical field that copies any projectiles near it	复制附近所有投射物的神奇领域	actiondesc_copy_field
+Chaos larpa	混沌拉帕	action_larpa_chaos
+Makes a projectile cast copies of itself in random directions	令投射物向随机方向施放自身的复制品	actiondesc_larpa_chaos
+Downwards larpa	下方向拉帕	action_larpa_downwards
+Makes a projectile cast copies of itself with a downwards trajectory	令投射物以向下的轨迹施放自身的复制品	actiondesc_larpa_downwards
+Upwards larpa	上方向拉帕	action_larpa_upwards
+Makes a projectile cast copies of itself with an upwards trajectory	令投射物以向上的轨迹施放自身的复制品	actiondesc_larpa_upwards
+Delta	德尔塔	action_delta
+Casts a copy of the last spell in your wand	施放你魔杖中最后一个法术的复制品	actiondesc_delta
+Copy trail	复制轨迹	action_larpa_chaos_2
+Makes a projectile leave a trail of copies of itself	投射物留下由自身复制品构成的轨迹	actiondesc_larpa_chaos_2
+A good tool for cutting meat. Also has some magical properties...	切肉的不错工具。同时也有一些魔法属性...	actiondesc_chainsaw
+Prickly Spore Pod	多刺孢子荚	action_spore_pod
+Summons a spore pod that attaches to a surface and then grows and explodes into spikes	发射一个会附着在物体表面生长并爆炸出棘刺的孢子荚	actiondesc_spore_pod
+Projectile energy shield	投射物能量盾	action_energy_shield_shot
+Gives a projectile a shield that deflects other projectiles	为投射物赋予护盾，偏转其他投射物	actiondesc_energy_shield_shot
+Auto-Aim	自动瞄准	action_autoaim
+Makes a projectile turns towards the nearest visible enemy	令投射物射出时偏向视野内最近的敌人	actiondesc_autoaim
+Rotate towards foes	自动制导	action_homing_rotate
+Makes a projectile turn towards your foes	令投射物转向你的敌人	actiondesc_homing_rotate
+Makes a projectile accelerate towards your foes	令投射物向你的敌人加速扑去	actiondesc_homing
+Swapper	移形换位	action_swapper_projectile
+It was theorized that the source of qualia would be transferred …But it turns out it was the whole body all along.	理论上，只有感质的本源会被转移... 但实际总是牵一发而动全身。	actiondesc_swapper_projectile
+Propane tank	煤气罐	action_propane_tank
+Summons a propane tank. Be careful what you wish for.	召唤一个煤气罐，效果可能出乎意料，请谨慎使用	actiondesc_propane_tank
+Intense concentrated light	高能汇聚之光	action_megalaser
+A spectral wand is summoned that casts a huge beam of light	召唤一把施放强大的聚能光束的灵能魔杖	actiondesc_megalaser
+Bomb cart	炸弹矿车	action_bomb_cart
+Summons a self-propeled mine cart loaded with explosives	召唤一辆满载炸药的自推进矿车	actiondesc_bomb_cart
+Summon Tiny Ghost	召唤小幽灵	action_tiny_ghost
+Summons a tiny ethereal being to your help	召唤一个小小的灵体来帮助你	actiondesc_tiny_ghost
+Bubbly bounce	泡泡弹跳	action_bounce_spark
+Makes a projectile shoot bubble sparks as it bounces	令投射物在弹跳时射出泡泡火花	actiondesc_bounce_spark
+Cursed sphere	诅咒球	action_cursed_orb
+A projectile that brings bad luck to anyone it hits	将厄运带给被击中者的投射物	actiondesc_cursed_orb
+Kantele - note A	齐特琴 - 音符 A	action_kantele_a
+Music for your ears!	悦耳的音乐！	actiondesc_kantele_a
+Kantele - note B	齐特琴 - 音符 B	action_kantele_b
+Music for your ears!	悦耳的音乐！	actiondesc_kantele_b
+Kantele - note C	齐特琴 - 音符 C	action_kantele_c
+Music for your ears!	悦耳的音乐！	actiondesc_kantele_c
+Kantele - note D	齐特琴 - 音符 D	action_kantele_d
+Music for your ears!	悦耳的音乐！	actiondesc_kantele_d
+Kantele - note E	齐特琴 - 音符 E	action_kantele_e
+Music for your ears!	悦耳的音乐！	actiondesc_kantele_e
+Kantele - note F	齐特琴 - 音符 F	action_kantele_f
+Music for your ears!	悦耳的音乐！	actiondesc_kantele_f
+Kantele - note G#	齐特琴 - 音符 G#	action_kantele_gsharp
+Music for your ears!	悦耳的音乐！	actiondesc_kantele_gsharp
+Kantele - note A2	齐特琴 - 音符 A2	action_kantele_a2
+Music for your ears!	悦耳的音乐！	actiondesc_kantele_a2
+Kantele - note D#	齐特琴 - 音符 D#	action_kantele_dis
+Music for your ears!	悦耳的音乐！	actiondesc_kantele_dis
+Kantele - note G	齐特琴 - 音符 G	action_kantele_g
+Music for your ears!	悦耳的音乐！	actiondesc_kantele_g
+Stronger Hearts	更强大的心	perk_hearts_more_extra_hp
+Hearts bestow double the maximum health.	拾取心给予的生命值上限翻倍。	perkdesc_hearts_more_extra_hp
+Extra Perk	更多天赋选项	perk_extra_perk
+From now on you will find an extra perk in every Holy Mountain.	从现在开始，每座神圣之山里会多出一个可供选择的天赋。	perkdesc_extra_perk
+Perk Lottery	天赋博彩	perk_perks_lottery
+When you pick a perk, there's a 50% chance the others won't disappear.	当你选择一个天赋，其它天赋有50%的机会不会消失。	perkdesc_perks_lottery
+More Hatred	更多仇恨	perk_genome_more_hatred
+Creatures become more aggressive towards each other.	生物之间变得更加富有侵略性。	perkdesc_genome_more_hatred
+More Love	更多友爱	perk_genome_more_love
+Creatures become more friendly towards each other.	生物之间变得更加友善。	perkdesc_genome_more_love
+Random Allies	随机盟友	perk_random_allies
+You're allies with a random enemy group.	你与一个随机敌人群体成为盟友。	perkdesc_random_allies
+All-Seeing Eye	全视之眼	perk_remove_fog_of_war
+You can see everywhere.	你能看到所有地方。	perkdesc_remove_fog_of_war
+Attract Gold	吸金大法	perk_attract_items
+Gold nuggets gravitate towards you.	金块被你吸引。	perkdesc_attract_items
+Never Skip Leg Day	坚持练腿	perk_strong_kick
+Your kicks deal extra damage and knockback.	你的踢击会造成额外的伤害和击退。	perkdesc_strong_kick
+Projectile Repulsion Field	斥力场	perk_projectile_repulsion
+Most projectiles are repulsed by your presence, but you take slightly more projectile damage.	大部分投射物都会被你弹开，但是你受到的投射物伤害略微增加。	perkdesc_projectile_repulsion
+You bleed slime, but slime no longer slows you down.	你受伤时会流出黏液，但黏液不再减缓你的速度。	perkdesc_bleed_slime
+Multiplied HP, No Healing	双倍生命，永无治愈	perk_multiply_hp
+Your HP has been multiplied but you can no longer regain HP.	你的生命值上限已翻倍，但你不再能恢复生命值。	perkdesc_multiply_hp
+Oil Blood	油性血液	perk_bleed_oil
+You bleed flammable oil.	你受伤时会流出易燃的油。	perkdesc_bleed_oil
+Golden I	黄金眼	perk_golden_i
+Gold that you've seen no longer disappears over time.	你看到过的黄金不会随着时间的推移而消失。	perkdesc_golden_i
+Knockback Immunity	不动如山	perk_no_player_knockback
+Knockback does not affect you.	你不会被击退。	perkdesc_no_player_knockback
+Extra Knockback on Spells	强力冲击	perk_extra_knockback
+Your spells knock enemies around with more force.	法术以更大力道将敌人击退。	perkdesc_extra_knockback
+Concentrated Spells	聚焦法术	perk_lower_spread
+Your spells have lower spread, but they push you back more.	你的法术更加精准，但后坐力变大。	perkdesc_lower_spread
+Bouncing Spells	弹跳法术	perk_bounce
+Almost all your spells bounce around.	你的几乎所有法术都能够弹跳。	perkdesc_bounce
+Boomerang Spells	回旋法术	perk_projectile_homing_shooter
+Almost all your spells arc towards you. You gain higher projectile resistance.	你的几乎所有法术都会飞回你身边。你获得更高的投射物抗性。	perkdesc_projectile_homing_shooter
+Worm Attractor	蠕虫吸引	perk_worm_attractor
+Worms find you attractive.	蠕虫认为你魅力非凡。	perkdesc_worm_attractor
+Worm Detractor	蠕虫排斥	perk_worm_detractor
+Worms run from you.	蠕虫远远避开你。	perkdesc_worm_detractor
+Fast Swimming	更快游泳	perk_speed_diver
+You are an expert swimmer!	你是一名游泳健将！	perkdesc_speed_diver
+Revenge Tentacle	复仇触手	perk_revenge_tentacle
+You call a monstrous tentacle against those who harm you.	呼唤出可怖的触手，对付伤害你的家伙。	perkdesc_revenge_tentacle
+Lukki Mutation	蛛腿突变	perk_attack_foot
+You grow curious additional limbs that fight for you.	你长出奇特的额外肢体。它们会为你而战。	perkdesc_attack_foot
+Plague Rats	瘟疫鼠群	perk_plague_rats
+Enemies that die near you summon hungry rats to serve your bidding.	从在你附近死去的敌人召唤出饥饿的鼠群，听从你的吩咐。	perkdesc_plague_rats
+Enemy Radar	探敌雷达	perk_radar_enemy
+You can sense nearby enemies.	你能感应到附近的敌人。	perkdesc_radar_enemy
+Wand Radar	探杖雷达	perk_radar_wand
+You can sense nearby wands.	你能感应到附近的魔杖。	perkdesc_radar_wand
+Unlimited Spells	无限法术	perk_unlimited_spells
+Most spells are now unlimited.	大部分法术不再有使用次数限制。	perkdesc_unlimited_spells
+Leggy Mutation	怪腿变异	perk_leggy_feet
+You grow disturbing looking limbs that fight for you.	你长出看上去颇为令人困扰的肢体。它们会为你而战。	perkdesc_leggy_feet
+Always Cast	始终施放	perk_always_cast
+A random Always Cast spell is added to the wand in your hand, with a maximum of 5.	你当前手持的魔杖追加一个随机的始终施放法术。（每根上限5个）	perkdesc_always_cast
+No More Shuffle	不再乱序	perk_no_more_shuffle
+From now on there are no more shuffling wands. The wands you carry with you turn into non-shufflers too.	从现在开始，不再会有乱序魔杖。你持有的魔杖也会变成非乱序魔杖。	perkdesc_no_more_shuffle
+Vampirism	吸血术	perk_vampirism
+You regain health from drinking blood, but you lose one third of maximum health. Blood doesn't affect satiation level.	饮用血液可恢复生命，但会损失最大生命值的 1/3。血液不会影响饱食度。	perkdesc_vampirism
+No Wand Tinkering	无法修改魔杖	perk_no_wand_editing
+Wands cannot be tinkered with, but enemies may drop blood money.	魔杖无法修改，但敌人会掉落血金。	perkdesc_no_wand_editing
+Telekinetic Kick	念力踢击	perk_telekinesis
+You gain new telekinetic powers.	你的踢技被赋予了念力，可以操控物体	perkdesc_telekinesis
+Duplicated shots	复制攻击	perk_projectile_duplicate
+Your spells duplicate as they hit obstacles.	法术击中障碍时复制。	perkdesc_projectile_duplicate
+Living on the Edge	刀尖舔血	perk_low_hp_damage_boost
+Your spells deal 3x damage when you're under 25 HP or 25% of maximum health.	生命值少于 25 或最大生命值的 25% 时，法术造成 3 倍伤害。	perkdesc_low_hp_damage_boost
+Faster Levitation	更快漂浮	perk_faster_levitation
+You levitate 75% faster.	上升速度提高 75%。	perkdesc_faster_levitation
+Peace with Gods	与神和解	perk_peace_with_steve
+You make peace with your Gods.	你不会触怒神明并与之和谐共处。	perkdesc_peace_with_steve
+Gold Is Forever	黄金永存	perk_gold_is_forever
+Gold nuggets never disappear.	金块不再消失。	perkdesc_gold_is_forever
+Wand Experimenter	魔杖实验家	perk_wand_experimenter
+Trick Blood Money	技巧血金	perk_trick_blood_money
+Blood money is dropped when death is an accident.	敌人意外死亡时会掉落血金。	perkdesc_trick_blood_money
+Levitation Trail	悬浮尾迹	perk_levitation_trail
+When levitating, you leave a trail of magical sparks that harm passing creatures.	漂浮时，你会留下一串魔法火花轨迹，伤害经过的生物。	perkdesc_levitation_trail
+Firing newly found and unmodified wands heals you.	使用新近找到和未经修改的魔杖可为你带来治疗。	perkdesc_wand_experimenter
+Freezing Immunity	冷冻免疫	perk_protection_freeze
+You cannot be frozen.	你无法被冰冻。	perkdesc_protection_freeze
+Missing Key	丢失的钥匙	item_mcguffin
+This has been said to complete the Work	据说有这个就能让“伟大之作”完整	itemdesc_mcguffin
+The Salt	盐	item_mcguffin_0
+This has been said to complete the Work	据说有这个就能让“伟大之作”完整	itemdesc_mcguffin_0
+Our Matter	原质	item_mcguffin_1
+This has been said to complete the Work	据说有这个就能让“伟大之作”完整	itemdesc_mcguffin_1
+Hermes bird	赫尔墨斯之鸟	item_mcguffin_2
+This has been said to complete the Work	据说有这个就能让“伟大之作”完整	itemdesc_mcguffin_2
+White Eagle	白鹰	item_mcguffin_3
+This has been said to complete the Work	据说有这个就能让“伟大之作”完整	itemdesc_mcguffin_3
+The Green Lion	青狮	item_mcguffin_4
+This has been said to complete the Work	据说有这个就能让“伟大之作”完整	itemdesc_mcguffin_4
+Red Lion	赤狮	item_mcguffin_5
+This has been said to complete the Work	据说有这个就能让“伟大之作”完整	itemdesc_mcguffin_5
+Celestial Ruby	天之红宝石	item_mcguffin_6
+This has been said to complete the Work	据说有这个就能让“伟大之作”完整	itemdesc_mcguffin_6
+Magnesia	苦土	item_mcguffin_7
+This has been said to complete the Work	据说有这个就能让“伟大之作”完整	itemdesc_mcguffin_7
+The Vessel of the Philosophers	贤者的器皿	item_mcguffin_8
+This has been said to complete the Work	据说有这个就能让“伟大之作”完整	itemdesc_mcguffin_8
+Our Blessed Stone	受福之石	item_mcguffin_9
+This has been said to complete the Work	据说有这个就能让“伟大之作”完整	itemdesc_mcguffin_9
+Magnum Opus	宏伟杰作	item_mcguffin_10
+This has been said to complete the Work	据说有这个就能让“伟大之作”完整	itemdesc_mcguffin_10
+Philosopher's Stone	贤者之石	item_mcguffin_11
+This has been said to complete the Work	据说有这个就能让“伟大之作”完整	itemdesc_mcguffin_11
+Sampo	三宝磨	item_mcguffin_12
+This has been said to complete the Work	据说有这个就能让“伟大之作”完整	itemdesc_mcguffin_12
+True Knowledge	无暇真理	item_mcguffin_13
+You have completed the Work	你已经完成了“伟大之作”	itemdesc_mcguffin_13
+Perk reroll	天赋刷新	item_perk_reroll
+Essence of Fire	火之精粹	item_essence_fire
+Your entire being is fluctuating!	你的全身都在震荡！	itemdesc_essence_fire
+Essence of Earth	土之精粹	item_essence_laser
+Your being releases damaging light!	你向周围释放破坏射线！	itemdesc_essence_laser
+Essence of Air	气之精粹	item_essence_air
+Your being controls the air around you!	你控制了周围的空气！	itemdesc_essence_air
+Essence of Water	水之精粹	item_essence_water
+The earth flows around you!	你周围的大地开始流动！	itemdesc_essence_water
+Essence of Spirits	灵魂精粹	item_essence_alcohol
+That was not the best of ideas	这可不是个好点子	itemdesc_essence_alcohol
+Great treasure chest	大号宝箱	item_chest_treasure_super
+Rock	岩石	item_rock
+It's a rock.	这是一块岩石。	itemdesc_rock
+Hollow egg	空心的蛋	item_egg_hollow
+I wonder if there's anything inside?	里面有东西吗？	itemdesc_egg_hollow
+Wiggling egg	蠕动的蛋	item_egg_worm
+Something wiggles inside	好像有东西在里面蠕动	item_description_egg_worm
+Chilly egg	冰凉的蛋	item_egg_purple
+The egg feels cold	这个蛋摸起来冷冷的	item_description_egg_purple
+Toasty egg	暖和的蛋	item_egg_fire
+The egg feels very warm	这个蛋摸起来非常温暖	item_description_egg_fire
+Slimy egg	发黏的蛋	item_egg_slime
+The egg is covered in slime	这个蛋覆盖着黏液	item_description_egg_slime
+Flutist's wand	吹笛手魔杖	item_flute
+Book of Balance	均衡之书	item_weathercrystal_book
+It is said that to attain great wealth one must be ready to break the very foundation of this world. However, would one do that, they'd be cursed. Yet their own greed is a curse on its own...	据说，要获得无比的财富，必须做好打破这个世界根本基础的准备。然而，如果有人要这样做，那他一定会被诅咒。不过，这样的贪婪，本身也是一种诅咒吧...	itemdesc_weathercrystal_book
+Dark chest	黑暗宝箱	item_chest_dark
+Crystal of Balance	均衡水晶	item_weathercrystal
+Gold nugget (10)	金块 (10)	item_goldnugget_10
+Gold nugget (50)	金块 (50)	item_goldnugget_50
+Gold nugget (200)	金块 (200)	item_goldnugget_200
+Gold nugget (1000)	金块 (1000)	item_goldnugget_1000
+Golden Idol (10000)	金像 (10000)	item_goldnugget_10000
+Runestone of light	光之符石	item_runestone_laser
+Runestone of fire	火之符石	item_runestone_fireball
+Runestone of magma	岩浆符石	item_runestone_lava
+Runestone of edges	刃之符石	item_runestone_disc
+Runestone of emptiness	空之符石	item_runestone_null
+Runestone of weight	重力符石	item_runestone_slow
+A runestone with a strong magical aura. You feel like kicking it.	具有强大魔法灵气的符文石。你感觉想要对它踢上一脚。	itemdesc_runestone
+Crystal key	水晶钥匙	item_key
+The key is voiceless.	这把钥匙悄无声息。	itemdesc_key_0
+The key hums, but something is missing...	这把钥匙发出低沉声音，但似乎缺少了什么...	itemdesc_key_1
+The key whispers secrets and promises; it is ready.	这把钥匙悄声诉说秘密并作出许诺；它已经准备妥当了。	itemdesc_key_2
+\n$0 on item - drink	\n光标置于物品上时，按 $0 - 饮用	item_description_potion_usage
+Jar	罐子	item_jar
+Equip and spray or throw	装备即可喷洒或投掷	item_description_jar
+$0 jar	$0罐	item_jar_with_material
+Broken wand	损坏的魔杖	item_broken_wand
+This wand has snapped in half but it still crackles with magical energy	这根魔杖从中间折断了，但它仍然充满着魔法能量	item_description_broken_wand
+Ukkoskivi	雷石	item_thunderstone
+This small rock makes you feel very charged.	这块小小的石头，让你感觉能量十足。	item_description_thunderstone
+Kiuaskivi	炉石	item_brimstone
+This tiny rock looks most fiery, but when touched only a pleasant warmth can be felt.	这块小小的石头看起来炽烈如火，但伸手摸上去，却只能感受到怡人的温暖。	item_description_brimstone
+Kuu	月	item_moon
+This tiny celestial object has a strong gravitational pull.	这个小小的天降之物有着强大的吸引力。	item_description_moon
+Vuoksikivi	水石	item_waterstone
+This small rock is hard and solid, yet seems to be gushing with water.	这块小小的石头坚硬无比，但却好像洋溢着水。	item_description_waterstone
+Bloody gold nugget	血金	item_bloodmoney
+Bloody gold nugget (10)	血金 (10)	item_bloodmoney_10
+Bloody gold nugget (50)	血金 (50)	item_bloodmoney_50
+Bloody gold nugget (200)	血金 (200)	item_bloodmoney_200
+Bloody gold nugget (1000)	血金 (1000)	item_bloodmoney_1000
+Bloody golden Idol (10000)	血金雕像 (10000)	item_bloodmoney_10000
+The die is rolling...	骰子正在旋转...	item_die_roll
+The die rolled a 1!	骰子掷出了 1！	item_die_1
+The die rolled a 2!	骰子掷出了 2！	item_die_2
+The die rolled a 3!	骰子掷出了 3！	item_die_3
+The die rolled a 4!	骰子掷出了 4！	item_die_4
+The die rolled a 5!	骰子掷出了 5！	item_die_5
+The die rolled a 6!	骰子掷出了 6！	item_die_6
+You're extremely unlucky...!	你真是太倒霉了...！	item_die_bad
+You're extremely lucky!	你真是太幸运了！	item_die_good
+Chaos die	混沌骰子	item_die
+Roll it for various prizes!	掷出以获得各种奖励！	itemdesc_die
+Press $0 to open '$1'	按 $0 开启“$1”	itempickup_open
+You discovered an orb of true Knowledge	你发现了一个真理魔球	itempickup_orb
+You discovered an orb of corrupted Knowledge	你发现了一个邪理魔球	itempickup_orb_evil
+You found a familiar orb of true Knowledge	你发现了一个熟悉的真理魔球	itempickup_orb_discovered
+You're rewarded with additional health	你得到了额外生命值上限作为奖励	itempickupdesc_orb_discovered
+Secrets of endless lava have been unlocked to you.	无尽熔岩的秘密已经被你解开了。	itempickupdesc_orb_00
+Secrets of Earth's anger have been unlocked to you.	大地愤怒的秘密已经被你解开了。	itempickupdesc_orb_01
+Secrets of otherworldly life have been unlocked to you.	超凡脱俗的秘密已经被你解开了。	itempickupdesc_orb_02
+Secrets of utter destruction have been unlocked to you.	彻底毁灭的秘密已经被你解开了。	itempickupdesc_orb_03
+Secrets of Undeath have been unlocked to you.	不死的秘密已经被你解开了。	itempickupdesc_orb_04
+Secrets of fire and brimstone have been unlocked to you.	火和硫磺的秘密已经被你解开了。	itempickupdesc_orb_05
+Secrets of the Spiral have been unlocked to you.	旋涡的秘密已经被你解开了。	itempickupdesc_orb_06
+Secrets of stormy skies have been unlocked to you.	暴风骤雨的秘密已经被你解开了。	itempickupdesc_orb_07
+Secrets of jubilation have been unlocked to you.	欢庆的秘密已经被你解开了。	itempickupdesc_orb_08
+Secrets of hidden danger have been unlocked to you.	隐秘危险的秘密已经被你解开了。	itempickupdesc_orb_09
+Secrets of rebuilding have been unlocked to you.	重建的秘密已经被你解开了。	itempickupdesc_orb_10
+This secret should not have been available for you.	你不应该知道这个秘密的。	itempickupdesc_orb_11
+Secrets of great undoing have been unlocked to you.	伟大毁灭的秘密已经被你解开了。	itempickupdesc_orb_13
+Mods	模组	menu_mods
+Available mods	可用模组	menu_mods_availablemods
+No mods installed	未安装模组	menu_mods_availablemods_none
+Enabled	已启用	menu_mods_enabled
+Move up	向上移动	menu_mods_moveup
+Move down	向下移动	menu_mods_movedown
+This is an experimental feature.\nUse at your own risk. Only run mods from trusted sources!\nUpmost enabled mod will be loaded first.\nClick mod name to enable/disable the mod.	这是一项实验性功能，使用风险自负！\n请仅运行来自可信来源的模组！\n模组按照列表排列顺序加载\n单击模组名称以启用/禁用模组	menu_mods_help_exp
+Use mods at your own risk. Only run mods from trusted sources!\nUpmost enabled mod will be loaded first.\nClick mod name to enable/disable the mod.	请仅运行来自可信来源的模组！\n最上方的已启用模组将被最先加载。\n点击模组名称以启用/禁用模组。	menu_mods_help
+Changes will be applied on next restart.	更改将在下次重新启动时生效	menu_mods_help_paused
+Open mod folder	打开模组文件夹	menu_mods_openmodfolder
+Restart with enabled mods active	在已启用模组生效的状态重新继续游戏	menu_mods_restart
+Warning: some mods may not handle enabling/disabling ingame well - weirdness, bugs or crashes may occur.	警告：部分模组可能无法很好地处理游戏内的启用/禁用 - 可能发生怪异状况、出现错误或崩溃。	menu_mods_restart_tooltip
+Start a new game with enabled mods active	在已启用模组生效的状态开始新游戏	menu_mods_newgame
+Refresh	刷新	menu_mods_refresh
+This version changes how mods behave.\nMods need to be re-enabled via the “Mods” menu.	当前版本更改了模组的运转方式。\n需要通过“模组”菜单重新启用模组。	menu_mods_reenablenotificiation
+This mod has requested extra privileges.\nIf enabled, it has full access to your computer,\neven without using possible exploits in the game code.\nAre you sure you want to trust this mod?	这个模组要求了额外的权限。\n如果启用，即使不利用游戏代码中可能的漏洞，\n该模组也将获得对您计算机的完全访问权限。\n确定要信任此模组吗？	menu_mods_extraprivilegesareyousure
+This mod has requested extra privileges.\nUnsafe mods need to be enabled to run this mod.	该模组要求了额外的权限。\n运行此模组需要启用“不安全的模组”选项。	menu_mods_extraprivilegesnotification
+Workshop mods cannot be enabled while unsafe mods are on.	需关闭“允许不安全的模组”选项，才能启用来自创意工坊的模组。	menu_mods_workshopsandboxnotification
+This mod is broken and cannot be enabled [Error code #N0174H4X].	该模组已经损坏，无法启用 [Error code #N0174H4X]。	menu_mods_enablinginvalid
+Enabling unsafe mods gives all installed mods full access to your computer.\nAre you sure?	启用不安全的模组将赋予已安装的所有模组对您计算机的完全访问权限。\n确定要这样做吗？	menu_mods_sandboxoffareyousure
+Enabling unsafe mods gives all installed mods full access to your computer.\nAre you sure?	启用不安全的模组将赋予已安装的所有模组对您计算机的完全访问权限。\n确定要这样做吗？	menu_mods_sandboxoffareyousure_steam
+Unsafe mods: $0	允许启用不安全的模组：$0	menu_mods_sandboxoption
+Errors occurred while initializing mods:	初始化模组时出错：	menu_mods_initerrors_title
+\nPlay this mod via the “New game” menu.	\n通过“新游戏”菜单游玩此模组	menu_mods_customactivation
+\nEnable this translation via “Language” in the “Options” menu.	\n通过“选项”菜单中的“语言”启用此翻译。	menu_mods_translationactivation
+Cannot enable multiple mods with the id “$0”.	无法启用多个相同ID 为“$0”的  模组。	menu_mods_nameconflict
+Get mods	获取模组	menu_mods_installmods
+Install mods using Workshop	从创意工坊安装模组	menu_mods_installmods_steam
+Downloading Workshop content $0	正在下载创意工坊内容“$0”	menu_mods_workshopdownloading
+This is a Steam Workshop mod.	这是一个来自steam创意工坊的模组。	menu_mods_workshop_mod_tooltip
+This is an experimental feature.\nUse is at your own risk!\nYou should only run mods from trusted sources.	该功能为实验性质。\n产生风险请自行承担！\n您应仅运行来自可信来源的模组。	menu_mods_disclaimernotification_exp
+Use of mods is at your own risk!\nYou should only run mods from trusted sources.	使用模组产生风险，请自行承担！\n您应仅运行来自可信来源的模组。	menu_mods_disclaimernotification
+There were errors when initializing following mods: $0	初始化以下模组s时出错：$0	menu_mods_initerrors_log
+Downloading Workshop content $0\nIf the downloads don't seem to progress,\nyou might need to change their priority in the Steam library downloads list.	正在下载创意工坊内容$0\n如果下载看起来没有进展，您可能需要在Steam库的下载列表中更改它们的优先级。	menu_mods_workshopdownloading_noprogress
+This mod has not been tested with the latest version of the modding interface.	此模组尚未在使用最新模组接口的版本进行测试。	menu_mods_modversion_older
+This mod has been built with a never version of the modding interface.\nA never version of the game might be required.	此模组使用更新版本的模组接口制作。\n需要更新版本的游戏。	menu_mods_modversion_newer
+Mods (!)	模组 (!)	menu_mods_incompatibilities
+Some mods have possible incompatibilities	部分模组可能不兼容	menu_mods_incompatibilities_tooltip
+Allowed	已允许	option_allowed
+Disabled	已禁用	option_disabled
+Select game mode	选择游戏模式	menu_newgame_selectgamemode
+Quit	退出	menu_quit
+Autosave found. Looks like the game crashed?\nShould the game attempt to restore the autosave?	发现自动存档。我猜游戏崩溃了，对吧？\n要不让我试试恢复自动存档？	menuautosave_text
+Some mods were enabled and might have caused the crash.	某些模组已启用，崩溃可能因此造成。	menuautosave_text_mods
+Noita is in early access, we'll try to fix this. :/	我们会尝试着进行修复。:/	menuautosave_text_earlyaccess
+Restore	恢复存档	menuautosave_yes
+Nah. Destroy it	不必，算了吧。	menuautosave_no
+Press B on a control to reset it to default 	在控制项上按 B 键，将其重置为默认值	menuoptions_configurecontrols_hint_gamepad
+Right click on a key binding to reset it to default	在绑定按键上按右键，将其重置为默认值	menuoptions_configurecontrols_hint_keyboard
+Privacy policy	隐私条款	menuoptions_privacypolicy
+Show hovered material/item name next to mouse: $0	在鼠标旁悬浮显示材料/物品名称：$0	menuoptions_showhoverinfonexttomouse
+EXPERIMENTAL FEATURE\nPress $0 to save a replay at any point in the game.\n\nSetting “Replay budget” too high might decrease performance\nor make the game crash. Use at your own risk!	实验性功能\n在游戏中任意时点，按 $0 保存回放。\n\n将“回放预留内存”设置得过高可能影响性能\n或令游戏崩溃。产生风险请自行承担！	menuoptions_replayrecorder_tooltip_exp
+Press $0 to save a replay at any point in the game.\n\nSetting “Replay budget” too high might decrease performance\nor make the game crash. Use at your own risk!	在游戏中任意时点，按 $0 保存回放。\n\n将“回放预留内存”设置得过高可能影响性能\n或令游戏崩溃。产生风险请自行承担！	menuoptions_replayrecorder_tooltip
+Turn this on in case you can't see the mouse cursor.	若无法看到鼠标光标，可将此开启。	menuoptions_application_rendered_cursor_hint
+General	常规	menuoptions_general
+Graphics	图形	menuoptions_graphics
+Audio	音频	menuoptions_audio
+Input	输入	menuoptions_input
+Streaming	直播串流	menuoptions_streaming
+Teleport flash brightness	传送闪烁亮度	menuoptions_teleport_flash_brightness
+Gamepad detected!\nEnable gamepads via the Input tab.	检测到游戏手柄！\n请通过“输入”标签启用游戏手柄。	menuoptions_gamepaddetected
+Replay budget	回放预留内存	menuoptions_replaybudget
+WINDOW	窗口	menuoptions_heading_window
+REPLAY RECORDER	回放录像机	menuoptions_heading_replayrecorder
+MISCELLANEOUS	杂项	menuoptions_heading_misc
+RENDERING	渲染	menuoptions_heading_rendering
+USER INTERFACE	用户界面	menuoptions_heading_userinterface_graphics
+ACCESSIBILITY	辅助功能	menuoptions_heading_accessibility
+VOLUME	音量	menuoptions_heading_volume
+USER INTERFACE	用户界面	menuoptions_heading_userinterface_input
+GAMEPAD	游戏手柄	menuoptions_heading_gamepad
+GAMEPLAY	游戏玩法	menuoptions_heading_gameplay
+COMPATIBILITY	兼容性	menuoptions_heading_compatibility
+TWITCH CHANNEL	TWITCH 频道	menuoptions_heading_streaming_integration
+CONFIG	配置	menuoptions_heading_streaming_integration_config
+MODDING	模组	menuoptions_heading_streaming_integration_mods
+ENABLED EVENTS	已启用的事件	menuoptions_heading_streaming_enabled_events
+$0 s	$0 秒	menuoptions_format_seconds
+$0 MB	$0 MB	menuoptions_format_megabytes
+ONLINE	在线	menuoptions_heading_online
+MOUSE	鼠标	menuoptions_heading_userinterface_mouse
+KEYBOARD/MOUSE	键盘/鼠标	menuoptions_heading_controls
+Display number: $0	显示屏编号：$0	menuoptions_display_number
+Online features: $0	在线功能：$0	menuoptions_online_features
+Turn off to prevent the game from connecting to Nolla Games' servers.\nThis may prevent some features from working.	关闭可阻止游戏连接 Nolla Games 的服务器。\n这会令部分功能无法运转。	menuoptions_online_features_hint
+Lock mouse inside the window: $0	将鼠标限制在窗口之内：$0	menuoptions_capturemouseinsidewindow
+Pause the game when unfocused: $0	失去焦点时暂停游戏：$0	menuoptions_pause_the_game_when_unfocused
+No hover box animations: $0	无悬浮框动画：$0	menuoptions_ui_snappy_hover_boxes
+Anti color banding (dithering): $0	反色带（抖动）：$0	menuoptions_dithering
+Configure gamepad controls	配置游戏手柄控制	menuoptions_configuregamepad
+Gamepad analog flying	游戏手柄类比飞行	menuoptions_gamepad_analog_flying
+Allow firing of wands while inventory is open: $0	物品栏开启期间可使用魔杖：$0	menuoptions_ui_allow_shooting_while_inventory_open
+New gamepad throw/spray scheme: $0	新游戏控制器 投掷/喷洒 方式：$0	menuoptions_gamepad_throwsprayscheme
+A save game with old version was detected.\nWould you like to continue it? (Weird things may occur.)	检测到旧版本的存档。要继续读取吗？（可能会发生奇怪的错误)	menuoldsavegame_text
+Empty chunks may appear in the world after loading.\nHeed my warning - this may anger the Gods!\nWould you like to continue?	载入后，可能会在世界中出现空白区块。\n听从我的警告 - 这会令众神震怒！\n你要继续吗？	menuoldsavegame_text_update9
+Secret Mode	秘密模式	menu_secretmode
+Select world	选择世界	menu_selectworld
+$0h $1 min	$0 小时 $1 分钟	menu_playtime
+Start new world	开始新世界	menu_startnewworld
+Are you sure you want to delete the world in slot $0?\nThis cannot be undone.	确定要删除 $0 号槽中的世界吗？\n此操作无法撤销。	menu_worldselect_deleteareyousure
+Are you sure you want to delete the world you're currently playing?\nThis cannot be undone.	确定要删除当前游玩的世界吗？\n此操作无法撤销。	menu_worldselect_deleteareyousure_playing
+World $0	世界 $0	menu_worldselect_slot
+World $0 – PLAYING	世界 $0 – 游玩中	menu_worldselect_slot_playing
+We've changed the default values of a few settings:\n-Input bindings for Throw and Spray have been swapped around.\n-Inventory needs to be closed to cast spells.\nWould you like to enable the new defaults? These can be changed in the Options menu.	我们已经更改了一些设置的默认值：\n-扔出和喷射的按键绑定已交换。\n-需要关闭物品栏才能施放法术。\n是否启用新的默认值？这些可以在选项菜单中更改。	menu_switchthrowandspray
+The game will restart due to mod changes.	由于模组更改，游戏即将重新启动。	menu_newgame_modschangedrestart
+Progress ($0 new)	进展（$0 新内容）	menu_progress_new
+Streamer mode: $0	主播模式：$0	menu_streamermode
+Let stream viewers interact with your game through the Twitch chat.	让观众通过 Twitch 聊天与你的游戏进行互动。	menu_streaming_description
+Chat messages “1”, “2”, “3” and “4” will be counted as votes towards\nvarious events that are selected from a random pool.	聊天消息“1”、“2”、“3”和“4”将计为\n随机池中选出的各种事件的投票。	menu_streaming_description_details
+Connect	连接	menu_streaming_connect
+Disconnect	断开连接	menu_streaming_disconnect
+Connect to Twitch account	连接至 Twitch 帐号	menu_streaming_connect_twitch
+ - CONNECTING...	#NAME?	menu_streaming_status_connecting
+ - CONNECTED	#NAME?	menu_streaming_status_connected
+ - CONNECTION FAILED	#NAME?	menu_streaming_status_failed_unknown
+ - COULDN'T FIND SERVER	#NAME?	menu_streaming_status_failed_serverconnection
+ - TIMEOUT - NO SUCH CHANNEL?	#NAME?	menu_streaming_status_failed_timeout
+Connected to Twitch account: $0	已连接至 Twitch 帐号：$0	menu_streaming_connected
+Twitch authentication failed	Twitch 身份验证失败	menu_streaming_connect_failed
+Streaming integration: $0	串流集成：$0	menu_streaming_option
+Channel name:	频道名称：	menu_streaming_channelname
+Chat votes: $0	聊天投票：$0	menu_streaming_voting
+Allow stream viewers to vote on events that take place in the game.	允许观众投票选择游戏中发生的事件。	menu_streaming_voting_hint
+Display user names	显示用户名称	menu_streaming_allowusernames
+Allow events that display chat user names	允许事件显示聊天用户名	menu_streaming_allowusernames_hint
+Time between votes	投票间隔时间	menu_streaming_timebetweenvotes
+Voting time	投票事件	menu_streaming_timevoting
+The duration of a single vote	单次投票持续时间	menu_streaming_timevoting_hint
+Play sound on new vote: $0	新投票时播放声音：$0	menu_streaming_playvotesound
+Vote event distribution	投票事件分布	menu_streaming_distribution
+Awful = very likely to ruin your run..\nBad = bad things can happen.\nNeutral = not necessarily goot or bad.\nGood = more health and other helpful events.	下下签= 极有可能毁掉你的这次游戏。\n下签 = 发生不好的事情。\n中签 = 不好也不坏。\n好签 = 更多生命值和其他有益事件。	menu_streaming_distribution_hint
+Awful	下下签	menu_streaming_distribution_awful
+Bad	下签	menu_streaming_distribution_bad
+Neutral	中签	menu_streaming_distribution_neutral
+Good	上签	menu_streaming_distribution_good
+Tiny ghosts can be named after viewers: $0	小幽灵可拥有观众的名字：$0	menu_streaming_usernames_ghosts
+Rats can be named after viewers: $0	老鼠可拥有观众的名字：$0	menu_streaming_usernames_rats
+Install streaming integration mods	安装串流集成模组	menu_streaming_installmods
+Streaming integration content mod	串流集成内容模组	menu_streaming_mod
+Connection error!	连接错误！	streaming_integration_connectionerror
+Next vote in $0 s	$0 秒后下次投票	streaming_integration_nextvotein
+Voting ends in $0 s	$0 秒后投票结束	streaming_integration_voteendsin
+$0 ($1) <$2	$0 ($1) <$2	streaming_integration_voteoptionformat
+It's a tie! Picking random winner	难分胜负！随机选择胜出者	streaming_integration_votetie
+The winner is:	胜出者是：	streaming_integration_winner
+Writing gif - please wait – press $0 to cancel	制作 gif 中 - 请稍候 – 按 $0 取消	menu_replayedit_writinggif
+Frame - $0 / $1 - $2	帧 - $0 / $1 - $2	menu_replayedit_writinggif_frameprogress
+$0 s remaining	剩余 $0 秒	menu_replayedit_writinggif_timeremaining
+Return to game $0	返回游戏 $0	menu_replayedit_returntogame
+REPLAY CLIP EDITOR (experimental) - Right/Left click on frames to set clip start and end points.	回放剪辑编辑器（实验性）- 右键/左键单击帧，设置剪辑的起始和结束点。	menu_replayedit_title_keyboard_exp
+REPLAY CLIP EDITOR (experimental) - [A] - start clip on hovered frame. [B] - end clip on hovered frame.	回放剪辑编辑器（实验性）- [A] - 于所悬停帧开始剪辑。[B] - 于所悬停帧结束剪辑。	menu_replayedit_title_gamepad_exp
+REPLAY CLIP EDITOR - Right/Left click on frames to set clip start and end points.	回放剪辑编辑器 - 右键/左键单击帧，设置剪辑的起始和结束点。	menu_replayedit_title_keyboard
+REPLAY CLIP EDITOR - [A] - start clip on hovered frame. [B] - end clip on hovered frame.	回放剪辑编辑器 - [A] - 于所悬停帧开始剪辑。[B] - 于所悬停帧结束剪辑。	menu_replayedit_title_gamepad
+Save as Gif [ENTER]	保存为 Gif [ENTER]	menu_replayedit_saveasgif
+Open gif directory	打开 gif 目录	menu_replayedit_opengifdir
+Size: 	尺寸：	menu_replayedit_size
+Full	完整	menu_replayedit_full
+$0x$1	$0x$1	menu_replayedit_sizeformat
+Output scale: $0%	输出比例：$0%	menu_replayedit_outputscale
+Output: $0 frames - $1s	输出：$0 帧 - $1 秒	menu_replayedit_outputinfo1
+ - $0x$1 px	- $0x$1 px	menu_replayedit_outputinfo2
+[A] - start clip on hovered frame. 	[A] - 于所悬停帧开始剪辑。	menu_replayedit_startclip_gamepad
+Left click - start clip on hovered frame. 	左键单击 - 于所悬停帧开始剪辑。	menu_replayedit_startclip_keyboard
+[B] - end clip on hovered frame. 	[B] - 于所悬停帧结束剪辑。	menu_replayedit_endclip_gamepad
+Right click - end clip on hovered frame.	右键单击 - 于所悬停帧结束剪辑。	menu_replayedit_endclip_keyboard
+ Frame = $0	帧 = $0	menu_replayedit_frame
+Left click - set image center.	左键单击 - 设置图像中心。	menu_replayedit_imagecenter
+$0 (new)	$0（新）	progress_new
+Picked a golden statue	你捡起了一尊黄金雕像	log_golden_statue
+You got $0 gold!	获得了 $0 黄金！	logdesc_golden_statue
+Increased maximum health to $0 ...with the cost of being cursed!	将生命值上限提高为 $0 ...以受到诅咒为代价！	logdesc_heart_evil
+Your curiosity is rewarded	你的好奇心得到了奖赏	log_altar_magic
+Your curiosity is rewarded, but...	你的好奇心得到了奖赏，不过...	log_altar_magic_monster
+That is not what you seek!	那不是你想寻求的东西！	log_altar_magic_worm
+The four essences reveal their secret	四个精粹揭示了它们的秘密	log_moon_altar
+The moon's egg cracks open. Its contents have been unlocked	月之卵裂开，揭晓其中所藏	logdesc_moon_altar
+The moon spills and unlocks its inebriating contents	月亮满溢，涌出了它令人陶醉的内容	logdesc_moon_altar_drunk
+Picked up Full Health Regeneration	已拾取“生命值完全恢复”	log_heart_fullhp_temple
+Increased maximum health by $0 and restored health to $1 (regained $2 health)	生命值上限提高$0，生命值恢复为$1（恢复了$2点生命值）	logdesc_heart_fullhp_temple
+The worm crystal has shattered!	蠕虫水晶碎裂了！	log_worm_deflector_death
+You feel less safe...	你感觉更不安全了...	logdesc_worm_deflector_death
+Restored health to $0 (regained $1 health)	将生命值恢复到 $0 (恢复 $1 点生命值)	logdesc_heart_fullhp
+The world around you changes!	你身旁的世界产生了变化！	log_ocarina
+Your music released strange energies	你的音乐释放出奇异的能量	logdesc_ocarina
+Seems like the musical energy is gone...	似乎音乐的能量已经耗尽了...	log_ocarina_done
+You're choking on food	你噎着了	log_overingestion_00
+Eating any more might kill you	再吃下去你可能会死	log_overingestion_01
+You're choking on food	你噎着了	log_overingestion_02
+Eating any more might kill you	再吃下去你可能会死	log_overingestion_03
+You're choking on food	你噎着了	log_overingestion_04
+Eating any more might kill you	再吃下去你可能会死	log_overingestion_05
+You're bursting at the seams	你胀得满满的	log_overingestion_exploding_00
+You're feeling like you'll soon explode	你感觉自己就快爆炸了	log_overingestion_exploding_01
+You're bursting at the seams	你胀得满满的	log_overingestion_exploding_02
+You're feeling like you'll soon explode	你感觉自己就快爆炸了	log_overingestion_exploding_03
+You're feeling an explosive tightness in your stomach	你感觉肚子快撑爆了	log_overingestion_exploding_04
+You're feeling an explosive tightness in your stomach	你感觉肚子快撑爆了	log_overingestion_exploding_05
+The world around you changes!	你身旁的世界产生了变化！	log_kantele
+Your music released strange energies	你的音乐释放出奇特的能量	logdesc_kantele
+Seems like the musical energy is gone...	似乎音乐的能量已经消失了...	log_kantele_done
+The key begins to hum!	钥匙开始哼唱！	log_alchemist_key_first
+Something is still missing...	还欠缺什么东西...	logdesc_alchemist_key_first
+The key begins to whisper!	钥匙开始悄声诉说！	log_alchemist_key_second
+”I can give you so much in exchange for...”	“我能给你很多东西作为交换...”	logdesc_alchemist_key_second
+Nothing seemed to happen...	似乎什么也没发生...	log_alchemist_key_invalid
+The glass key speaks!	玻璃钥匙说话了！	log_alchemist_chest_open
+The chest listens	宝箱聆听着	logdesc_alchemist_chest_open
+The glass key speaks again!	玻璃钥匙又说话了！	log_alchemist_chest_opened
+The chest keeps listening	宝箱继续聆听着	logdesc_alchemist_chest_opened
+CAST DELAY...	施放延迟...	log_castdelaying
+Cursed by greed!	贪婪的诅咒！	log_weathercrystal_broken
+Your desire for treasures will surely be your undoing.	你对宝藏的欲望会成为你的诅咒。	logdesc_weathercrystal_broken
+The curse fades away	诅咒褪去了	log_curse_fade
+You're safe again... for now	你又一次安全了... 暂时地	logdesc_curse_fade
+The Gods are very impressed with you	神明对你留下了深刻印象	logdesc_gods_are_impressed
+The Gods are afraid	神明好怕怕呀	logdesc_gods_are_afraid
+The Gods are very curious	神明非常好奇	logdesc_gods_are_curious
+The Gods look the other way	神明装作没看见	logdesc_temple_peace_temple_break
+The Gods accept your sacrifice	神明接受了你的献祭	log_altar_success_00
+The Gods are satisfied with your sacrifice	神明对你的献祭感到满意	log_altar_success_01
+The Gods are happy with your sacrifice	神明对你的献祭感到开心	log_altar_success_02
+The Gods aren't happy with your sacrifice	神明不满你的献祭	log_altar_fail_00
+The Gods sneer at your untrained sacrifice	神明嘲笑了你未经训练的献祭	log_altar_fail_01
+The Gods mock your crude sacrifice	神明嘲讽你粗劣的献祭	log_altar_fail_02
+The Gods scorn at your illiterate sacrifice	神明对你胡乱的献祭表示蔑视	log_altar_fail_03
+Your reality is shaken	你的现实受到了动摇	log_reality_mutation_00
+You sense things are no longer what they used to be	你对事物的感知不同以往	log_reality_mutation_01
+You feel something has changed	你对事物的感知已经变化	log_reality_mutation_02
+You feel the rules of the Cosmos have shifted	你感到宇宙的规则已被改变	log_reality_mutation_04
+You sense the reality has shifted	你感觉到现实被改变了	log_reality_mutation_05
+The reality has shifted	现实已被更改	log_reality_mutation_06
+Map of Gnosis	灵知地图	booktitle_allspells
+None other than you is teacher of the truth,\nwherever and from whatever source it is manifest.\n \nYou hear nothing true from me which you have not first told me.\n \nTruth, when did you ever fail to walk with me,\nteaching me what to avoid and what to seek....\nWithout you I could discern none of these things.	只有你才是真理的导师，\n无论真理来自什么地方，无论真理来自什么物体。\n你没有从我口中听到你不曾讲过的话。\n说实话，你应该跟我一起走，教我该避开什么，该寻找什么，\n没有你，我什么都看不出来。	bookdesc_allspells
+Golden statue	黄金像	reward_gold_statue
+Dedicated to 5 minutes	不到5分钟	reward_clock
+1 minute?!	1 分钟？！	reward_minit
+No gold	穷光蛋	reward_nolla
+All the monies	大富翁	reward_dollar
+Pacifist	和平主义者	reward_peace
+King	国王	reward_crown
+Undamaged	毫发无伤	reward_nohit
+interact	互动	controls_use
+save replay	保存回放	controls_replayeditopen
+use wand	使用魔杖	controls_usewand
+Portal to the Tower	前往“魔塔”的传送门	teleport_mystery
+Portal back to the Mountain	回到“雪山”的传送门	teleport_mystery_back
+Portal to a faraway land	前往“遥远之地”的传送门	teleport_world
+Portal deeper	前往“更深处”的传送门	teleport_deeper
+Portal to The Laboratory	前往“实验室”的传送门	teleport_ending
+Portal to The Work	前往“伟大之作”的传送门	teleport_ending_victory
+Portal to Crystal vault	前往“晶体库”的传送门	teleport_end_wall
+Portal	传送门	teleport_generic
+Portal back	回去的传送门	teleport_back
+New Game	新游戏	gamemode_normal
+Explore a new world.\nThe original Noita experience.	探索全新世界。\n原初的《Noita》体验。	gamemode_normal_desc
+Daily Run	每日挑战	gamemode_dailyrun
+New day, new world.\nSome starting items are randomized.\nEvery player is playing the same seed.\nBe careful, you can only play once in 24 hours.	新的一天，新的世界。\n部分初始物品随机化。\n每个玩家都在游玩一个相同的种子。\n请注意，24 小时内仅可进行一次尝试。	gamemode_dailyrun_desc
+Nightmare (experimental)	噩梦（实验性）	gamemode_nightmare_exp
+Nightmare	噩梦	gamemode_nightmare
+For a more challenging experience.\nUnlock this mode by completing the game.	获得更具挑战性的体验。\n完成游戏解锁这一模式。	gamemode_nightmare_desc
+New Game+ (experimental)	新游戏+（实验性）	gamemode_newgameplus
+For a more challenging experience.\nUnlock this mode by completing the game.	获得更具挑战性的体验。\n完成游戏解锁这一模式。	gamemode_newgameplus_desc
+Spell Lab	法术实验室	gamemode_laboratory
+Play around with magic to your heart's content.\nDeath is not a problem.\nUnlock new spells for this mode by casting them.	随心所欲地使用魔法。\n不用担心死亡。\n在这个模式施放新法术可以完成进展解锁。	gamemode_laboratory_desc
+Coming soon!	即将开放！	gamemode_comingsoon
+It's a mystery.	这是一个谜。	gamemode_comingsoon_desc
+Every day a new run setup and a\n chance to play later biomes.\n Play the same seed as many times as you want.	每天都有新的游玩设定，\n有新的机会游玩之后的生态系。\n可随意游玩相同种子，次数不限。	gamemode_nightmare_desc_PETRI_is_this_correct_new_nightmare_description
+Daily Practice Run	每日练习	gamemode_daily_practice_run
+Start a run from a randomized spot,\nwith randomized items.\nYou can try the same seed as many times as you like\nwithin 24 hours.	持有随机的物品，\n从随机地点开始一次游戏。\n24 小时内，可随意尝试相同种子，\n次数不限。	gamemode_daily_practice_run_desc
+NEW GAME	新游戏	new_game_for_newgame_plus
+Worm crystal	蠕虫水晶	building_worm_deflector
+Mods enabled:	已启用模组：	stat_modsenabled
+curse	诅咒	damage_curse
+cursed rock	诅咒岩石	damage_rock_curse
+overeating	吃撑	damage_overeating
+midas	点石成金	damage_midas
+Welcome to the Noita 1.0 Beta version!\nBe warned, the game will probably be less stable here compared to the master branch.\nHappy noiting!	欢迎来到《Noita》1.0 Beta 测试版！\n注意，相比主分支版本，该版本游戏可能稳定性略有欠缺。\n祝您玩得开心！	menureleasenotes_betawarning
+Welcome to the Noita beta branch!\nBe warned, the game will probably be less stable here compared to the master branch.	欢迎来到《Noita》Beta 测试分支！\n注意，相比主分支版本，该版本游戏可能稳定性略有欠缺。	menureleasenotes_betawarning2
+The amount of charge this wand can store.	这支魔杖可储存的最大充能数量。	inventory_chargecapacity_tooltip
+∞	∞	infinity_symbol
+A GAME BY	诚意推出	credits_game_by
+Cause: Ingesting $0.	原因：摄取$0。	ingestion_status_caused_by
+Cause: Ingesting $0 and more.	原因：摄取$0等。	ingestion_status_caused_by_many
+Cause: Overeating	原因：吃撑	ingestion_status_caused_by_overingestion
+Confused	混乱	status_confusion
+You feel confused.	你感觉一片混乱。	statusdesc_confusion
+Greased lightning.	风驰电掣。	status_movement_faster
+You feel extremely fast.	你觉得自己速度极快。	statusdesc_movement_faster
+Worm food	虫食	status_worm_attractor
+You feel like you're future worm food.	你感觉自己将成为蠕虫的盘中餐。	statusdesc_worm_attractor
+Protection from all	绝对防御	status_protection_all
+You feel strange strength in your body.	你感到体内喷涌出一股神奇的力量。	statusdesc_protection_all
+Mana regeneration	法力再生	status_mana_regeneration
+You gain mana back faster.	你的法力回复更快了。	statusdesc_mana_regeneration
+Internal fire 	内火	status_internal_fire
+You're burning inside.	你由内而外开始燃烧。	statusdesc_internal_fire
+Ancient venom poisoning	古代毒药	status_cryptpoison
+You lose health until you locate a rare antidote.	你不断失去生命值，必须找到稀有的解毒剂。	statusdesc_cryptpoison
+Minimally satiated	勉强温饱	status_satiated00
+Your stomach is almost empty.	你腹中几乎空荡荡。	statusdesc_satiated00
+Satiated	吃饱喝足	status_satiated01
+You can still fit more in your stomach.	肚子里还能塞点东西。	statusdesc_satiated01
+Fully satiated	完全吃饱	status_satiated02
+You're feeling full. Any more food will make movement difficult.	你感觉自己肚子塞满了，再吃就走不动路了。	statusdesc_satiated02
+Oversatiated	吃撑了	status_satiated03
+You're feeling really full.	你感觉吃的相当饱。	statusdesc_satiated03
+Terribly oversatiated	胀爆了	status_satiated04
+You're feeling sickly full. Any more food might hurt you.	你感觉吃得太饱了。再吃下去真的会死人。	statusdesc_satiated04
+Choking	噎着了	status_satiated05
+You're feeling sickly full and choking.	你感觉撑爆了。	statusdesc_satiated05
+Choking and bloated	又撑又胀	status_satiated06
+You most certainly don't feel like eating more.	你确定自己绝对不要再吃了。	statusdesc_satiated06
+Choking	噎着了	status_ingestion_damage
+Any more food or drinking will hurt you.	再多吃多喝就会伤到自己。	statusdesc_ingestion_damage
+Bursting at the seams	肚子撑破了	status_ingestion_exploding
+You're feeling so full you might explode.	你吃得太撑了，感觉快要撑炸了。	statusdesc_ingestion_exploding
+Mildly boozed	微醺	status_ingestion_alcoholic_00
+You're feeling a little tipsy.	你有点醉了。	statusdesc_ingestion_alcoholic_00
+Drunk	醉酒	status_ingestion_alcoholic_01
+You drank too much.\nAiming is disturbed.	你喝太多了。\n瞄准受到了影响。	statusdesc_ingestion_alcoholic_01
+Wasted	烂醉	status_ingestion_alcoholic_02
+You drank way too much.\nAiming is disturbed.\nDrinking more will make you Poisoned	你喝高了。\n瞄准受到了影响。\n再继续喝就会中毒	statusdesc_ingestion_alcoholic_02
+Wasted	断片	status_ingestion_alcoholic_03
+You drank way too much.\nAiming is disturbed.\nDrinking more will give you brain damage	你喝高了。\n瞄准受到了影响。\n再继续喝就会造成脑损伤	statusdesc_ingestion_alcoholic_03
+Brain Damage	脑损伤	status_brain_damage
+Your aim is permanently disturbed.	你的瞄准受到了永久性的影响。	statusdesc_brain_damage
+Tripping	恍惚	status_trip_00
+You sense that something is off.	你感觉得到了解放。	statusdesc_trip_00
+Tripping some	迷乱	status_trip_01
+You feel in harmony with the magical forces.	你感受到了魔法的调谐。	statusdesc_trip_01
+Heavily tripping	癫狂	status_trip_02
+Maan, that colour smells interesting.	哇，那个颜色闻起来好有趣！	statusdesc_trip_02
+Tripping balls	神志不清	status_trip_03
+Usual concepts don't apply.	常识已经不再适用。	statusdesc_trip_03
+Wormy vision	蠕虫视觉	status_nightvision
+You're seeing things more clearly.	你看东西更加清晰了。	statusdesc_nightvision
+Food poisoning	食物中毒	status_food_poisoning
+You're feeling sick. Nothing stays inside.	你感到一阵恶心。吃下去的全吐出来了。	statusdesc_food_poisoning
+Clumsy movement	步履蹒跚	status_ingestion_movement_slower
+Movement is difficult.	难以移动	statusdesc_ingestion_movement_slower
+Chilly	寒冷	status_ingestion_freezing
+You're feeling cold inside. Movement is difficult.	你感到寒冷彻骨，移动很是艰难。	statusdesc_ingestion_freezing
+Gassy	胀气	status_farts
+You're feeling pressure inside.	你感到体内压力很大。	statusdesc_farts
+Rain Curse	大雨诅咒	status_curse_cloud_00
+You feel like there's a dark cloud hanging over you.	你感觉乌云笼罩在你的头上	statusdesc_curse_cloud_00
+Thunder Curse	雷霆诅咒	status_curse_cloud_01
+The weight of the cloud is almost unbearable. Your head hurts.	黑云压城城欲摧，头痛涔涔汗盈巾	statusdesc_curse_cloud_01
+Acid Rain Curse	酸雨诅咒	status_curse_cloud_02
+All the foul thoughts you have ever had wash over you.	你的邪念从你身上冲刷而过。	statusdesc_curse_cloud_02
+Jarated	瓶手道	status_jarate
+Wet clothes protect you from fire.\nYou sense an increased danger of receiving a critical hit.	潮湿的魔法斗篷使你免受火焰伤害。\n你感觉受到暴击伤害的危险在增加。	statusdesc_jarate
+Polymorph immunity	变形免疫	status_protection_polymorph
+You cannot be polymorphed.	你无法被变形。	statusdesc_protection_polymorph
+Faster levitation	更快漂浮	status_faster_levitation
+You levitate 75% faster.	上升速度提高 75%。	statusdesc_faster_levitation
+World has been restored	世界已复原	ending_above_part_a
+And everyone is much happier	大家都更加开心	ending_above_part_b
+$0 x $1	$0 x $1	inventory_perks_many
+Curse	诅咒	death_curse
+, while polymorphed to $0	，变形为$0期间	death_polymorph
+Speedy Creatures	快速生物	streamingevent_speedy_enemies
+Nearby creatures move faster	附近的生物移动变快	streamingeventdesc_speedy_enemies
+Protect Creatures	保护生物	streamingevent_protect_enemies
+Nearby creatures temporarily block all incoming damage	附近的生物暂时不受任何外来伤害	streamingeventdesc_protect_enemies
+Teleporting Creatures	传送生物	streamingevent_teleporting_enemies
+Nearby creatures start teleporting around	附近的生物开始四处传送	streamingeventdesc_teleporting_enemies
+Polymorph Creatures	变形生物	streamingevent_polymorph_enemies
+Nearby creatures polymorph into random beings	附近的生物变形为随机的存在	streamingeventdesc_polymorph_enemies
+Summon Friendly Ghosts	召唤友好幽灵	streamingevent_tiny_ghost_player
+You get a few tiny ghost friends	你获得几个小幽灵伙伴	streamingeventdesc_tiny_ghost_player
+Summon Hostile Ghosts	召唤敌对幽灵	streamingevent_tiny_ghost_enemy
+Nearby creatures get tiny ghost friends	附近的生物获得小幽灵伙伴	streamingeventdesc_tiny_ghost_enemy
+Homing for Hostiles	追杀	streamingevent_homing_enemy_projectiles
+Nearby enemies' projectiles accelerate toward you	附近敌人的投射物会向你加速飞来	streamingeventdesc_homing_enemy_projectiles
+Health Plus	生命增加	streamingevent_health_plus
+You gain 80 HP	你获得 80 生命值	streamingeventdesc_health_plus
+Health Minus	生命减少	streamingevent_health_minus
+You lose 40 HP	你失去 40 生命值	streamingeventdesc_health_minus
+Max Health Plus	最大生命增加	streamingevent_max_health_plus
+You gain 50 maximum HP	生命值上限提升 50	streamingeventdesc_max_health_plus
+Max Health Minus	最大生命减少	streamingevent_max_health_minus
+You lose 25 maximum HP	生命值上限减少 25	streamingeventdesc_max_health_minus
+Regeneration Field	再生领域	streamingevent_regeneration_field
+You're given a regenerative field	你获得一个再生领域	streamingeventdesc_regeneration_field
+Temporary Immortality	暂时无敌	streamingevent_protect_player
+You become invincible for 1 minute	你无敌 1 分钟	streamingeventdesc_protect_player
+Shielded Creatures	护盾生物	streamingevent_shield_enemies
+All creatures gain a shield	所有生物均获得一面护盾	streamingeventdesc_shield_enemies
+Friendly Shield	友方护盾	streamingevent_shield_player
+You gain a shield	你获得一面护盾	streamingeventdesc_shield_player
+Speedy Movement	快速移动	streamingevent_faster_player
+You can move faster for a time	一段时间内可以移动更快	streamingeventdesc_faster_player
+Slimy	粘液	streamingevent_slimy_player
+Everyone gets covered in slime	每个人都覆盖一层粘液	streamingeventdesc_slimy_player
+Shower	淋浴	streamingevent_wet_player
+You get covered in water	你满身是水	streamingeventdesc_wet_player
+Glisten	闪闪发亮	streamingevent_oiled_player
+You get covered in oil	你满身是油	streamingeventdesc_oiled_player
+Booze	酒气熏天	streamingevent_drunk_player
+You become drunk	你喝醉了	streamingeventdesc_drunk_player
+Drunk Creatures	醉酒生物	streamingevent_drunk_enemies
+Nearby creatures become drunk	附近的生物喝醉了	streamingeventdesc_drunk_enemies
+Spell Refresh	法术刷新	streamingevent_spell_refresh
+Your spells are refreshed	你的法术刷新了	streamingeventdesc_spell_refresh
+Sea of Random	随机之海	streamingevent_sea_of_x
+A huge body of random liquid is summoned	召唤一大片随机液体	streamingeventdesc_sea_of_x
+Sea of Water	水之海	streamingevent_sea_of_water
+A huge body of water is summoned	召唤一大片的水	streamingeventdesc_sea_of_water
+Sea of Oil	油脂之海	streamingevent_sea_of_oil
+A huge body of oil is summoned	召唤一大片的油	streamingeventdesc_sea_of_oil
+Sea of Lava	岩浆之海	streamingevent_sea_of_lava
+A huge body of lava is summoned	召唤一大片的岩浆	streamingeventdesc_sea_of_lava
+Boom!	轰！	streamingevent_nuke
+Take cover!	快找掩体！	streamingeventdesc_nuke
+Summon Worm	召唤蠕虫	streamingevent_spawn_worm
+A huge worm appears	出现一条巨大的蠕虫	streamingeventdesc_spawn_worm
+Summon Stevari	召唤神明	streamingevent_spawn_shopkeeper
+Stevari appears	神明出现	streamingeventdesc_spawn_shopkeeper
+Bouncy Spells	弹跳法术	streamingevent_bouncy_shots
+Your projectiles become bouncy for a time	一段时间内，你的投射物可以弹跳	streamingeventdesc_bouncy_shots
+Boomerang Spells	回旋的法术	streamingevent_boomerang_shots
+Your projectiles home back to you for a time	一段时间内，你的投射物会飞回你自己	streamingeventdesc_boomerang_shots
+Fizzle Spells	闪灭法术	streamingevent_fizzle
+Your projectiles have a chance to fizzle out for a time	一段时间内，你的投射物一定几率闪灭	streamingeventdesc_fizzle
+Explosive Spells	易爆法术	streamingevent_explosive_projectile
+Your projectiles become explosive for a time	一段时间内，你的投射物变得易爆	streamingeventdesc_explosive_projectile
+Armed Creature	武装敌人	streamingevent_give_wand_to_enemy
+A nearby creature gets a random wand	附近的一个生物获得一支随机魔杖	streamingeventdesc_give_wand_to_enemy
+New Wand	新魔杖	streamingevent_give_wand_to_player
+A random wand appears	出现一支随机魔杖	streamingeventdesc_give_wand_to_player
+Remove Liquids	移除液体	streamingevent_remove_liquid
+All nearby liquids disappears	附近的所有液体消失	streamingeventdesc_remove_liquid
+Remove Ground	移除地面	streamingevent_remove_ground
+All nearby solid ground disappears	附近的所有坚实地面消失	streamingeventdesc_remove_ground
+Rage	暴怒	streamingevent_berserk
+Everyone becomes berserk	全体狂暴	streamingeventdesc_berserk
+Fireball Thrower	火球发射器	streamingevent_fireball_thrower_player
+You start spewing fireballs for a time	一段时间内，你开始喷吐火球	streamingeventdesc_fireball_thrower_player
+Fireball Thrower Creatures	火球发射器生物	streamingevent_fireball_thrower_enemies
+Creatures start spewing fireballs for a time	一段时间内，生物开始喷吐火球	streamingeventdesc_fireball_thrower_enemies
+Loot!	战利品！	streamingevent_spawn_chest
+A chest appears!	出现一个宝箱！	streamingeventdesc_spawn_chest
+Giga Sawblades Everywhere	到处都是巨型圆锯	streamingevent_transform_giga_discs
+For a time, all projectiles become giant sawblades(!)	一段时间内，所有投射物都变成巨大锯刃(!)	streamingeventdesc_transform_giga_discs
+Nukes Everywhere	到处都是核弹	streamingevent_transform_nukes
+All airborne projectiles become nukes(!!!)	所有飞行中投射物都变成核弹(!!!)	streamingeventdesc_transform_nukes
+Treasure Rain	财宝雨	streamingevent_rain_gold
+It's raining gold	天降黄金	streamingeventdesc_rain_gold
+Barrel Rain	爆桶之雨	streamingevent_rain_barrel
+Barrels and other explosives appear out of thin air	天降爆桶和其他爆炸物	streamingeventdesc_rain_barrel
+Hiisi Rain	席西之雨	streamingevent_rain_hiisi
+A bunch of Hiisi appear out of thin air	一堆席西凭空出现	streamingeventdesc_rain_hiisi
+Worm Rain	蠕虫之雨	streamingevent_rain_worm
+Worms appear out of thin air	蠕虫凭空出现	streamingeventdesc_rain_worm
+Potion Rain	魔药之雨	streamingevent_rain_potion
+Potions appear out of thin air	魔药凭空出现	streamingeventdesc_rain_potion
+Bomb Rain	炸弹之雨	streamingevent_rain_bomb
+Bombs appear out of thin air	炸弹凭空出现	streamingeventdesc_rain_bomb
+Personal Gravity Field	专属重力领域	streamingevent_gravity_player
+You attract projectiles for a while	一段时间内，你会吸引投射物	streamingeventdesc_gravity_player
+Creature Gravity Field	生物重力领域	streamingevent_gravity_enemies
+Creatures start attracting projectiles for a while	一段时间内，生物会吸引投射物	streamingeventdesc_gravity_enemies
+Portal to East	前往“东方”的传送门	streamingevent_portal_east
+A portal leading somewhere far away	通往遥远之处的传送门	streamingeventdesc_portal_east
+Portal to Surface	前往“地表”的传送门	streamingevent_portal_beginning
+A portal leading to the surface	通往地表的传送门	streamingeventdesc_portal_beginning
+Portal to Some Place	前往“某个地方”的传送门	streamingevent_portal_random
+A portal leading somewhere	通往某处的传送门	streamingeventdesc_portal_random
+Slow Creatures	缓慢生物	streamingevent_slow_enemies
+Creatures slow down	生物速度变慢	streamingeventdesc_slow_enemies
+Slowdown	缓慢	streamingevent_slow_player
+You slow down	你的速度变慢	streamingeventdesc_slow_player
+Water Trail	清水轨迹	streamingevent_trail_water
+Your projectiles leave a trail of water	你的投射物留下清水轨迹	streamingeventdesc_trail_water
+Oil Trail	油液轨迹	streamingevent_trail_oil
+Your projectiles leave a trail of oil	你的投射物留下油液轨迹	streamingeventdesc_trail_oil
+Acid Trail	酸液轨迹	streamingevent_trail_acid
+Your projectiles leave a trail of acid	你的投射物留下酸液轨迹	streamingeventdesc_trail_acid
+Fire Trail	火焰轨迹	streamingevent_trail_fire
+Your projectiles leave a trail of fire	你的投射物留下火焰轨迹	streamingeventdesc_trail_fire
+Lava Trail	岩浆轨迹	streamingevent_trail_lava
+Your projectiles leave a trail of lava	你的投射物留下岩浆轨迹	streamingeventdesc_trail_lava
+Poison Trail	毒素轨迹	streamingevent_trail_poison
+Your projectiles leave a trail of poison	你的投射物留下毒素轨迹	streamingeventdesc_trail_poison
+Gunpowder Trail	火药轨迹	streamingevent_trail_gunpowder
+Your projectiles leave a trail of gunpowder	你的投射物留下火药轨迹	streamingeventdesc_trail_gunpowder
+Alcohol Trail	酒精轨迹	streamingevent_trail_alcohol
+Your projectiles leave a trail of alcohol	你的投射物留下酒液轨迹	streamingeventdesc_trail_alcohol
+Trip	旅行	streamingevent_player_trip
+You trip out	你想去旅行	streamingeventdesc_player_trip
+Transmutation	转化	streamingevent_transmutation
+Nearby materials transmute into acid for some time	一段时间内，附近的材料转化为酸液	streamingeventdesc_transmutation
+Bullet Time	子弹时间	streamingevent_slow_bullets
+Projectiles slow down heavily	投射物速度变得很慢	streamingeventdesc_slow_bullets
+Projectile Gravity	投射物重力	streamingevent_gravity
+Your projectiles gain extra gravity	你的投射物获得额外的重力	streamingeventdesc_gravity
+Projectile Antigravity	投射物反重力	streamingevent_antigravity
+Your projectiles gain antigravity	你的投射物获得反重力	streamingeventdesc_antigravity
+The air feels extremely humid	空气极度潮湿	biomemodifierdesc_moist
+A mysterious darkness lingers in this place	神秘的黑暗笼罩在这里	biomemodifierdesc_fog_of_war_reappears
+The air smells ionized	空气像是被电离了	biomemodifierdesc_conductive
+The air feels freezing	空气寒冷刺骨	biomemodifierdesc_freezing
+The air feels dry and hot	空气又干又热	biomemodifierdesc_hot
+The air feels dry	空气很是干燥	biomemodifierdesc_dry
+The floors look bouncy	地面看起来富有弹性	biomemodifierdesc_bouncy
+You sense lucrative opportunities	你嗅到了一丝财宝的气息	biomemodifierdesc_gold_vein
+You sense extremely lucrative opportunities	你察觉到这里充满了珠光宝气	biomemodifierdesc_gold_vein_super
+Something is not right here	你感觉这里有些不太对劲	biomemodifierdesc_corrupted
+Where did all this water come from?	这些水是从哪里来的？	biomemodifierdesc_flooded
+There's a smell of gas in the air	空气中有股瓦斯的气味	biomemodifierdesc_gas_glooded
+The air smells toxic	这里弥漫着毒气	biomemodifierdesc_toxic
+The air smells vulcanic	空气中有股硫磺的气味	biomemodifierdesc_vulcanous
+A terrible chill runs down your spine	你感到不寒而栗，毛骨悚然...	biomemodifierdesc_haunted
+The air smells of rats	空气中有股老鼠的气味	biomemodifierdesc_rat_infested
+The air smells of worms	空气中有股蠕虫的气味	biomemodifierdesc_worm_infested
+There's a spirit of Ancient Art in the air	空气中充满古老艺术的灵气	biomemodifierdesc_alchemic
+You feel a sense of peace	你感觉心平气和	biomemodifierdesc_peaceful
+You feel there's a special route nearby	你察觉到附近有一条密道	biomemodifierdesc_portal_upwards
+You feel there's a special route nearby	你察觉到附近有一条密道	biomemodifierdesc_portal_downwards
+No wands	不使用魔杖	reward_nowands
+Almost a pacifist	几乎是个和平主义者	reward_almostpacifist
+Abstained from wand tinkering	不修改魔杖	reward_notinkeringofwands
+The Mighty Foot	强健大脚	reward_kicksonly
+You've played the daily. Try again tomorrow.	你今天已经玩过每日挑战模式了。明日再来吧。	gamemode_dailyrun_desc_played
+You already had your chance at the daily run. Try again tomorrow.	你已经用过每日挑战模式的机会了。明天再来试试吧。	gamemode_dailyrun_desc_played2
+You already had your chance. Try again tomorrow.	你的机会已经用过了。明天再来试试吧。	gamemode_dailyrun_desc_played3
+Revenge bullets	复仇子弹	perk_revenge_bullet
+Enemies that hurt you with projectiles have their projectiles shot back at them.	用投射物伤害你的敌人会受到投射物的回射。	perkdesc_revenge_bullet
+Your greed will haunt you wherever you go...	无论你的去往何地，你的贪婪将永远纠缠着你...	logdesk_curse_ghost
+Your greed sticks to you like tar...	你的贪婪纠缠着着你，如蛆附骨，如影随行...	logdesk_curse_permaoil
+Your greed weighs you down heavily...	你的贪婪让你疲惫...	logdesk_curse_nofly
+Your greed makes others dislike you...	你的贪婪让别人不喜欢你...	logdesk_curse_strongenemies
+Your greed makes you overly hasty...	你的贪婪让你过于草率...	logdesk_curse_keepmoving
+Curse of greed!	贪婪诅咒！	log_curse
+Seek refreshment to cure the curse.	寻找恢复以治愈诅咒。	log_curse_info
+You gain additional gold while the curse is active.	诅咒生效期间，你会获得额外的黄金。	log_curse_reward
+The air trembles!	空气在震动！	log_curse_secret
+Ancient alchemists sought to utilize even the power of a curse...	古代炼金术士甚至会利用诅咒的力量...	logdesc_curse_secret
+Maadoittajamestari	中和法师	animal_wizard_neutral
+Octuple spell	八重施法	action_burst_8
+Simultaneously cast 8 spells	同时施放 8 个法术	actiondesc_burst_8
+Broken spell	损坏的法术	action_broken_spell
+A malfunctioning spell	一个失灵的法术，需要修复才能使用	actiondesc_broken_spell
+Summon portal	召唤传送门	action_summon_portal
+Summons a strange portal	召唤一个奇特的传送门，只有将所有佛法加持于心中之人才能打开它	actiondesc_summon_portal
+Unstable portal	不稳传送门，施放位置不对	teleport_strange_unstable
+Stable portal	稳定传送门	teleport_strange_stable
+The spell is mended	法术得到了修复	log_repair_spell
+The wand is mended	魔杖得到了修复	log_repair_wand
+Please turn on Online features to play this mode.	请开启在线功能以游玩这个模式。	gamemode_dailyrun_desc_offline
+Connection failed.	连接失败。	gamemode_dailyrun_desc_connection_failed
+frog meat	蛙肉	mat_meat_frog
+Welcome to Noita 1.0!\nNoita used be an Early Access game, so we want to send a huge thank you to all of you\nwho played Noita during its first year. Your feedback has been invaluable!\nAnd to all the new Noita players... Welcome and best of luck!\n- Devs\n	欢迎游玩《Noita》1.0 版！\n《Noita》曾经是“抢先体验”游戏，我们想要向在推出的第一年间游玩《Noita》的各位表示真挚的谢意。\n你们的反馈弥足珍贵。\n而对于新加入的《Noita》玩家...欢迎你们，祝你们游玩中幸运常在！\n- 开发团队\n	menureleasenotes_noita10
+Truest of Knowledge	最真切的知识	item_mcguffin_14
+Was it worth it?	它值得吗？	itemdesc_mcguffin_14
+Angry ghost	愤怒幽灵	perk_angry_ghost
+An angry spirit comes to your aid, copying your spells.	一个愤怒的精魂来帮助你，复制你的法术。	perkdesc_angry_ghost
+Neutralized spells	无效化法术	effect_neutralized
+Projectile spells you cast short-circuit.	你施放的投射物法术会短路。	effectdesc_neutralized
+You were warned!	警告过你了！	log_all_spells
+One does not escape quite so easily!	没可能这么简单就逃脱的！	logdesc_all_spells
+Refreshing gourd	提神的葫芦	perk_gourd
+Just a nice gourd.	不过一个漂亮的葫芦。	perkdesc_gourd
+Gas fire	气体自燃	perk_gas_fire
+Gases near you ignite automatically.	你附近的气体会自动点燃。	perkdesc_gas_fire
+Projectile duplication	复制法术	perk_spell_duplication
+Your projectile spells have a chance to duplicate, but you're more vulnerable to projectile damage	你的投射物法术一定几率复制，但你更容易受到投射物伤害。	perkdesc_spell_duplication
+Faster wands	加强魔杖	perk_faster_wands
+All wands you're currently carrying gain a bonus to their cast delay & reload time.	目前持有的所有魔杖获得施放延迟和充能时间的加成。	perkdesc_faster_wands
+Uh oh!	哎呀妈呀！	log_surprise
+What did you do???	你到底做了什么？？？	logdesc_surprise
+Refreshing gourd	提神的葫芦	item_gourd
+Can be thrown to deal damage. Upon breaking, releases a refreshing aura.	可投掷以造成伤害。破裂时放出一个活力之环。	itemdesc_gourd
+You can configure the enabled events here after entering the game.\n(The game will remember the settings.)	可在进入游戏后于此配置启用的事件。\n（游戏会记忆设置。）	menu_streaming_eventliststartnewgame
+Type: $0	类型：$0	menu_streaming_eventkind
+Author: $0	作者：$0	menu_streaming_eventauthor
+Please enable at least four events\nvia the Streaming options menu!	请通过串流选项菜单\n启用至少四个事件！	streaming_integration_toofeweventsenabled
+Nothing	无	streamingevent_nothing
+Nothing happens.	什么都没有发生。	streamingeventdesc_nothing
+Improve wands	改进魔杖	streamingevent_improve_wands
+All wands in your vicinity get slightly better stats	你附近的所有魔杖数值略微提升	streamingeventdesc_improve_wands
+Weaken wands	削弱魔杖	streamingevent_weaken_wands
+All wands in your vicinity get slightly worse stats	你附近的所有魔杖数值略微降低	streamingeventdesc_weaken_wands
+weak brickwork	脆弱的砖块	mat_templebrick_weak
+unstable polymorphine	不稳变形魔药	mat_magic_liquid_unstable_polymorph
+unstable teleportatium	不稳传送魔药	mat_magic_liquid_unstable_teleportation
+unstable healthium	不稳再生魔药	mat_magic_liquid_unstable_hp_regeneration
+unstable berserkium	不稳狂暴魔药	mat_magic_liquid_unstable_berserk
+unstable pheromone	不稳魅惑魔药	mat_magic_liquid_unstable_charm
+unstable invisiblium	不稳隐形魔药	mat_magic_liquid_unstable_invisibility
+Linear arc	线性路径	action_line_arc
+Makes a projectile fly only in cardinal or diagonal lines	令投射物仅能以横竖和对角线飞行	actiondesc_line_arc
+Phasing	相位穿越	perk_orbit
+Projectiles seemingly phase through you.	投射物似乎会以相位形式穿越你。	perkdesc_orbit
+An angry spirit comes to your aid, copying nearby spells and projectiles.	一个愤怒的精魂来帮助你，复制附近的法术和投射物。	perkdesc_angry_ghost
+Curse of Greed	贪婪的诅咒	greed_curse_damage
+Kills to mana	化尸为魔	perk_mana_from_kills
+Every time an enemy near you dies, you release mana-recharging liquid.	每次你附近的敌人死亡时，你会释放出补充法力的液体。	perkdesc_mana_from_kills
+Summon S?dekivi	召唤光石	perk_mega_laser
+You will gain a curious artefact	你获得一件奇特的神器	perkdesc_mega_laser
+Food clock	食物时钟	perk_foodclock
+Being well nourished is good for you	吃得倍儿香，身体倍儿棒	perkdesc_foodclock
+You feel hungry	你觉得饿了	log_hungry
+You are starving	你饿扁了	log_starving
+Shower	淋浴	streamingevent_wet_player
+A raincloud spawns on you	你的头顶出现了一片乌云	streamingeventdesc_wet_player
+Glisten	油光华亮	streamingevent_oiled_player
+A cloud of oil spawns on you	你的头顶出现了一片油云	streamingeventdesc_oiled_player
+Infinite lifetime	无限存在时间	action_lifetime_infinite
+Makes a projectile last forever, but also makes it hurt you	令投射物一直存在，但同时也会令其能够伤害到你	actiondesc_lifetime_infinite
+Oil cloud	油云	action_cloud_oil
+Creates a rain of oil	产生一阵油液之雨	actiondesc_cloud_oil
+Hide vote counts during voting: $0	投票期间隐藏投票计数：$0	menu_streaming_hidevotecounts
+Position UI to the left side of the screen: $0	将 UI 置于画面左侧：$0	menu_streaming_uiposleft
+EXPERIMENTAL: UI might sometimes look funny	实验性：UI 的表现可能怪异	menu_streaming_uiposleft_hint
+The key listens...	钥匙聆听着...	log_alchemist_key_alt_first
+It's taking in the music.	它正在吸收音乐能量。	logdesc_alchemist_key_alt_first
+The key has taken in the full song	钥匙吸收了整首曲子	log_alchemist_key_alt_second
+It's ready.	它准备好了。	logdesc_alchemist_key_alt_second
+The chest opens!	宝箱开了！	log_alchemist_key_alt_reward
+But the key might have other stories to tell...	但是钥匙或许还有别的故事要讲...	logdesc_alchemist_key_alt_reward
+Ghost of Greed	贪婪幽灵	animal_greed_ghost
+Eternal Wealth	永恒财富	item_essence_greed
+You gain more gold but a curse will haunt you	你获得更多的黄金，但诅咒会纠缠着你	itemdesc_essence_greed
+You feel that the curse has disappeared	你感觉诅咒消失了	log_greed_curse_away
+But for how long?	但是，会持续多久呢？	logdesc_greed_curse_away
+Fool's gold	愚人的黄金	mat_templebrick_golden_static
+Hall of Wealth	财富殿堂	biome_greed_room
+The curse returns!	诅咒回来了！	log_greed_curse_back
+Cosmetic particle amount	装饰粒子数量	menuoptions_cosmeticparticlecoeff
+Particle amount will be reduced at this rate if there are lots of particles	如果存在许多粒子，粒子数量将以此数额进行削减	menuoptions_cosmeticparticlecoeff_hint
+Inventory hover box animations: $0	物品栏悬浮框动画：$0	menuoptions_ui_snappy_hover_boxes
+It smells like soil after rain	闻起来好像雨后泥土的气味	biomemodifierdesc_plant_infested
+You can hear the sounds of machinery	你能听到机械的声响	biomemodifierdesc_mechanical
+It feels cozy in here	这里让你感觉很舒适	biomemodifierdesc_furnished
+You feel wary	这里让你感到不安	biomemodifierdesc_booby_trapped
+It feels roomy in here	这里感觉很宽敞	biomemodifierdesc_perforated
+You can hear faint sounds of construction	你能听到微弱的建筑声响	biomemodifierdesc_tunneled
+You can hear Hiisi grunts from the distance	你能听到远处席西军团的咕哝声	biomemodifierdesc_hiisi_invasion
+You can hear someone clanging on metal pipes	你能听到有人敲击金属管道的声音	biomemodifierdesc_pipes
+The hair in the back of your neck stands up	你的后背发凉，汗毛直竖	biomemodifierdesc_spooky
+It feels like your head is spinning	你晕头转向	biomemodifierdesc_twisted
+You feel cheery	你感觉愉快	biomemodifierdesc_cheery
+It feels ominous in here	你有种不祥的预感	biomemodifierdesc_ominous
+Diamond brickwork	钻石砖块	mat_templebrick_diamond_static
+The chest opens again	宝箱又打开了	log_alchemist_chest_opened_alt
+It still remembers the song.	它还记得那支曲子。	logdesc_alchemist_chest_opened_alt
+S?hki?	雷霆头颅	animal_thunderskull
+Coral chest	珊瑚宝箱	item_chest_light
+S?dekivi	光石	item_mega_beam_stone
+This artefact has a picture of a celestial beam.	这件神器上有着光束从天而降的画面。	itemdesc_mega_beam_stone
+You feel like you should move...	你感觉是时候动身了...	log_beam_stone
+Something terrible is going to happen	可怕之事即将发生	logdesc_beam_stone
+plasma beam	电浆束	damage_plasmabeam
+The air feels hot	空气很是炎热	biomemodifierdesc_hot
+spider meat	蜘蛛肉	mat_meat_spider
+spider blood	蜘蛛血	mat_blood_spider
+frog blood	蛙血	mat_blood_frog
+HIGHLIGHTS:\nNew Daily Practice Run game mode.\nTwitch integration - let stream viewers make your game even more more chaotic.\nBiome modifiers - biomes are sometimes a bit different from the usual form.\nSome biomes have simulated temperature effects.\nLots of gameplay and UI tweaks and additions.\nVisual and audio enhancements.\nNew spells, perks, enemies, materials, secrets, sounds and more.\nOver 15 new music music tracks: Underground Jungle, Vault, Temple of the Art and more.\nPerformance optimizations and bug fixes.\nOptions menu overhaul.	重点内容：\n完全汉化mod现已同步更新！新增了怪物汉化\n全新每日练习游戏模式。\nTwitch 集成 - 令直播观众可将你的游戏变得更加混乱。\n生态系修饰 - 生态系有时与普通形式略有不同。\n部分生态具有模拟的温度效果。\n多种游戏玩法和 UI调整，追加多样内容。\n视觉和音频增强。\n全新法术、天赋、敌人、材料、秘密、声音等。\n超过 15 首全新曲目：《Underground Jungle》、《Vault》、《Temple of the Art》等。\n性能优化和错误修复。\n选项菜单完全制。	release_notes_10_highlights
+We HIGHLY recommend that you don't try to load pre-1.0 saves. Everything will be broken and the gods will most definitely be angry. 	我们强烈建议您不要尝试载入 1.0 版之前的存档。存档内容将会损坏，“神明”定会为此震怒。	continue_10_warning
+RELEASE NOTES	发行说明	release_notes_title
+Unknown	未知	menuoptions_configurecontrols_keyname_unknown
+Unbound	未绑定	menuoptions_configurecontrols_action_unbound
+Primary	主要	menuoptions_configurecontrols_binding_primary
+Secondary	次要	menuoptions_configurecontrols_binding_secondary
+Press something	按任意键	menuoptions_configurecontrols_pressakey
+Mouse left	鼠标左键	input_mouseleft
+Mouse right	鼠标右键	input_mouseright
+Mouse middle	鼠标中键	input_mousemiddle
+Mouse wheel up	鼠标滚轮向上	input_mousewheelup
+Mouse wheel down	鼠标滚轮向下	input_mousewheeldown
+Space	空格	input_space
+TAB	TAB	input_tab
+START	开始	input_xboxbutton_start
+SELECT	选择	input_xboxbutton_select
+[$0]	[$0]	format_keybinding
+Orb room	魔球之室	biome_orbroom
+$0's $1	$0的$1	menugameover_causeofdeath_killer_cause
+$0' $1	$0的$1	menugameover_causeofdeath_killer_cause_name_ends_in_s
+Cursed extra max health 	受诅咒的追加生命值上限	item_heart_cursed
+Seed: $0	种子：$0	log_worldseed
+Seed: $0	种子：$0	menupause_worldseed
+  Mode: $0	模式：$0	menupause_gamemode
+  Location: $0	地点：$0	menupause_location
+  Mods used: yes	使用模组：是	menupause_modsused
+RECORD!	纪录！	menugameover_record
+Time left: $0:$1.$0	剩余时间：$0:$1.$0	dailyrun_time_left_hoursminutesseconds
+$0 $1 $2	$0 $1 $2	dailyrun_dateformat_0day_1month_2year
+Jan	一月	month_0
+Feb	二月	Month_1
+Mar	三月	Month_2
+Apr	四月	Month_3
+May	五月	Month_4
+Jun	六月	Month_5
+Jul	七月	Month_6
+Aug	八月	Month_7
+Sep	九月	Month_8
+Oct	十月	Month_9
+Nov	十一月	Month_10
+Dec	十二月	Month_11
+AND	及	credits_and
+SOUND DESIGN, MUSIC LEAD AND MIXING	音效设计、音乐主管和混音	credits_sound
+MUSIC COMPOSED AND PERFORMED BY 	谱曲及演出	credits_musiccomposed
+MUSIC RECORDING, MIXING AND MASTERING\nPetri Majuri at E-studio	音乐录制、混音和把握\nPetri Majuri at E-studio	credits_musicrecording
+LOCALIZATION	本地化	credits_localization
+LOCALIZATION & QA	本地化与品控	credits_localization2
+MARKETING & PR	营销与推广	credits_marketingandpr
+MARKETING & PR CONSULTATION	营销与推广咨询	credits_marketingandpr2
+EXTERNAL MARKETING & PR	外部营销与推广	credits_marketingandpr3
+1.0 TRAILER EDITORS	1.0 宣传片编辑	credits_10trailers
+1.0 LAUNCH TRAILERS BY	1.0 发布宣传片制作	credits_10trailers2
+TESTING & ADDITIONAL WORK	测试与其他工作	credits_testingandadditionalwork
+TESTING	测试	credits_testing
+THANK YOU	谢谢你	credits_thankyou
+...And You!	...还有您！	credits_thankyou_andyou
+CRYPTIC HIGHSCORES	隐藏高分	credits_crypticscores
+Noita is powdered by the Falling Everything Engine\nNoita uses FMOD Studio by Firelight Technologies Pty Ltd	《Noita》由 Falling Everything Engine 提供技术支持\n《Noita》使用 Firelight Technologies Pty Ltd. 推出的 F模组 Studio 制作	credits_falling
+Please see licenses/Attributions.txt for Creative Commons attribution list.	请查看 licenses/Attributions.txt 了解知识共享属性列表。	credits_licenses
+$0.$1	$0.$1	format_timer
+Please turn on Online features to use this feature.	请开启在线功能以使用这个功能。	menustreaming_nsa
+Old save detected.	检测到旧存档。	menu_oldsave_verybroken0
+We HIGHLY recommend that you don't try to load pre 1.0 saves. Everything will be broken and the Gods will most definitely be angry. 	我们强烈建议您不要尝试载入 1.0 版之前的存档。存档内容将会损坏，“神明”定会为此震怒。	menu_oldsave_verybroken1
+Old save detected	检测到旧存档	menu_oldsave_verybroken2
+Kantele	齐特琴	item_kantele
+Huilu	陶笛	item_ocarina
+$0 	$0 	stat_prev_best
+Meteorisade	陨石雨	action_meteor_rain
+Alea iacta est	“Alea iacta est”（骰子已被掷下）	actiondesc_meteor_rain
+Matosade	蠕虫雨	action_worm_rain
+Alea iacta est	“Alea iacta est”（骰子已被掷下）	actiondesc_worm_rain
+Sauvojen tuntija	独眼	animal_boss_pit
+Wand	魔杖灵	animal_wand
+Dark wand	黑暗魔杖灵	animal_enlightened_laser_dark_wand
+Thunder wand	雷霆魔杖灵	animal_enlightened_laser_elec_wand
+Fire wand	火焰魔杖灵	animal_enlightened_laser_fire_wand
+Glowing wand	光明魔杖灵	animal_enlightened_laser_light_wand
+High Gravity	高重力	perk_high_gravity
+All creatures, you included, have higher personal gravity.	增强所有生物受到的重力，包括你自己。	perkdesc_high_gravity
+Summon Healing Ghosts	召唤治疗幽灵	streamingevent_heal_ghost
+You get a few healing ghost friends	你获得几个治疗幽灵朋友	streamingeventdesc_heal_ghost
+Excess Gas	放屁	streamingevent_player_gas
+Your body exudes flammable gas for a time	一段时间内，你的身体将散发出可燃气体	streamingeventdesc_player_gas
+Personal Contact Damage	个人伤害力场	streamingevent_areadamage_player
+You gain a contact damage -dealing field for a time	你得到一个伤害力场	streamingeventdesc_areadamage_player
+Enemy Contact Damage	敌人伤害力场	streamingevent_areadamage_enemy
+Enemies gain a contact damage -dealing field for a time	敌人得到一个伤害力场	streamingeventdesc_areadamage_enemy
+Twitchy!	抽风！	streamingevent_twitchy
+You have trouble controlling your wand for a time	一段时间内，你将难以控制你的魔杖	streamingeventdesc_twitchy
+Gain Random Perk	获得随机天赋	streamingevent_spawn_perk
+You're granted a random perk	你随机获得一个天赋	streamingeventdesc_spawn_perk
+Matter Eater	物质吞噬者	streamingevent_matter_eater
+S?tkymestari	致癫法师	animal_wizard_twitchy
+Twitchy	抽风	status_twitchy
+Your hand spasms randomly and your spells can hurt you!	你的手时不时抽搐！同时你的法术能伤害你自己了！	statusdesc_twitchy
+Wobbly meat	摇晃的肉	mat_meat_fast
+Cast delay: $0 s	施放延迟：$0 秒	hud_wand_castdelay
+Offline Daily Run\nThe seed is different from the Online Daily Run.\nBut you can play this seed as many times as you like\nwithin the 24 hours.\n	“离线每日挑战\n种子与在线每日挑战模式不同。\n但你可以在24小时内任意游玩此种子。\n	gamemode_dailyrun_desc_offline_mode
+You feel an invisible force pushing and pulling you	你感到一股无形的力量在拉扯着你	biomemodifierdesc_gravity_fields
+The air is filled with fungal spores	空气中充斥着真菌孢子	biomemodifierdesc_fungal
+heavy impact	物理重击	damage_physicshit
+Steam Cloud: $0	Steam云存档（国内玩家建议关闭）: $0	menuoptions_steamcloud
+Enable all	全部启用	menuoptions_enableall
+Disable all	全部禁用	menuoptions_disableall
+Creatures can be named after viewers: $0	生物可以以观众的名字命名: $0	menu_streaming_usernames_visible
+This mod has been built with a newer version of the modding interface.\nA newer version of the game might be required.	这个叹号不用管，基本没影响！\n（只是表明该mod在beta版本下发布的）	menu_mods_modversion_newer
+Mod settings	模组设置	menu_mods_settings
+Changes will be applied when you restart the game.	改动将会在重新启用游戏时启用。	menu_modsettings_changes_restart
+Changes will be applied when you start a new game.	改动将会在开始新游戏时启用。	menu_modsettings_changes_worldgen
+Enabled mods have no settings.	已启用的模组没有设置项。	menu_mods_nosettings
+This place feels exceptionally secure	这地方让人感觉特别安全	biomemodifierdesc_shielded
+Greed-cursed rock	贪婪诅咒岩石	mat_rock_static_cursed_green
+Greed-cursed liquid	贪婪诅咒液体	mat_cursed_liquid
+Hohtonaamio	鬼魅面具	animal_statue_physics
+Projectiles Into Nukes	核弹置换术	streamingevent_transform_nukes
+The curse relents.	诅咒减弱了	log_greed_curse_away_full
+You gain 3x gold, but are terribly cursed!	你之后获得的黄金x3，但你受到了可怕的诅咒。	logdesc_greed_curse
+Greed-cursed crystal	贪婪诅咒水晶	item_greed_crystal
+The gods are confused	神明感到困惑	log_moon_altar_extra
+What is that?!	这是啥呀？？？	logdesc_moon_altar_extra
+The key remembers a song.	钥匙记住了一首曲子	itemdesc_alchemy_key_musicbox_1
+The key remembers two songs.	钥匙记住了两首曲子	itemdesc_alchemy_key_musicbox_2
+The key remembers three songs.	钥匙记住了三首曲子	itemdesc_alchemy_key_musicbox_3
+The key is ready.	钥匙已经准备好了	itemdesc_alchemy_key_musicbox_4
+Exploding Gold	爆炸黄金	perk_exploding_gold
+Nuggets of gold explode once they expire or are picked up.	金块在消失或被拾取时会爆炸。	perkdesc_exploding_gold
+Quantum Split	量子纠缠	action_quantum_split
+Makes a projectile split into three projectiles whose existences are entangled	令投射物拆分为三个相互纠缠的子投射物	actiondesc_quantum_split
+A portal appears!	一个传送门显现了！	log_fasttravel
+This could be useful...	这也许会有用......	logdesc_fasttravel
+Faster Projectiles	加速法术	perk_fast_projectiles
+Your projectile spells fly faster than before.	你的投射物法术飞的比以前更快了。	perkdesc_fast_projectiles
+Chain Spell	连锁射击	action_chain_shot
+Causes a projectile to cast a copy of itself upon expiring, up to 5 times	令一个投射物在它失效时复制自身，最多3次	actiondesc_chain_shot
+Small Teleport Bolt	小传送弹	action_teleport_projectile_short
+A shortlived magical bolt that moves you wherever it ends up flying	一个短时效魔弹，会传送你到它飞行结束的地方	actiondesc_teleport_projectile_short
+Remove Worm & Lukki Digging	移除虫洞	perk_worm_smaller_holes
+Worms and lukkis no longer destroy ground while burrowing.	蠕虫钻地时不再挖空通道。	perkdesc_worm_smaller_holes
+More Worm Digging	更大虫洞	perk_worm_bigger_holes
+Worms now dig a larger area around them.	蠕虫钻地时会挖出更大的通道。	perkdesc_worm_bigger_holes
+Homunculus	霍尔蒙克斯	animal_homunculus
+Summon Random Homunculi	生成随机人造人	streamingevent_homunculus
+A group of helpful little homunculi appears to aid you	生成一群小人造人来帮你	streamingeventdesc_homunculus
+Summon Digging Homunculus	生成挖掘人造人	streamingevent_homunculus_dark
+A helpful little homunculus comes to your aid	生成一个小人造人来帮你	streamingeventdesc_homunculus_dark
+Summon Fiery Homunculus	生成燃烧人造人	streamingevent_homunculus_fire
+A helpful little homunculus comes to your aid	生成一个小人造人来帮你	streamingeventdesc_homunculus_fire
+Summon Healer Homunculus	生成治疗人造人	streamingevent_homunculus_heal
+A helpful little homunculus comes to your aid	生成一个小人造人来帮你	streamingeventdesc_homunculus_heal
+Summon Glowing Homunculus	生成发光人造人	streamingevent_homunculus_laser
+A helpful little homunculus comes to your aid	生成一个小人造人来帮你	streamingeventdesc_homunculus_laser
+Summon Puncher Homunculus	生成近战人造人	streamingevent_homunculus_punch
+A helpful little homunculus comes to your aid	生成一个小人造人来帮你	streamingeventdesc_homunculus_punch
+Casts the next spell twice, but with reduced damage	下个法术施放两次，但伤害降低	actiondesc_divide_2
+Casts the next spell 3 times, but with reduced damage	下个法术施放三次，但伤害降低	actiondesc_divide_3
+Casts the next spell 4 times, but with reduced damage	下个法术施放四次，但伤害降低	actiondesc_divide_4
+Casts the next spell 10 times, but with reduced damage	下个法术施放十次，但伤害降低	actiondesc_divide_10
+Mu	缪	action_mu
+Every modifier-type spell in the current wand is applied to a projectile	当前魔杖的每一个投射修正法术都会作用到下一个投射物上	actiondesc_mu
+Wand Refresh	魔杖刷新	action_reset
+Reloads the wand immediately	立即使魔杖充能完毕	actiondesc_reset
+Extra Wand Capacity (One-off)	扩容魔杖（一次性）	perk_extra_slots
+The wands you're currently carrying gain 1-3 additional spell slots (to a maximum of 25).	你当前所携带的所有魔杖获得1~3个额外法术槽（至最多25）。	perkdesc_extra_slots
+Teleportitis Dodge	传送闪避	perk_teleportitis_dodge
+You teleport a short distance away when an enemy projectile is near.	当附近有敌方投射物时，你会被短距离传送。	perkdesc_teleportitis_dodge
+High Mana, Low Capacity (One-off)	高魔低容（一次性）	perk_extra_mana
+Your currently held wand loses half its capacity, but gains more mana.	你当前持有的魔杖会失去一半容量，但会获得更多法力值。	perkdesc_extra_mana
+Homunculus	人造生命	perk_homunculus
+Every time you leave a Holy Mountain, a helpful homunculus is summoned.	每次你离开圣山时，召唤一个会帮助你的霍尔蒙克斯。	perkdesc_homunculus
+Larpa Explosion	爆炸拉帕	action_larpa_death
+A projectile will shoot out 8 copies of itself when it expires or hits the ground	投射物消失或击中时会自动发射出8个复制品	actiondesc_larpa_death
+Larpa Bounce	弹跳拉帕	action_bounce_larpa
+A projectile will launch a copy of itself when it bounces	投射物弹跳时会发射自身的复制品	actiondesc_bounce_larpa
+A homunculus is summoned!	一个霍尔蒙克斯被召唤出来了！	log_homunculus
+Dying enemies release rats to serve your bidding! All rats become your friend.	死亡的敌人释放听从你吩咐的老鼠！所有的生物都认为你是老鼠。	perkdesc_plague_rats
+Haavoittajamestari	穿心法师	animal_wizard_hearty
+Heartache	心绞痛	status_hearty
+Your maximum health is temporarily halved.	你的最大生命值暂时减半	statusdesc_hearty
+Kammi	卡米小屋	item_safe_haven
+Can be thrown to summon a cozy hut	投掷它可以召唤一个温馨的小屋	item_description_safe_haven
+Kakkakikkare	便石	item_kakka
+This mysterious spiral-shaped artefact smells horrible and feels warm to the touch	这个神秘的螺旋形人工制品闻起来臭烘烘的，但摸起来却很温暖	itemdesc_kakka
+Feces	便便	mat_feces
+Smelly vapour	臭气	mat_gas_smelly
+Instantly decimates foes around you, at the cost of your HP	以你的生命值为代价，立即消灭周围的敌人	actiondesc_destruction
+Faster Wands (One-off)	加强魔杖（一次性）	perk_faster_wands
+Always Cast (One-off)	始终施放（一次性）	perk_always_cast
+A random Always Cast spell is added to the wand in your hand, up to a maximum of 4.	你手中的魔杖追加一个随机的始终施放法术，每支魔杖最多4个。	perkdesc_always_cast
+Peat	泥炭	mat_peat
+Turvalennokki	护盾无人机	animal_drone_shield
+You bleed slime, but slime no longer slows you down and you have higher projectile resistance.	你受伤时会流出黏液，但黏液不再减缓你的速度，同时你获得更高的投射物抗性。	perkdesc_bleed_slime
+You bleed flammable oil, but you have higher explosive resistance.	你受伤时会流出易燃的油，但你获得更高的爆炸抗性。	perkdesc_bleed_oil
+Turvattomuusmestari	破防法师	animal_wizard_weaken
+Kuihduttajamestari	易伤法师	animal_wizard_wither
+Vulnerable	虚弱	status_weaken
+Your protective perks are temporarily disabled.	你的防护性天赋暂时失效。	statusdesc_weaken
+Fruit flesh	果肉	mat_meat_fruit
+Wizards' den	法师巢穴	biome_wizardcave
+Zeta	泽塔	action_zeta
+Copies a random spell in another wand you're holding	随机复制一个来自你持有的其他魔杖的法术	actiondesc_zeta
+Extra Health (One-off)	追加生命值（一次性）	perk_extra_hp
+Pinpointer	激光瞄具	perk_laser_aim
+Your wand arm emits a beam to help with aiming!	你的魔杖加装了激光瞄准装置！	perkdesc_laser_aim
+Vasta	桑拿拂尘	item_vasta
+Vihta	桦木拂尘	item_vihta
+Ball Lightning	球状闪电	action_ball_lightning
+Summons three short range electrical orbs	召唤三个短程带电球体	actiondesc_ball_lightning
+Low Recoil	低后坐力	perk_low_recoil
+Recoil caused by your spells is greatly reduced, but your spells fly slightly slower.	你的法术造成的后坐力大大降低，但飞行速度略微减缓。	perkdesc_low_recoil
+Projectile Repulsion Sector	部分斥力场	perk_projectile_repulsion_sector
+Projectiles that fly into a small sector in front of you get blown away.	进入你前方一小块扇形区域的投射物将被吹飞。	perkdesc_projectile_repulsion_sector
+Projectile Eater	子弹吞噬者	perk_projectile_eater_sector
+Projectiles that fly into a small sector behind of you disappear.	进入你身后的一小块区域的投射物会消失。	perkdesc_projectile_eater_sector
+Withered	脆弱	status_wither
+You're temporarily more vulnerable to all damage types.	你受到的伤害暂时提升。	statusdesc_wither
+Projectile Slower	子弹减速领域	perk_projectile_slow_field
+Projectiles near you slow down.	你附近的投射物速度降低。	perkdesc_projectile_slow_field
+Nolla	归零	action_nolla
+The duration of a projectile is set to zero	将投射物的持续时间置零	actiondesc_nolla
+Wand of Swiftness	极速之杖	item_wand_good_1
+Wand of Destruction	毁灭之杖	item_wand_good_2
+Wand of Multitudes	多重之杖	item_wand_good_3
+You bleed flammable oil, but are immune to fire.	你受伤时会流出易燃的油，但火焰不再会对你造成伤害。	perkdesc_bleed_oil
+You release a magical explosion upon taking damage, and gain 25% resistance against explosions.	受到伤害时，你放出魔法爆炸，并且你获得25%的爆炸抗性。	perkdesc_revenge_explosion
+You summon a monstrous tentacle upon taking damage, and gain 25% resistance against projectiles.	受到伤害时，你召唤一条可怖的触手，并且你获得25%的投射物抗性。	perkdesc_revenge_tentacle
+You return projectiles back to enemies upon taking damage, and gain 20% resistance against projectiles & explosions.	受到伤害时，你使用对你造成伤害的投射物反击敌人，并且你获得20%的投射物和爆炸抗性。	perkdesc_revenge_projectile
+Almost all your spells bounce around and last longer.	你的几乎所有法术都能够弹跳，并且持续时间更长。	perkdesc_bounce
+All creatures, you included, have lower personal gravity.	降低所有生物受到的重力，包括你自己。	perkdesc_low_gravity
+Too many always cast spells!	始终施放的法术太多了！	log_always_cast_failed
+This wand is already overloaded...	这支魔杖已经过载了...	logdesc_always_cast_failed
+You become invincible for some time	一段时间内，你不会受到伤害	streamingeventdesc_protect_player
+Your spells arc towards you, but gain extra speed and deal extra damage.	你的法术将飞回你身边，同时获得额外的速度、伤害加成。	perkdesc_projectile_homing_shooter
+$0 - $1	$0 - $1	log_perk_fulltitle
+Add mana	注入法力	action_mana_reduce
+Adds 30 mana to the wand	向魔杖注入30 法力	actiondesc_mana_reduce
+Toxic Immunity	毒性免疫	perk_protection_radioactivity
+You take no damage from toxic sludge and other toxic things.	毒性淤泥、毒性岩石和毒性气体均不会对你造成伤害。	perkdesc_protection_radioactivity
+Monstrous powder	异形粉末	mat_monster_powder_test
+You lose 25% maximum health, but can replenish health by drinking blood. Blood doesn't affect satiation level.	饮用血液可恢复生命，但会失去25%最大生命值。吸血不会影响饱食度。	perkdesc_vampirism
+Accelerative Homing	加速跟踪	action_homing_accelerating
+A projectile homes towards enemies at an increasing pace	使投射物朝向敌人逐渐加速	actiondesc_homing_accelerating
+Homebringer Teleport Bolt	传送抓取魔弹	action_teleport_closer
+Brings the target hit closer to you	将被击中的目标带到你身边	actiondesc_teleport_closer
+Fanning Shot	扇形轨迹	action_fanning_shot
+Launches multiple projectiles in a fan-like pattern	以扇形发射多个弹丸	actiondesc_fanning_shot
+Spell Fan	魔法扇	action_projectile_fan
+Pushes projectiles away from you	将弹丸吹飞	actiondesc_projectile_fan
+Spells to Power	法术增幅	action_spells_to_power
+Converts any nearby projectiles cast by you into extra damage	令投射物将附近你投掷的其他投射物转化为额外伤害	actiondesc_spells_to_power
+Essence to Power	精华增幅	action_enemies_to_power
+Increases a projectile's damage based on the number of creatures nearby	根据附近生物的数量增加投射物的伤害	actiondesc_enemies_to_power
+Magical Explosion	魔法爆炸	action_explosion_light
+A large explosion that doesn't damage the ground	不会破坏地面的大爆炸	actiondesc_explosion_light
+Phi	斐	action_phi
+Casts a copy of every projectile-type spell in the current wand	施放一个当前杖内所有投射物的复制品	actiondesc_phi
+Myriad Spell	穷尽施法	action_burst_x
+Simultaneously casts as many spells as you have left uncast in your wand	一口气施放所有魔杖中剩余的法术	actiondesc_burst_x
+Summon Worm	召唤蠕虫	action_worm_launcher
+Grabs a worm from a nether realm at high velocity for a short time	在很短时间内从地下区域高速捕获蠕虫	actiondesc_worm_launcher
+Spiral Arc	螺旋路径	action_spiraling_shot
+A projectile flies in a spiralling pattern	令投射物以螺旋状飞行	actiondesc_spiraling_shot
+Orbiting Arc	环绕路径	action_orbit_shot
+A projectile orbits the point of its origin	令投射物绕其起点旋转	actiondesc_orbit_shot
+Create potion	炼制魔药	action_form_potion
+A small vortex sucks material and forms a small potion filled with it	形成一个会吸取物质的小漩涡并从中炼出魔药	actiondesc_form_potion
+Summon Omega Sawblade	终极锯片	action_omega_disc_bullet
+That's a lot of sawblade	这锯片也太离谱了	actiondesc_omega_disc_bullet
+Summon Wall	召唤墙	action_temporary_wall
+Summons a shortlived obstacle	召唤一个短暂的障碍	actiondesc_temporary_wall
+Summon Platform	召唤平台	action_temporary_platform
+Summons a shortlived bit of ground	召唤一小块地面	actiondesc_temporary_platform
+Summon Missile	召唤导弹	action_summon_missile
+Summons a homing, explosive rocket	召唤一个会制导的爆炸火箭弹	actiondesc_summon_missile
+Limatoukka	小小蛆	animal_maggot_tiny
+Mestarien mestari	大法师	animal_boss_wizard
+Raukka	胆小鬼	animal_coward
+Suur-Ukko	雷魔	animal_thundermage_big
+Ukkoskoira	雷霆犬	animal_thunderhound
+Kolmisilm?n silm?	三眼之瞳	animal_boss_robot
+Taivaankatse	天空凝视	animal_skygazer
+Kolmisilm?n k?tyri	三眼之手	animal_gazer_big
+Pahan muisto	黑暗炼金术士	animal_dark_alchemist
+Plasma beam	镭射	action_laser_emitter
+An instantaneous, dangerous beam of light	瞬时的危险激光束	actiondesc_laser_emitter
+Plasma show	镭射发散	action_laser_emitter_thrower
+A projectile fires beams of light in random directions	让投射物附着一个向四周发散激光束的发射器	actiondesc_laser_emitter_thrower
+Plasma beam X	X形镭射	action_laser_cross
+Plasma beams fly in an X-shaped pattern	激光束以X形状行进	actiondesc_laser_cross
+Personal Plasma Beam	镭射眼	perk_personal_laser
+You constantly fire a devastating plasma beam, but you fire spells much slower	你的眼睛会发射一道毁灭性的激光束，但你的法术速度会大幅降低	perkdesc_personal_laser
+Odd brickwork	奇异砖墙	mat_wizardstone
+Drapes	帘幕	mat_drape
+Dark rock	黑暗岩石	mat_darkstone
+Moon Radar	月亮雷达	perk_moon_radar
+Points you towards the moon...?	给你指引通往月球的道路...?	perkdesc_moon_radar
+The curse has gone away.	诅咒消失了	logdesc_greed_curse_away2
+The crystal breaks!	诅咒水晶被打碎了	log_greed_curse_crystal2
+The curse is active once again!	诅咒再次缠上了你	logdesc_greed_curse_crystal2
+Mod settings	模组设置	menu_mods_settings_short
